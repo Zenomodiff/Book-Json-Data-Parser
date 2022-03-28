@@ -1,0 +1,178 @@
+[
+  {
+    "Book_name": "Head First C#",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210180129/head-first-c/andrew-stellman/",
+    "Price": "US$55.99",
+    "Image": "https://image.ebooks.com/previews/210/210180/210180129/210180129-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2020",
+    "Author": "Andrew Stellman",
+    "Author_Data": "https://www.ebooks.com/en-in/author/andrew-stellman/182816/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Head First C#",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210180129/head-first-c/andrew-stellman/",
+    "Price": "US$55.99",
+    "Image": "https://image.ebooks.com/previews/210/210180/210180129/210180129-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2020",
+    "Author": "Jennifer Greene",
+    "Author_Data": "https://www.ebooks.com/en-in/author/jennifer-greene/67758/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "The Black Tides of Heaven",
+    "Book_Link": "https://www.ebooks.com/en-in/book/95638067/the-black-tides-of-heaven/neon-yang/",
+    "Price": "US$2.79",
+    "Image": "https://image.ebooks.com/previews/095/095638/095638067/095638067-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2017",
+    "Author": "Neon Yang",
+    "Author_Data": "https://www.ebooks.com/en-in/author/neon-yang/208457434/",
+    "Publisher": "Tom Doherty Associates"
+  },
+  {
+    "Book_name": "The Black God's Drums",
+    "Book_Link": "https://www.ebooks.com/en-in/book/95940633/the-black-god-s-drums/p-dj-l-clark/",
+    "Price": "US$3.19",
+    "Image": "https://image.ebooks.com/previews/095/095940/095940633/095940633-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2018",
+    "Author": "P. Dj\u00e8l\u00ed Clark",
+    "Author_Data": "https://www.ebooks.com/en-in/author/p.-dj\u00e8l\u00ed-clark/94245448/",
+    "Publisher": "Tom Doherty Associates"
+  },
+  {
+    "Book_name": "Practical Statistics for Data Scientists",
+    "Book_Link": "https://www.ebooks.com/en-in/book/209997783/practical-statistics-for-data-scientists/peter-bruce/",
+    "Price": "US$59.99",
+    "Image": "https://image.ebooks.com/previews/209/209997/209997783/209997783-sml-1.jpg",
+    "Subtitle": "50+ Essential Concepts Using R and Python",
+    "Publication_Year": "2020",
+    "Author": "Peter Bruce",
+    "Author_Data": "https://www.ebooks.com/en-in/author/peter-bruce/517240/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Practical Statistics for Data Scientists",
+    "Book_Link": "https://www.ebooks.com/en-in/book/209997783/practical-statistics-for-data-scientists/peter-bruce/",
+    "Price": "US$59.99",
+    "Image": "https://image.ebooks.com/previews/209/209997/209997783/209997783-sml-1.jpg",
+    "Subtitle": "50+ Essential Concepts Using R and Python",
+    "Publication_Year": "2020",
+    "Author": "Andrew Bruce",
+    "Author_Data": "https://www.ebooks.com/en-in/author/andrew-bruce/484795/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "User Story Mapping",
+    "Book_Link": "https://www.ebooks.com/en-in/book/1781254/user-story-mapping/jeff-patton/",
+    "Price": "US$33.99",
+    "Image": "https://image.ebooks.com/previews/001/001781/001781254/001781254-sml-1.jpg",
+    "Subtitle": "Discover the Whole Story, Build the Right Product",
+    "Publication_Year": "2014",
+    "Author": "Jeff Patton",
+    "Author_Data": "https://www.ebooks.com/en-in/author/jeff-patton/815839/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "User Story Mapping",
+    "Book_Link": "https://www.ebooks.com/en-in/book/1781254/user-story-mapping/jeff-patton/",
+    "Price": "US$33.99",
+    "Image": "https://image.ebooks.com/previews/001/001781/001781254/001781254-sml-1.jpg",
+    "Subtitle": "Discover the Whole Story, Build the Right Product",
+    "Publication_Year": "2014",
+    "Author": "Peter Economy",
+    "Author_Data": "https://www.ebooks.com/en-in/author/peter-economy/2433/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "The Software Architect Elevator",
+    "Book_Link": "https://www.ebooks.com/en-in/book/209997033/the-software-architect-elevator/gregor-hohpe/",
+    "Price": "US$50.99",
+    "Image": "https://image.ebooks.com/previews/209/209997/209997033/209997033-sml-1.jpg",
+    "Subtitle": "Redefining the Architect's Role in the Digital Enterprise",
+    "Publication_Year": "2020",
+    "Author": "Gregor Hohpe",
+    "Author_Data": "https://www.ebooks.com/en-in/author/gregor-hohpe/87758/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Every Heart a Doorway",
+    "Book_Link": "https://www.ebooks.com/en-in/book/2049191/every-heart-a-doorway/seanan-mcguire/",
+    "Price": "US$7.19",
+    "Image": "https://image.ebooks.com/previews/002/002049/002049191/002049191-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2016",
+    "Author": "Seanan McGuire",
+    "Author_Data": "https://www.ebooks.com/en-in/author/seanan-mcguire/186802/",
+    "Publisher": "Tom Doherty Associates"
+  },
+  {
+    "Book_name": "Data Science for Business",
+    "Book_Link": "https://www.ebooks.com/en-in/book/1323973/data-science-for-business/foster-provost/",
+    "Price": "US$42.99",
+    "Image": "https://image.ebooks.com/previews/001/001323/001323973/001323973-sml-1.jpg",
+    "Subtitle": "What You Need to Know about Data Mining and Data-Analytic Thinking",
+    "Publication_Year": "2013",
+    "Author": "Foster Provost",
+    "Author_Data": "https://www.ebooks.com/en-in/author/foster-provost/618167/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Data Science for Business",
+    "Book_Link": "https://www.ebooks.com/en-in/book/1323973/data-science-for-business/foster-provost/",
+    "Price": "US$42.99",
+    "Image": "https://image.ebooks.com/previews/001/001323/001323973/001323973-sml-1.jpg",
+    "Subtitle": "What You Need to Know about Data Mining and Data-Analytic Thinking",
+    "Publication_Year": "2013",
+    "Author": "Tom Fawcett",
+    "Author_Data": "https://www.ebooks.com/en-in/author/tom-fawcett/680915/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Software Architecture: The Hard Parts",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210380834/software-architecture-the-hard-parts/neal-ford/",
+    "Price": "US$59.99",
+    "Image": "https://image.ebooks.com/previews/210/210380/210380834/210380834-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2021",
+    "Author": "Neal Ford",
+    "Author_Data": "https://www.ebooks.com/en-in/author/neal-ford/182946/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Software Architecture: The Hard Parts",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210380834/software-architecture-the-hard-parts/neal-ford/",
+    "Price": "US$59.99",
+    "Image": "https://image.ebooks.com/previews/210/210380/210380834/210380834-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2021",
+    "Author": "Mark Richards",
+    "Author_Data": "https://www.ebooks.com/en-in/author/mark-richards/183013/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Machine Learning Design Patterns",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210140374/machine-learning-design-patterns/valliappa-lakshmanan/",
+    "Price": "US$50.99",
+    "Image": "https://image.ebooks.com/previews/210/210140/210140374/210140374-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2020",
+    "Author": "Valliappa Lakshmanan",
+    "Author_Data": "https://www.ebooks.com/en-in/author/valliappa-lakshmanan/474659/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Machine Learning Design Patterns",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210140374/machine-learning-design-patterns/valliappa-lakshmanan/",
+    "Price": "US$50.99",
+    "Image": "https://image.ebooks.com/previews/210/210140/210140374/210140374-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2020",
+    "Author": "Sara Robinson",
+    "Author_Data": "https://www.ebooks.com/en-in/author/sara-robinson/94198524/",
+    "Publisher": "O'Reilly Media"
+  }
+]
