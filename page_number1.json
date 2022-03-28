@@ -1,0 +1,123 @@
+[
+  {
+    "Book_name": "Designing Data-Intensive Applications",
+    "Book_Link": "https://www.ebooks.com/en-in/book/95729334/designing-data-intensive-applications/martin-kleppmann/",
+    "Price": "US$50.99",
+    "Image": "https://image.ebooks.com/previews/095/095729/095729334/095729334-sml-1.jpg",
+    "Subtitle": "The Big Ideas Behind Reliable, Scalable, and Maintainable Systems",
+    "Publication_Year": "2017",
+    "Author": "Martin Kleppmann",
+    "Author_Data": "https://www.ebooks.com/en-in/author/martin-kleppmann/1321307/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Network Effect",
+    "Book_Link": "https://www.ebooks.com/en-in/book/209770329/network-effect/martha-wells/",
+    "Price": "US$7.19",
+    "Image": "https://image.ebooks.com/previews/209/209770/209770329/209770329-sml-1.jpg",
+    "Subtitle": "A Murderbot Novel",
+    "Publication_Year": "2020",
+    "Author": "Martha Wells",
+    "Author_Data": "https://www.ebooks.com/en-in/author/martha-wells/65663/",
+    "Publisher": "Tom Doherty Associates"
+  },
+  {
+    "Book_name": "All Systems Red",
+    "Book_Link": "https://www.ebooks.com/en-in/book/95651192/all-systems-red/martha-wells/",
+    "Price": "US$1.99",
+    "Image": "https://image.ebooks.com/previews/095/095651/095651192/095651192-sml-1.jpg",
+    "Subtitle": "The Murderbot Diaries",
+    "Publication_Year": "2017",
+    "Author": "Martha Wells",
+    "Author_Data": "https://www.ebooks.com/en-in/author/martha-wells/65663/",
+    "Publisher": "Tom Doherty Associates"
+  },
+  {
+    "Book_name": "Effective TypeScript",
+    "Book_Link": "https://www.ebooks.com/en-in/book/209820951/effective-typescript/dan-vanderkam/",
+    "Price": "US$33.99",
+    "Image": "https://image.ebooks.com/previews/209/209820/209820951/209820951-sml-1.jpg",
+    "Subtitle": "62 Specific Ways to Improve Your TypeScript",
+    "Publication_Year": "2019",
+    "Author": "Dan Vanderkam",
+    "Author_Data": "https://www.ebooks.com/en-in/author/dan-vanderkam/208299957/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Python for Data Analysis",
+    "Book_Link": "https://www.ebooks.com/en-in/book/95871448/python-for-data-analysis/wes-mckinney/",
+    "Price": "US$50.99",
+    "Image": "https://image.ebooks.com/previews/095/095871/095871448/095871448-sml-1.jpg",
+    "Subtitle": "Data Wrangling with Pandas, NumPy, and IPython",
+    "Publication_Year": "2017",
+    "Author": "Wes McKinney",
+    "Author_Data": "https://www.ebooks.com/en-in/author/wes-mckinney/513179/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Fugitive Telemetry",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210017437/fugitive-telemetry/martha-wells/",
+    "Price": "US$7.99",
+    "Image": "https://image.ebooks.com/previews/210/210017/210017437/210017437-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2021",
+    "Author": "Martha Wells",
+    "Author_Data": "https://www.ebooks.com/en-in/author/martha-wells/65663/",
+    "Publisher": "Tom Doherty Associates"
+  },
+  {
+    "Book_name": "JavaScript: The Definitive Guide",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210022717/javascript-the-definitive-guide/david-flanagan/",
+    "Price": "US$59.99",
+    "Image": "https://image.ebooks.com/previews/210/210022/210022717/210022717-sml-1.jpg",
+    "Subtitle": "Master the World's Most-Used Programming Language",
+    "Publication_Year": "2020",
+    "Author": "David Flanagan",
+    "Author_Data": "https://www.ebooks.com/en-in/author/david-flanagan/182846/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Fundamentals of Software Architecture",
+    "Book_Link": "https://www.ebooks.com/en-in/book/209933784/fundamentals-of-software-architecture/mark-richards/",
+    "Price": "US$59.99",
+    "Image": "https://image.ebooks.com/previews/209/209933/209933784/209933784-sml-1.jpg",
+    "Subtitle": "An Engineering Approach",
+    "Publication_Year": "2020",
+    "Author": "Mark Richards",
+    "Author_Data": "https://www.ebooks.com/en-in/author/mark-richards/183013/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Fundamentals of Software Architecture",
+    "Book_Link": "https://www.ebooks.com/en-in/book/209933784/fundamentals-of-software-architecture/mark-richards/",
+    "Price": "US$59.99",
+    "Image": "https://image.ebooks.com/previews/209/209933/209933784/209933784-sml-1.jpg",
+    "Subtitle": "An Engineering Approach",
+    "Publication_Year": "2020",
+    "Author": "Neal Ford",
+    "Author_Data": "https://www.ebooks.com/en-in/author/neal-ford/182946/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Permafrost",
+    "Book_Link": "https://www.ebooks.com/en-in/book/138599232/permafrost/alastair-reynolds/",
+    "Price": "US$1.99",
+    "Image": "https://image.ebooks.com/previews/138/138599/138599232/138599232-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2019",
+    "Author": "Alastair Reynolds",
+    "Author_Data": "https://www.ebooks.com/en-in/author/alastair-reynolds/69506/",
+    "Publisher": "Tom Doherty Associates"
+  },
+  {
+    "Book_name": "Building Microservices",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210338899/building-microservices/sam-newman/",
+    "Price": "US$59.99",
+    "Image": "https://image.ebooks.com/previews/210/210338/210338899/210338899-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2021",
+    "Author": "Sam Newman",
+    "Author_Data": "https://www.ebooks.com/en-in/author/sam-newman/748359/",
+    "Publisher": "O'Reilly Media"
+  }
+]
