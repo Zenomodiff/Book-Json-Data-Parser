@@ -1,0 +1,134 @@
+[
+  {
+    "Book_name": "Data Science from Scratch",
+    "Book_Link": "https://www.ebooks.com/en-in/book/209663126/data-science-from-scratch/joel-grus/",
+    "Price": "US$50.99",
+    "Image": "https://image.ebooks.com/previews/209/209663/209663126/209663126-sml-1.jpg",
+    "Subtitle": "First Principles with Python",
+    "Publication_Year": "2019",
+    "Author": "Joel Grus",
+    "Author_Data": "https://www.ebooks.com/en-in/author/joel-grus/935372/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "TinyML",
+    "Book_Link": "https://www.ebooks.com/en-in/book/209911417/tinyml/pete-warden/",
+    "Price": "US$42.99",
+    "Image": "https://image.ebooks.com/previews/209/209911/209911417/209911417-sml-1.jpg",
+    "Subtitle": "Machine Learning with TensorFlow Lite on Arduino and Ultra-Low-Power Microcontrollers",
+    "Publication_Year": "2019",
+    "Author": "Pete Warden",
+    "Author_Data": "https://www.ebooks.com/en-in/author/pete-warden/318594/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "TinyML",
+    "Book_Link": "https://www.ebooks.com/en-in/book/209911417/tinyml/pete-warden/",
+    "Price": "US$42.99",
+    "Image": "https://image.ebooks.com/previews/209/209911/209911417/209911417-sml-1.jpg",
+    "Subtitle": "Machine Learning with TensorFlow Lite on Arduino and Ultra-Low-Power Microcontrollers",
+    "Publication_Year": "2019",
+    "Author": "Daniel Situnayake",
+    "Author_Data": "https://www.ebooks.com/en-in/author/daniel-situnayake/208353510/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "The Manager's Path",
+    "Book_Link": "https://www.ebooks.com/en-in/book/95728673/the-manager-s-path/camille-fournier/",
+    "Price": "US$33.99",
+    "Image": "https://image.ebooks.com/previews/095/095728/095728673/095728673-sml-1.jpg",
+    "Subtitle": "A Guide for Tech Leaders Navigating Growth and Change",
+    "Publication_Year": "2017",
+    "Author": "Camille Fournier",
+    "Author_Data": "https://www.ebooks.com/en-in/author/camille-fournier/1320831/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Learning Go",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210238288/learning-go/jon-bodner/",
+    "Price": "US$50.99",
+    "Image": "https://image.ebooks.com/previews/210/210238/210238288/210238288-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2021",
+    "Author": "Jon Bodner",
+    "Author_Data": "https://www.ebooks.com/en-in/author/jon-bodner/208532533/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Monolith to Microservices",
+    "Book_Link": "https://www.ebooks.com/en-in/book/209894569/monolith-to-microservices/sam-newman/",
+    "Price": "US$42.99",
+    "Image": "https://image.ebooks.com/previews/209/209894/209894569/209894569-sml-1.jpg",
+    "Subtitle": "Evolutionary Patterns to Transform Your Monolith",
+    "Publication_Year": "2019",
+    "Author": "Sam Newman",
+    "Author_Data": "https://www.ebooks.com/en-in/author/sam-newman/748359/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Terraform: Up & Running",
+    "Book_Link": "https://www.ebooks.com/en-in/book/209780290/terraform-up-running/yevgeniy-brikman/",
+    "Price": "US$50.99",
+    "Image": "https://image.ebooks.com/previews/209/209780/209780290/209780290-sml-1.jpg",
+    "Subtitle": "Writing Infrastructure as Code",
+    "Publication_Year": "2019",
+    "Author": "Yevgeniy Brikman",
+    "Author_Data": "https://www.ebooks.com/en-in/author/yevgeniy-brikman/1005582/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "The Haunting of Tram Car 015",
+    "Book_Link": "https://www.ebooks.com/en-in/book/138547841/the-haunting-of-tram-car-015/p-dj-l-clark/",
+    "Price": "US$3.19",
+    "Image": "https://image.ebooks.com/previews/138/138547/138547841/138547841-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2019",
+    "Author": "P. Dj\u00e8l\u00ed Clark",
+    "Author_Data": "https://www.ebooks.com/en-in/author/p.-dj\u00e8l\u00ed-clark/94245448/",
+    "Publisher": "Tom Doherty Associates"
+  },
+  {
+    "Book_name": "Streaming Systems",
+    "Book_Link": "https://www.ebooks.com/en-in/book/96311043/streaming-systems/tyler-akidau/",
+    "Price": "US$42.99",
+    "Image": "https://image.ebooks.com/previews/096/096311/096311043/096311043-sml-1.jpg",
+    "Subtitle": "The What, Where, When, and How of Large-Scale Data Processing",
+    "Publication_Year": "2018",
+    "Author": "Tyler Akidau",
+    "Author_Data": "https://www.ebooks.com/en-in/author/tyler-akidau/94309850/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Streaming Systems",
+    "Book_Link": "https://www.ebooks.com/en-in/book/96311043/streaming-systems/tyler-akidau/",
+    "Price": "US$42.99",
+    "Image": "https://image.ebooks.com/previews/096/096311/096311043/096311043-sml-1.jpg",
+    "Subtitle": "The What, Where, When, and How of Large-Scale Data Processing",
+    "Publication_Year": "2018",
+    "Author": "Slava Chernyak",
+    "Author_Data": "https://www.ebooks.com/en-in/author/slava-chernyak/94309851/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Binti: Home",
+    "Book_Link": "https://www.ebooks.com/en-in/book/2567057/binti-home/nnedi-okorafor/",
+    "Price": "US$1.19",
+    "Image": "https://image.ebooks.com/previews/002/002567/002567057/002567057-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2017",
+    "Author": "Nnedi Okorafor",
+    "Author_Data": "https://www.ebooks.com/en-in/author/nnedi-okorafor/237583/",
+    "Publisher": "Tom Doherty Associates"
+  },
+  {
+    "Book_name": "Finna",
+    "Book_Link": "https://www.ebooks.com/en-in/book/209723170/finna/nino-cipri/",
+    "Price": "US$1.99",
+    "Image": "https://image.ebooks.com/previews/209/209723/209723170/209723170-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2020",
+    "Author": "Nino Cipri",
+    "Author_Data": "https://www.ebooks.com/en-in/author/nino-cipri/861656/",
+    "Publisher": "Tom Doherty Associates"
+  }
+]
