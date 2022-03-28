@@ -1,0 +1,134 @@
+[
+  {
+    "Book_name": "C# 10 in a Nutshell",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210491752/c-10-in-a-nutshell/joseph-albahari/",
+    "Price": "US$67.99",
+    "Image": "https://image.ebooks.com/previews/210/210491/210491752/210491752-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2022",
+    "Author": "Joseph Albahari",
+    "Author_Data": "https://www.ebooks.com/en-in/author/joseph-albahari/182770/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Escape from Yokai Land",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210125208/escape-from-yokai-land/charles-stross/",
+    "Price": "US$7.99",
+    "Image": "https://image.ebooks.com/previews/210/210125/210125208/210125208-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2022",
+    "Author": "Charles Stross",
+    "Author_Data": "https://www.ebooks.com/en-in/author/charles-stross/64870/",
+    "Publisher": "Tom Doherty Associates"
+  },
+  {
+    "Book_name": "Manhunt",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210266365/manhunt/gretchen-felker-martin/",
+    "Price": "US$7.19",
+    "Image": "https://image.ebooks.com/previews/210/210266/210266365/210266365-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2022",
+    "Author": "Gretchen Felker-Martin",
+    "Author_Data": "https://www.ebooks.com/en-in/author/gretchen-felker-martin/208549532/",
+    "Publisher": "Tom Doherty Associates"
+  },
+  {
+    "Book_name": "Binti",
+    "Book_Link": "https://www.ebooks.com/en-in/book/2056838/binti/nnedi-okorafor/",
+    "Price": "US$1.49",
+    "Image": "https://image.ebooks.com/previews/002/002056/002056838/002056838-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2015",
+    "Author": "Nnedi Okorafor",
+    "Author_Data": "https://www.ebooks.com/en-in/author/nnedi-okorafor/237583/",
+    "Publisher": "Tom Doherty Associates"
+  },
+  {
+    "Book_name": "Gideon the Ninth",
+    "Book_Link": "https://www.ebooks.com/en-in/book/138604346/gideon-the-ninth/tamsyn-muir/",
+    "Price": "US$7.19",
+    "Image": "https://image.ebooks.com/previews/138/138604/138604346/138604346-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2019",
+    "Author": "Tamsyn Muir",
+    "Author_Data": "https://www.ebooks.com/en-in/author/tamsyn-muir/94360543/",
+    "Publisher": "Tom Doherty Associates"
+  },
+  {
+    "Book_name": "The Ballad of Black Tom",
+    "Book_Link": "https://www.ebooks.com/en-in/book/2249965/the-ballad-of-black-tom/victor-lavalle/",
+    "Price": "US$1.99",
+    "Image": "https://image.ebooks.com/previews/002/002249/002249965/002249965-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2016",
+    "Author": "Victor LaValle",
+    "Author_Data": "https://www.ebooks.com/en-in/author/victor-lavalle/144903/",
+    "Publisher": "Tom Doherty Associates"
+  },
+  {
+    "Book_name": "Harrow the Ninth",
+    "Book_Link": "https://www.ebooks.com/en-in/book/209770317/harrow-the-ninth/tamsyn-muir/",
+    "Price": "US$7.99",
+    "Image": "https://image.ebooks.com/previews/209/209770/209770317/209770317-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2020",
+    "Author": "Tamsyn Muir",
+    "Author_Data": "https://www.ebooks.com/en-in/author/tamsyn-muir/94360543/",
+    "Publisher": "Tom Doherty Associates"
+  },
+  {
+    "Book_name": "Architecture Patterns with Python",
+    "Book_Link": "https://www.ebooks.com/en-in/book/209971850/architecture-patterns-with-python/harry-percival/",
+    "Price": "US$50.99",
+    "Image": "https://image.ebooks.com/previews/209/209971/209971850/209971850-sml-1.jpg",
+    "Subtitle": "Enabling Test-Driven Development, Domain-Driven Design, and Event-Driven Microservices",
+    "Publication_Year": "2020",
+    "Author": "Harry Percival",
+    "Author_Data": "https://www.ebooks.com/en-in/author/harry-percival/208223117/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Architecture Patterns with Python",
+    "Book_Link": "https://www.ebooks.com/en-in/book/209971850/architecture-patterns-with-python/harry-percival/",
+    "Price": "US$50.99",
+    "Image": "https://image.ebooks.com/previews/209/209971/209971850/209971850-sml-1.jpg",
+    "Subtitle": "Enabling Test-Driven Development, Domain-Driven Design, and Event-Driven Microservices",
+    "Publication_Year": "2020",
+    "Author": "Bob Gregory",
+    "Author_Data": "https://www.ebooks.com/en-in/author/bob-gregory/208376402/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Fundamentals of Software Architecture",
+    "Book_Link": "https://www.ebooks.com/en-in/book/209933784/fundamentals-of-software-architecture/mark-richards/",
+    "Price": "US$59.99",
+    "Image": "https://image.ebooks.com/previews/209/209933/209933784/209933784-sml-1.jpg",
+    "Subtitle": "An Engineering Approach",
+    "Publication_Year": "2020",
+    "Author": "Mark Richards",
+    "Author_Data": "https://www.ebooks.com/en-in/author/mark-richards/183013/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Fundamentals of Software Architecture",
+    "Book_Link": "https://www.ebooks.com/en-in/book/209933784/fundamentals-of-software-architecture/mark-richards/",
+    "Price": "US$59.99",
+    "Image": "https://image.ebooks.com/previews/209/209933/209933784/209933784-sml-1.jpg",
+    "Subtitle": "An Engineering Approach",
+    "Publication_Year": "2020",
+    "Author": "Neal Ford",
+    "Author_Data": "https://www.ebooks.com/en-in/author/neal-ford/182946/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "The Empress of Salt and Fortune",
+    "Book_Link": "https://www.ebooks.com/en-in/book/209746294/the-empress-of-salt-and-fortune/nghi-vo/",
+    "Price": "US$2.79",
+    "Image": "https://image.ebooks.com/previews/209/209746/209746294/209746294-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2020",
+    "Author": "Nghi Vo",
+    "Author_Data": "https://www.ebooks.com/en-in/author/nghi-vo/208263660/",
+    "Publisher": "Tom Doherty Associates"
+  }
+]
