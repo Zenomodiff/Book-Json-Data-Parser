@@ -1,0 +1,156 @@
+[
+  {
+    "Book_name": "A Psalm for the Wild-Built",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210110608/a-psalm-for-the-wild-built/becky-chambers/",
+    "Price": "US$8.39",
+    "Image": "https://image.ebooks.com/previews/210/210110/210110608/210110608-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2021",
+    "Author": "Becky Chambers",
+    "Author_Data": "https://www.ebooks.com/en-in/author/becky-chambers/894336/",
+    "Publisher": "Tom Doherty Associates"
+  },
+  {
+    "Book_name": "Light Chaser",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210023491/light-chaser/peter-f-hamilton/",
+    "Price": "US$3.19",
+    "Image": "https://image.ebooks.com/previews/210/210023/210023491/210023491-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2021",
+    "Author": "Peter F. Hamilton",
+    "Author_Data": "https://www.ebooks.com/en-in/author/peter-f.-hamilton/1084/",
+    "Publisher": "Tom Doherty Associates"
+  },
+  {
+    "Book_name": "Light Chaser",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210023491/light-chaser/peter-f-hamilton/",
+    "Price": "US$3.19",
+    "Image": "https://image.ebooks.com/previews/210/210023/210023491/210023491-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2021",
+    "Author": "Gareth L. Powell",
+    "Author_Data": "https://www.ebooks.com/en-in/author/gareth-l.-powell/1340283/",
+    "Publisher": "Tom Doherty Associates"
+  },
+  {
+    "Book_name": "Binti: The Night Masquerade",
+    "Book_Link": "https://www.ebooks.com/en-in/book/95706512/binti-the-night-masquerade/nnedi-okorafor/",
+    "Price": "US$1.59",
+    "Image": "https://image.ebooks.com/previews/095/095706/095706512/095706512-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2018",
+    "Author": "Nnedi Okorafor",
+    "Author_Data": "https://www.ebooks.com/en-in/author/nnedi-okorafor/237583/",
+    "Publisher": "Tom Doherty Associates"
+  },
+  {
+    "Book_name": "Programming TypeScript",
+    "Book_Link": "https://www.ebooks.com/en-in/book/209670238/programming-typescript/boris-cherny/",
+    "Price": "US$42.99",
+    "Image": "https://image.ebooks.com/previews/209/209670/209670238/209670238-sml-1.jpg",
+    "Subtitle": "Making Your JavaScript Applications Scale",
+    "Publication_Year": "2019",
+    "Author": "Boris Cherny",
+    "Author_Data": "https://www.ebooks.com/en-in/author/boris-cherny/208232138/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Head First Design Patterns",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210173281/head-first-design-patterns/eric-freeman/",
+    "Price": "US$59.99",
+    "Image": "https://image.ebooks.com/previews/210/210173/210173281/210173281-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2020",
+    "Author": "Eric Freeman",
+    "Author_Data": "https://www.ebooks.com/en-in/author/eric-freeman/241929/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Head First Design Patterns",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210173281/head-first-design-patterns/eric-freeman/",
+    "Price": "US$59.99",
+    "Image": "https://image.ebooks.com/previews/210/210173/210173281/210173281-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2020",
+    "Author": "Elisabeth Robson",
+    "Author_Data": "https://www.ebooks.com/en-in/author/elisabeth-robson/241930/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Cloud Native Go",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210272474/cloud-native-go/matthew-a-titmus/",
+    "Price": "US$50.99",
+    "Image": "https://image.ebooks.com/previews/210/210272/210272474/210272474-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2021",
+    "Author": "Matthew A. Titmus",
+    "Author_Data": "https://www.ebooks.com/en-in/author/matthew-a.-titmus/208552615/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Natural Language Processing with Transformers",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210471046/natural-language-processing-with-transformers/lewis-tunstall/",
+    "Price": "US$50.99",
+    "Image": "https://image.ebooks.com/previews/210/210471/210471046/210471046-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2022",
+    "Author": "Lewis Tunstall",
+    "Author_Data": "https://www.ebooks.com/en-in/author/lewis-tunstall/208648171/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Natural Language Processing with Transformers",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210471046/natural-language-processing-with-transformers/lewis-tunstall/",
+    "Price": "US$50.99",
+    "Image": "https://image.ebooks.com/previews/210/210471/210471046/210471046-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2022",
+    "Author": "Leandro von Werra",
+    "Author_Data": "https://www.ebooks.com/en-in/author/leandro-von-werra/208648172/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "C# 10 Pocket Reference",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210467051/c-10-pocket-reference/joseph-albahari/",
+    "Price": "US$21.99",
+    "Image": "https://image.ebooks.com/previews/210/210467/210467051/210467051-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2022",
+    "Author": "Joseph Albahari",
+    "Author_Data": "https://www.ebooks.com/en-in/author/joseph-albahari/182770/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "C# 10 Pocket Reference",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210467051/c-10-pocket-reference/joseph-albahari/",
+    "Price": "US$21.99",
+    "Image": "https://image.ebooks.com/previews/210/210467/210467051/210467051-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2022",
+    "Author": "Ben Albahari",
+    "Author_Data": "https://www.ebooks.com/en-in/author/ben-albahari/182724/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "iOS 15 Programming Fundamentals with Swift",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210385252/ios-15-programming-fundamentals-with-swift/matt-neuburg/",
+    "Price": "US$50.99",
+    "Image": "https://image.ebooks.com/previews/210/210385/210385252/210385252-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2021",
+    "Author": "Matt Neuburg",
+    "Author_Data": "https://www.ebooks.com/en-in/author/matt-neuburg/239501/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Command-Line Rust",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210463173/command-line-rust/ken-youens-clark/",
+    "Price": "US$50.99",
+    "Image": "https://image.ebooks.com/previews/210/210463/210463173/210463173-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2022",
+    "Author": "Ken Youens-Clark",
+    "Author_Data": "https://www.ebooks.com/en-in/author/ken-youens-clark/208561511/",
+    "Publisher": "O'Reilly Media"
+  }
+]
