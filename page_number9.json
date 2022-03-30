@@ -1,0 +1,156 @@
+[
+  {
+    "Book_name": "Networking and Kubernetes",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210368481/networking-and-kubernetes/james-strong/",
+    "Price": "US$50.99",
+    "Image": "https://image.ebooks.com/previews/210/210368/210368481/210368481-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2021",
+    "Author": "James Strong",
+    "Author_Data": "https://www.ebooks.com/en-in/author/james-strong/12361/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Networking and Kubernetes",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210368481/networking-and-kubernetes/james-strong/",
+    "Price": "US$50.99",
+    "Image": "https://image.ebooks.com/previews/210/210368/210368481/210368481-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2021",
+    "Author": "Vallery Lancey",
+    "Author_Data": "https://www.ebooks.com/en-in/author/vallery-lancey/208605025/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Lean UX",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210341263/lean-ux/jeff-gothelf/",
+    "Price": "US$38.99",
+    "Image": "https://image.ebooks.com/previews/210/210341/210341263/210341263-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2021",
+    "Author": "Jeff Gothelf",
+    "Author_Data": "https://www.ebooks.com/en-in/author/jeff-gothelf/565354/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Lean UX",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210341263/lean-ux/jeff-gothelf/",
+    "Price": "US$38.99",
+    "Image": "https://image.ebooks.com/previews/210/210341/210341263/210341263-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2021",
+    "Author": "Josh Seiden",
+    "Author_Data": "https://www.ebooks.com/en-in/author/josh-seiden/565355/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Building Micro-Frontends",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210416737/building-micro-frontends/luca-mezzalira/",
+    "Price": "US$42.99",
+    "Image": "https://image.ebooks.com/previews/210/210416/210416737/210416737-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2021",
+    "Author": "Luca Mezzalira",
+    "Author_Data": "https://www.ebooks.com/en-in/author/luca-mezzalira/94223717/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "The Art of Leadership",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210021289/the-art-of-leadership/michael-lopp/",
+    "Price": "US$33.99",
+    "Image": "https://image.ebooks.com/previews/210/210021/210021289/210021289-sml-1.jpg",
+    "Subtitle": "Small Things, Done Well",
+    "Publication_Year": "2020",
+    "Author": "Michael Lopp",
+    "Author_Data": "https://www.ebooks.com/en-in/author/michael-lopp/125234/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Assassin's Code",
+    "Book_Link": "https://www.ebooks.com/en-in/book/95699440/assassin-s-code/ward-larsen/",
+    "Price": "US$3.99",
+    "Image": "https://image.ebooks.com/previews/095/095699/095699440/095699440-sml-1.jpg",
+    "Subtitle": "A David Slaton Novel",
+    "Publication_Year": "2017",
+    "Author": "Ward Larsen",
+    "Author_Data": "https://www.ebooks.com/en-in/author/ward-larsen/254105/",
+    "Publisher": "Tom Doherty Associates"
+  },
+  {
+    "Book_name": "Angular: Up and Running",
+    "Book_Link": "https://www.ebooks.com/en-in/book/96203629/angular-up-and-running/shyam-seshadri/",
+    "Price": "US$42.99",
+    "Image": "https://image.ebooks.com/previews/096/096203/096203629/096203629-sml-1.jpg",
+    "Subtitle": "Learning Angular, Step by Step",
+    "Publication_Year": "2018",
+    "Author": "Shyam Seshadri",
+    "Author_Data": "https://www.ebooks.com/en-in/author/shyam-seshadri/580634/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "In the Watchful City",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210125222/in-the-watchful-city/s-qiouyi-lu/",
+    "Price": "US$2.79",
+    "Image": "https://image.ebooks.com/previews/210/210125/210125222/210125222-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2021",
+    "Author": "S. Qiouyi Lu",
+    "Author_Data": "https://www.ebooks.com/en-in/author/s.-qiouyi-lu/94296596/",
+    "Publisher": "Tom Doherty Associates"
+  },
+  {
+    "Book_name": "Kafka: The Definitive Guide",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210411023/kafka-the-definitive-guide/gwen-shapira/",
+    "Price": "US$59.99",
+    "Image": "https://image.ebooks.com/previews/210/210411/210411023/210411023-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2021",
+    "Author": "Gwen Shapira",
+    "Author_Data": "https://www.ebooks.com/en-in/author/gwen-shapira/964065/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Kafka: The Definitive Guide",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210411023/kafka-the-definitive-guide/gwen-shapira/",
+    "Price": "US$59.99",
+    "Image": "https://image.ebooks.com/previews/210/210411/210411023/210411023-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2021",
+    "Author": "Todd Palino",
+    "Author_Data": "https://www.ebooks.com/en-in/author/todd-palino/94179229/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "UX Research",
+    "Book_Link": "https://www.ebooks.com/en-in/book/95643766/ux-research/brad-nunnally/",
+    "Price": "US$33.99",
+    "Image": "https://image.ebooks.com/previews/095/095643/095643766/095643766-sml-1.jpg",
+    "Subtitle": "Practical Techniques for Designing Better Products",
+    "Publication_Year": "2016",
+    "Author": "Brad Nunnally",
+    "Author_Data": "https://www.ebooks.com/en-in/author/brad-nunnally/562966/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "UX Research",
+    "Book_Link": "https://www.ebooks.com/en-in/book/95643766/ux-research/brad-nunnally/",
+    "Price": "US$33.99",
+    "Image": "https://image.ebooks.com/previews/095/095643/095643766/095643766-sml-1.jpg",
+    "Subtitle": "Practical Techniques for Designing Better Products",
+    "Publication_Year": "2016",
+    "Author": "David Farkas",
+    "Author_Data": "https://www.ebooks.com/en-in/author/david-farkas/1295269/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Machine Learning for Financial Risk Management with Python",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210430228/machine-learning-for-financial-risk-management-with-python/abdullah-karasan/",
+    "Price": "US$67.99",
+    "Image": "https://image.ebooks.com/previews/210/210430/210430228/210430228-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2021",
+    "Author": "Abdullah Karasan",
+    "Author_Data": "https://www.ebooks.com/en-in/author/abdullah-karasan/208632077/",
+    "Publisher": "O'Reilly Media"
+  }
+]
