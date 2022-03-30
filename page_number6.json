@@ -1,0 +1,145 @@
+[
+  {
+    "Book_name": "When the Tiger Came Down the Mountain",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210007068/when-the-tiger-came-down-the-mountain/nghi-vo/",
+    "Price": "US$2.79",
+    "Image": "https://image.ebooks.com/previews/210/210007/210007068/210007068-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2020",
+    "Author": "Nghi Vo",
+    "Author_Data": "https://www.ebooks.com/en-in/author/nghi-vo/208263660/",
+    "Publisher": "Tom Doherty Associates"
+  },
+  {
+    "Book_name": "MongoDB: The Definitive Guide",
+    "Book_Link": "https://www.ebooks.com/en-in/book/209907666/mongodb-the-definitive-guide/shannon-bradshaw/",
+    "Price": "US$50.99",
+    "Image": "https://image.ebooks.com/previews/209/209907/209907666/209907666-sml-1.jpg",
+    "Subtitle": "Powerful and Scalable Data Storage",
+    "Publication_Year": "2019",
+    "Author": "Shannon Bradshaw",
+    "Author_Data": "https://www.ebooks.com/en-in/author/shannon-bradshaw/208351893/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "MongoDB: The Definitive Guide",
+    "Book_Link": "https://www.ebooks.com/en-in/book/209907666/mongodb-the-definitive-guide/shannon-bradshaw/",
+    "Price": "US$50.99",
+    "Image": "https://image.ebooks.com/previews/209/209907/209907666/209907666-sml-1.jpg",
+    "Subtitle": "Powerful and Scalable Data Storage",
+    "Publication_Year": "2019",
+    "Author": "Eoin Brazil",
+    "Author_Data": "https://www.ebooks.com/en-in/author/eoin-brazil/208351894/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Java Performance",
+    "Book_Link": "https://www.ebooks.com/en-in/book/209956377/java-performance/scott-oaks/",
+    "Price": "US$50.99",
+    "Image": "https://image.ebooks.com/previews/209/209956/209956377/209956377-sml-1.jpg",
+    "Subtitle": "In-Depth Advice for Tuning and Programming Java 8, 11, and Beyond",
+    "Publication_Year": "2020",
+    "Author": "Scott Oaks",
+    "Author_Data": "https://www.ebooks.com/en-in/author/scott-oaks/241878/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "The Starless Crown",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210270554/the-starless-crown/james-rollins/",
+    "Price": "US$7.59",
+    "Image": "https://image.ebooks.com/previews/210/210270/210270554/210270554-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2022",
+    "Author": "James Rollins",
+    "Author_Data": "https://www.ebooks.com/en-in/author/james-rollins/18033/",
+    "Publisher": "Tom Doherty Associates"
+  },
+  {
+    "Book_name": "Building Evolutionary Architectures",
+    "Book_Link": "https://www.ebooks.com/en-in/book/95867048/building-evolutionary-architectures/neal-ford/",
+    "Price": "US$50.99",
+    "Image": "https://image.ebooks.com/previews/095/095867/095867048/095867048-sml-1.jpg",
+    "Subtitle": "Support Constant Change",
+    "Publication_Year": "2017",
+    "Author": "Neal Ford",
+    "Author_Data": "https://www.ebooks.com/en-in/author/neal-ford/182946/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Building Evolutionary Architectures",
+    "Book_Link": "https://www.ebooks.com/en-in/book/95867048/building-evolutionary-architectures/neal-ford/",
+    "Price": "US$50.99",
+    "Image": "https://image.ebooks.com/previews/095/095867/095867048/095867048-sml-1.jpg",
+    "Subtitle": "Support Constant Change",
+    "Publication_Year": "2017",
+    "Author": "Rebecca Parsons",
+    "Author_Data": "https://www.ebooks.com/en-in/author/rebecca-parsons/94184442/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Infomocracy",
+    "Book_Link": "https://www.ebooks.com/en-in/book/2205896/infomocracy/malka-older/",
+    "Price": "US$7.59",
+    "Image": "https://image.ebooks.com/previews/002/002205/002205896/002205896-sml-1.jpg",
+    "Subtitle": "Book One of the Centenal Cycle",
+    "Publication_Year": "2016",
+    "Author": "Malka Older",
+    "Author_Data": "https://www.ebooks.com/en-in/author/malka-older/1003610/",
+    "Publisher": "Tom Doherty Associates"
+  },
+  {
+    "Book_name": "The Expert System's Brother",
+    "Book_Link": "https://www.ebooks.com/en-in/book/95940646/the-expert-system-s-brother/adrian-tchaikovsky/",
+    "Price": "US$1.99",
+    "Image": "https://image.ebooks.com/previews/095/095940/095940646/095940646-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2018",
+    "Author": "Adrian Tchaikovsky",
+    "Author_Data": "https://www.ebooks.com/en-in/author/adrian-tchaikovsky/357200/",
+    "Publisher": "Tom Doherty Associates"
+  },
+  {
+    "Book_name": "Remote Control",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210004180/remote-control/nnedi-okorafor/",
+    "Price": "US$7.99",
+    "Image": "https://image.ebooks.com/previews/210/210004/210004180/210004180-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2021",
+    "Author": "Nnedi Okorafor",
+    "Author_Data": "https://www.ebooks.com/en-in/author/nnedi-okorafor/237583/",
+    "Publisher": "Tom Doherty Associates"
+  },
+  {
+    "Book_name": "Data Management at Scale",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210091243/data-management-at-scale/piethein-strengholt/",
+    "Price": "US$59.99",
+    "Image": "https://image.ebooks.com/previews/210/210091/210091243/210091243-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2020",
+    "Author": "Piethein Strengholt",
+    "Author_Data": "https://www.ebooks.com/en-in/author/piethein-strengholt/208439016/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Site Reliability Engineering",
+    "Book_Link": "https://www.ebooks.com/en-in/book/2547522/site-reliability-engineering/niall-richard-murphy/",
+    "Price": "US$46.99",
+    "Image": "https://image.ebooks.com/previews/002/002547/002547522/002547522-sml-1.jpg",
+    "Subtitle": "How Google Runs Production Systems",
+    "Publication_Year": "2016",
+    "Author": "Niall Richard Murphy",
+    "Author_Data": "https://www.ebooks.com/en-in/author/niall-richard-murphy/182842/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Site Reliability Engineering",
+    "Book_Link": "https://www.ebooks.com/en-in/book/2547522/site-reliability-engineering/niall-richard-murphy/",
+    "Price": "US$46.99",
+    "Image": "https://image.ebooks.com/previews/002/002547/002547522/002547522-sml-1.jpg",
+    "Subtitle": "How Google Runs Production Systems",
+    "Publication_Year": "2016",
+    "Author": "Betsy Beyer",
+    "Author_Data": "https://www.ebooks.com/en-in/author/betsy-beyer/1234114/",
+    "Publisher": "O'Reilly Media"
+  }
+]
