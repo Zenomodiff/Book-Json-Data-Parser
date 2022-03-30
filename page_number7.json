@@ -1,0 +1,167 @@
+[
+  {
+    "Book_name": "Robust Python",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210333415/robust-python/patrick-viafore/",
+    "Price": "US$42.99",
+    "Image": "https://image.ebooks.com/previews/210/210333/210333415/210333415-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2021",
+    "Author": "Patrick Viafore",
+    "Author_Data": "https://www.ebooks.com/en-in/author/patrick-viafore/208587106/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Container Security",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210014518/container-security/liz-rice/",
+    "Price": "US$42.99",
+    "Image": "https://image.ebooks.com/previews/210/210014/210014518/210014518-sml-1.jpg",
+    "Subtitle": "Fundamental Technology Concepts that Protect Containerized Applications",
+    "Publication_Year": "2020",
+    "Author": "Liz Rice",
+    "Author_Data": "https://www.ebooks.com/en-in/author/liz-rice/94268966/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Learning React",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210048339/learning-react/alex-banks/",
+    "Price": "US$50.99",
+    "Image": "https://image.ebooks.com/previews/210/210048/210048339/210048339-sml-1.jpg",
+    "Subtitle": "Modern Patterns for Developing React Apps",
+    "Publication_Year": "2020",
+    "Author": "Alex Banks",
+    "Author_Data": "https://www.ebooks.com/en-in/author/alex-banks/1343597/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Learning React",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210048339/learning-react/alex-banks/",
+    "Price": "US$50.99",
+    "Image": "https://image.ebooks.com/previews/210/210048/210048339/210048339-sml-1.jpg",
+    "Subtitle": "Modern Patterns for Developing React Apps",
+    "Publication_Year": "2020",
+    "Author": "Eve Porcello",
+    "Author_Data": "https://www.ebooks.com/en-in/author/eve-porcello/1343598/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Java 9 Modularity",
+    "Book_Link": "https://www.ebooks.com/en-in/book/95858457/java-9-modularity/sander-mak/",
+    "Price": "US$33.99",
+    "Image": "https://image.ebooks.com/previews/095/095858/095858457/095858457-sml-1.jpg",
+    "Subtitle": "Patterns and Practices for Developing Maintainable Applications",
+    "Publication_Year": "2017",
+    "Author": "Sander Mak",
+    "Author_Data": "https://www.ebooks.com/en-in/author/sander-mak/94181596/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Java 9 Modularity",
+    "Book_Link": "https://www.ebooks.com/en-in/book/95858457/java-9-modularity/sander-mak/",
+    "Price": "US$33.99",
+    "Image": "https://image.ebooks.com/previews/095/095858/095858457/095858457-sml-1.jpg",
+    "Subtitle": "Patterns and Practices for Developing Maintainable Applications",
+    "Publication_Year": "2017",
+    "Author": "Paul Bakker",
+    "Author_Data": "https://www.ebooks.com/en-in/author/paul-bakker/692794/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Mastering Regular Expressions",
+    "Book_Link": "https://www.ebooks.com/en-in/book/540872/mastering-regular-expressions/jeffrey-e-f-friedl/",
+    "Price": "US$50.99",
+    "Image": "https://image.ebooks.com/previews/000/000540/000540872/000540872-sml-1.jpg",
+    "Subtitle": "Understand Your Data and Be More Productive",
+    "Publication_Year": "2006",
+    "Author": "Jeffrey E. F. Friedl",
+    "Author_Data": "https://www.ebooks.com/en-in/author/jeffrey-e.-f.-friedl/452159/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "We Shall Sing a Song into the Deep",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210094307/we-shall-sing-a-song-into-the-deep/andrew-kelly-stewart/",
+    "Price": "US$3.19",
+    "Image": "https://image.ebooks.com/previews/210/210094/210094307/210094307-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2021",
+    "Author": "Andrew Kelly Stewart",
+    "Author_Data": "https://www.ebooks.com/en-in/author/andrew-kelly-stewart/208439672/",
+    "Publisher": "Tom Doherty Associates"
+  },
+  {
+    "Book_name": "Assassin's Game",
+    "Book_Link": "https://www.ebooks.com/en-in/book/1657100/assassin-s-game/ward-larsen/",
+    "Price": "US$5.99",
+    "Image": "https://image.ebooks.com/previews/001/001657/001657100/001657100-sml-1.jpg",
+    "Subtitle": "A David Slaton Novel",
+    "Publication_Year": "2014",
+    "Author": "Ward Larsen",
+    "Author_Data": "https://www.ebooks.com/en-in/author/ward-larsen/254105/",
+    "Publisher": "Tom Doherty Associates"
+  },
+  {
+    "Book_name": "Cracked it!",
+    "Book_Link": "https://www.ebooks.com/en-in/book/96262337/cracked-it/bernard-garrette/",
+    "Price": "US$26.17",
+    "Image": "https://image.ebooks.com/previews/096/096262/096262337/096262337-sml-1.jpg",
+    "Subtitle": "How to solve big problems and sell solutions like top strategy consultants",
+    "Publication_Year": "2018",
+    "Author": "Bernard Garrette",
+    "Author_Data": "https://www.ebooks.com/en-in/author/bernard-garrette/343740/",
+    "Publisher": "Springer International Publishing"
+  },
+  {
+    "Book_name": "Cracked it!",
+    "Book_Link": "https://www.ebooks.com/en-in/book/96262337/cracked-it/bernard-garrette/",
+    "Price": "US$26.17",
+    "Image": "https://image.ebooks.com/previews/096/096262/096262337/096262337-sml-1.jpg",
+    "Subtitle": "How to solve big problems and sell solutions like top strategy consultants",
+    "Publication_Year": "2018",
+    "Author": "Corey Phelps",
+    "Author_Data": "https://www.ebooks.com/en-in/author/corey-phelps/94300209/",
+    "Publisher": "Springer International Publishing"
+  },
+  {
+    "Book_name": "Mechanical Engineering for Makers",
+    "Book_Link": "https://www.ebooks.com/en-in/book/209911418/mechanical-engineering-for-makers/brian-bunnell/",
+    "Price": "US$9.99",
+    "Image": "https://image.ebooks.com/previews/209/209911/209911418/209911418-sml-1.jpg",
+    "Subtitle": "A Hands-on Guide to Designing and Making Physical Things",
+    "Publication_Year": "2020",
+    "Author": "Brian Bunnell",
+    "Author_Data": "https://www.ebooks.com/en-in/author/brian-bunnell/208353511/",
+    "Publisher": "Make Community, LLC"
+  },
+  {
+    "Book_name": "Mechanical Engineering for Makers",
+    "Book_Link": "https://www.ebooks.com/en-in/book/209911418/mechanical-engineering-for-makers/brian-bunnell/",
+    "Price": "US$9.99",
+    "Image": "https://image.ebooks.com/previews/209/209911/209911418/209911418-sml-1.jpg",
+    "Subtitle": "A Hands-on Guide to Designing and Making Physical Things",
+    "Publication_Year": "2020",
+    "Author": "Samer Najia",
+    "Author_Data": "https://www.ebooks.com/en-in/author/samer-najia/208353512/",
+    "Publisher": "Make Community, LLC"
+  },
+  {
+    "Book_name": "AWS Cookbook",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210429800/aws-cookbook/john-culkin/",
+    "Price": "US$59.99",
+    "Image": "https://image.ebooks.com/previews/210/210429/210429800/210429800-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2021",
+    "Author": "John Culkin",
+    "Author_Data": "https://www.ebooks.com/en-in/author/john-culkin/208631841/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "AWS Cookbook",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210429800/aws-cookbook/john-culkin/",
+    "Price": "US$59.99",
+    "Image": "https://image.ebooks.com/previews/210/210429/210429800/210429800-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2021",
+    "Author": "Mike Zazon",
+    "Author_Data": "https://www.ebooks.com/en-in/author/mike-zazon/208631842/",
+    "Publisher": "O'Reilly Media"
+  }
+]
