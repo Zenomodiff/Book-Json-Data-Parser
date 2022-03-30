@@ -1,0 +1,178 @@
+[
+  {
+    "Book_name": "Cloud Native Transformation",
+    "Book_Link": "https://www.ebooks.com/en-in/book/209904571/cloud-native-transformation/pini-reznik/",
+    "Price": "US$59.99",
+    "Image": "https://image.ebooks.com/previews/209/209904/209904571/209904571-sml-1.jpg",
+    "Subtitle": "Practical Patterns for Innovation",
+    "Publication_Year": "2019",
+    "Author": "Pini Reznik",
+    "Author_Data": "https://www.ebooks.com/en-in/author/pini-reznik/208351351/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Cloud Native Transformation",
+    "Book_Link": "https://www.ebooks.com/en-in/book/209904571/cloud-native-transformation/pini-reznik/",
+    "Price": "US$59.99",
+    "Image": "https://image.ebooks.com/previews/209/209904/209904571/209904571-sml-1.jpg",
+    "Subtitle": "Practical Patterns for Innovation",
+    "Publication_Year": "2019",
+    "Author": "Jamie Dobson",
+    "Author_Data": "https://www.ebooks.com/en-in/author/jamie-dobson/208351352/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Head First Java",
+    "Book_Link": "https://www.ebooks.com/en-in/book/540879/head-first-java/kathy-sierra/",
+    "Price": "US$50.99",
+    "Image": "https://image.ebooks.com/previews/000/000540/000540879/000540879-sml-1.jpg",
+    "Subtitle": "A Brain-Friendly Guide",
+    "Publication_Year": "2005",
+    "Author": "Kathy Sierra",
+    "Author_Data": "https://www.ebooks.com/en-in/author/kathy-sierra/241881/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Head First Java",
+    "Book_Link": "https://www.ebooks.com/en-in/book/540879/head-first-java/kathy-sierra/",
+    "Price": "US$50.99",
+    "Image": "https://image.ebooks.com/previews/000/000540/000540879/000540879-sml-1.jpg",
+    "Subtitle": "A Brain-Friendly Guide",
+    "Publication_Year": "2005",
+    "Author": "Bert Bates",
+    "Author_Data": "https://www.ebooks.com/en-in/author/bert-bates/98830/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Information Architecture",
+    "Book_Link": "https://www.ebooks.com/en-in/book/2211400/information-architecture/louis-rosenfeld/",
+    "Price": "US$50.99",
+    "Image": "https://image.ebooks.com/previews/002/002211/002211400/002211400-sml-1.jpg",
+    "Subtitle": "For the Web and Beyond",
+    "Publication_Year": "2015",
+    "Author": "Louis Rosenfeld",
+    "Author_Data": "https://www.ebooks.com/en-in/author/louis-rosenfeld/182854/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Information Architecture",
+    "Book_Link": "https://www.ebooks.com/en-in/book/2211400/information-architecture/louis-rosenfeld/",
+    "Price": "US$50.99",
+    "Image": "https://image.ebooks.com/previews/002/002211/002211400/002211400-sml-1.jpg",
+    "Subtitle": "For the Web and Beyond",
+    "Publication_Year": "2015",
+    "Author": "Peter Morville",
+    "Author_Data": "https://www.ebooks.com/en-in/author/peter-morville/182855/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Like a Mighty Army",
+    "Book_Link": "https://www.ebooks.com/en-in/book/1340156/like-a-mighty-army/david-weber/",
+    "Price": "US$4.99",
+    "Image": "https://image.ebooks.com/previews/001/001340/001340156/001340156-sml-1.jpg",
+    "Subtitle": "A Novel in the Safehold Series",
+    "Publication_Year": "2014",
+    "Author": "David Weber",
+    "Author_Data": "https://www.ebooks.com/en-in/author/david-weber/267398/",
+    "Publisher": "Tom Doherty Associates"
+  },
+  {
+    "Book_name": "Magic for Liars",
+    "Book_Link": "https://www.ebooks.com/en-in/book/96334539/magic-for-liars/sarah-gailey/",
+    "Price": "US$7.19",
+    "Image": "https://image.ebooks.com/previews/096/096334/096334539/096334539-sml-1.jpg",
+    "Subtitle": "A Novel",
+    "Publication_Year": "2019",
+    "Author": "Sarah Gailey",
+    "Author_Data": "https://www.ebooks.com/en-in/author/sarah-gailey/1292544/",
+    "Publisher": "Tom Doherty Associates"
+  },
+  {
+    "Book_name": "Google BigQuery: The Definitive Guide",
+    "Book_Link": "https://www.ebooks.com/en-in/book/209823892/google-bigquery-the-definitive-guide/valliappa-lakshmanan/",
+    "Price": "US$50.99",
+    "Image": "https://image.ebooks.com/previews/209/209823/209823892/209823892-sml-1.jpg",
+    "Subtitle": "Data Warehousing, Analytics, and Machine Learning at Scale",
+    "Publication_Year": "2019",
+    "Author": "Valliappa Lakshmanan",
+    "Author_Data": "https://www.ebooks.com/en-in/author/valliappa-lakshmanan/474659/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Google BigQuery: The Definitive Guide",
+    "Book_Link": "https://www.ebooks.com/en-in/book/209823892/google-bigquery-the-definitive-guide/valliappa-lakshmanan/",
+    "Price": "US$50.99",
+    "Image": "https://image.ebooks.com/previews/209/209823/209823892/209823892-sml-1.jpg",
+    "Subtitle": "Data Warehousing, Analytics, and Machine Learning at Scale",
+    "Publication_Year": "2019",
+    "Author": "Jordan Tigani",
+    "Author_Data": "https://www.ebooks.com/en-in/author/jordan-tigani/780242/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Introduction to Machine Learning with Python",
+    "Book_Link": "https://www.ebooks.com/en-in/book/95532189/introduction-to-machine-learning-with-python/andreas-c-m-ller/",
+    "Price": "US$50.99",
+    "Image": "https://image.ebooks.com/previews/095/095532/095532189/095532189-sml-1.jpg",
+    "Subtitle": "A Guide for Data Scientists",
+    "Publication_Year": "2016",
+    "Author": "Andreas C. M\u00fcller",
+    "Author_Data": "https://www.ebooks.com/en-in/author/andreas-c.-m\u00fcller/1278929/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Introduction to Machine Learning with Python",
+    "Book_Link": "https://www.ebooks.com/en-in/book/95532189/introduction-to-machine-learning-with-python/andreas-c-m-ller/",
+    "Price": "US$50.99",
+    "Image": "https://image.ebooks.com/previews/095/095532/095532189/095532189-sml-1.jpg",
+    "Subtitle": "A Guide for Data Scientists",
+    "Publication_Year": "2016",
+    "Author": "Sarah Guido",
+    "Author_Data": "https://www.ebooks.com/en-in/author/sarah-guido/1278930/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Mastering Bitcoin",
+    "Book_Link": "https://www.ebooks.com/en-in/book/95787295/mastering-bitcoin/andreas-m-antonopoulos/",
+    "Price": "US$38.99",
+    "Image": "https://image.ebooks.com/previews/095/095787/095787295/095787295-sml-1.jpg",
+    "Subtitle": "Programming the Open Blockchain",
+    "Publication_Year": "2017",
+    "Author": "Andreas M. Antonopoulos",
+    "Author_Data": "https://www.ebooks.com/en-in/author/andreas-m.-antonopoulos/857411/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Made Things",
+    "Book_Link": "https://www.ebooks.com/en-in/book/209645628/made-things/adrian-tchaikovsky/",
+    "Price": "US$1.99",
+    "Image": "https://image.ebooks.com/previews/209/209645/209645628/209645628-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2019",
+    "Author": "Adrian Tchaikovsky",
+    "Author_Data": "https://www.ebooks.com/en-in/author/adrian-tchaikovsky/357200/",
+    "Publisher": "Tom Doherty Associates"
+  },
+  {
+    "Book_name": "Building Machine Learning Pipelines",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210083962/building-machine-learning-pipelines/hannes-hapke/",
+    "Price": "US$59.99",
+    "Image": "https://image.ebooks.com/previews/210/210083/210083962/210083962-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2020",
+    "Author": "Hannes Hapke",
+    "Author_Data": "https://www.ebooks.com/en-in/author/hannes-hapke/208435847/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Building Machine Learning Pipelines",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210083962/building-machine-learning-pipelines/hannes-hapke/",
+    "Price": "US$59.99",
+    "Image": "https://image.ebooks.com/previews/210/210083/210083962/210083962-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2020",
+    "Author": "Catherine Nelson",
+    "Author_Data": "https://www.ebooks.com/en-in/author/catherine-nelson/208435848/",
+    "Publisher": "O'Reilly Media"
+  }
+]
