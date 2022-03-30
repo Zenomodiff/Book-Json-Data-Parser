@@ -1,0 +1,145 @@
+[
+  {
+    "Book_name": "Programming Android with Kotlin",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210429801/programming-android-with-kotlin/pierre-olivier-laurence/",
+    "Price": "US$50.99",
+    "Image": "https://image.ebooks.com/previews/210/210429/210429801/210429801-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2021",
+    "Author": "Pierre-Olivier Laurence",
+    "Author_Data": "https://www.ebooks.com/en-in/author/pierre-olivier-laurence/208631843/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Programming Android with Kotlin",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210429801/programming-android-with-kotlin/pierre-olivier-laurence/",
+    "Price": "US$50.99",
+    "Image": "https://image.ebooks.com/previews/210/210429/210429801/210429801-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2021",
+    "Author": "Amanda Hinchman-Dominguez",
+    "Author_Data": "https://www.ebooks.com/en-in/author/amanda-hinchman-dominguez/208631844/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Goliath",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210266413/goliath/tochi-onyebuchi/",
+    "Price": "US$10.79",
+    "Image": "https://image.ebooks.com/previews/210/210266/210266413/210266413-sml-1.jpg",
+    "Subtitle": "A Novel",
+    "Publication_Year": "2022",
+    "Author": "Tochi Onyebuchi",
+    "Author_Data": "https://www.ebooks.com/en-in/author/tochi-onyebuchi/1312034/",
+    "Publisher": "Tom Doherty Associates"
+  },
+  {
+    "Book_name": "Learning MySQL",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210373685/learning-mysql/vinicius-m-grippa/",
+    "Price": "US$50.99",
+    "Image": "https://image.ebooks.com/previews/210/210373/210373685/210373685-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2021",
+    "Author": "Vinicius M. Grippa",
+    "Author_Data": "https://www.ebooks.com/en-in/author/vinicius-m.-grippa/208605671/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Learning MySQL",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210373685/learning-mysql/vinicius-m-grippa/",
+    "Price": "US$50.99",
+    "Image": "https://image.ebooks.com/previews/210/210373/210373685/210373685-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2021",
+    "Author": "Sergey Kuzmichev",
+    "Author_Data": "https://www.ebooks.com/en-in/author/sergey-kuzmichev/208605672/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow",
+    "Book_Link": "https://www.ebooks.com/en-in/book/209779138/hands-on-machine-learning-with-scikit-learn-keras-and-tensorflow/aur-lien-g-ron/",
+    "Price": "US$63.99",
+    "Image": "https://image.ebooks.com/previews/209/209779/209779138/209779138-sml-1.jpg",
+    "Subtitle": "Concepts, Tools, and Techniques to Build Intelligent Systems",
+    "Publication_Year": "2019",
+    "Author": "Aur\u00e9lien G\u00e9ron",
+    "Author_Data": "https://www.ebooks.com/en-in/author/aur\u00e9lien-g\u00e9ron/1320636/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Database Internals",
+    "Book_Link": "https://www.ebooks.com/en-in/book/209784911/database-internals/alex-petrov/",
+    "Price": "US$50.99",
+    "Image": "https://image.ebooks.com/previews/209/209784/209784911/209784911-sml-1.jpg",
+    "Subtitle": "A Deep Dive into How Distributed Data Systems Work",
+    "Publication_Year": "2019",
+    "Author": "Alex Petrov",
+    "Author_Data": "https://www.ebooks.com/en-in/author/alex-petrov/208283562/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Make: Electronics",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210381766/make-electronics/charles-platt/",
+    "Price": "US$28.99",
+    "Image": "https://image.ebooks.com/previews/210/210381/210381766/210381766-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2021",
+    "Author": "Charles Platt",
+    "Author_Data": "https://www.ebooks.com/en-in/author/charles-platt/239611/",
+    "Publisher": "Make Community, LLC"
+  },
+  {
+    "Book_name": "Concurrency in C# Cookbook",
+    "Book_Link": "https://www.ebooks.com/en-in/book/209766469/concurrency-in-c-cookbook/stephen-cleary/",
+    "Price": "US$42.99",
+    "Image": "https://image.ebooks.com/previews/209/209766/209766469/209766469-sml-1.jpg",
+    "Subtitle": "Asynchronous, Parallel, and Multithreaded Programming",
+    "Publication_Year": "2019",
+    "Author": "Stephen Cleary",
+    "Author_Data": "https://www.ebooks.com/en-in/author/stephen-cleary/779026/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "The Last Emperox",
+    "Book_Link": "https://www.ebooks.com/en-in/book/209665100/the-last-emperox/john-scalzi/",
+    "Price": "US$3.99",
+    "Image": "https://image.ebooks.com/previews/209/209665/209665100/209665100-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2020",
+    "Author": "John Scalzi",
+    "Author_Data": "https://www.ebooks.com/en-in/author/john-scalzi/268531/",
+    "Publisher": "Tom Doherty Associates"
+  },
+  {
+    "Book_name": "Python Data Science Handbook",
+    "Book_Link": "https://www.ebooks.com/en-in/book/95640666/python-data-science-handbook/jake-vanderplas/",
+    "Price": "US$59.99",
+    "Image": "https://image.ebooks.com/previews/095/095640/095640666/095640666-sml-1.jpg",
+    "Subtitle": "Essential Tools for Working with Data",
+    "Publication_Year": "2016",
+    "Author": "Jake VanderPlas",
+    "Author_Data": "https://www.ebooks.com/en-in/author/jake-vanderplas/1293677/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Deep Learning for Coders with fastai and PyTorch",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210066947/deep-learning-for-coders-with-fastai-and-pytorch/jeremy-howard/",
+    "Price": "US$59.99",
+    "Image": "https://image.ebooks.com/previews/210/210066/210066947/210066947-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2020",
+    "Author": "Jeremy Howard",
+    "Author_Data": "https://www.ebooks.com/en-in/author/jeremy-howard/203221/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Deep Learning for Coders with fastai and PyTorch",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210066947/deep-learning-for-coders-with-fastai-and-pytorch/jeremy-howard/",
+    "Price": "US$59.99",
+    "Image": "https://image.ebooks.com/previews/210/210066/210066947/210066947-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2020",
+    "Author": "Sylvain Gugger",
+    "Author_Data": "https://www.ebooks.com/en-in/author/sylvain-gugger/208430776/",
+    "Publisher": "O'Reilly Media"
+  }
+]
