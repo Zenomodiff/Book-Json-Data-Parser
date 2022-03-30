@@ -1,0 +1,156 @@
+[
+  {
+    "Book_name": "AWS Cookbook",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210429800/aws-cookbook/john-culkin/",
+    "Price": "US$59.99",
+    "Image": "https://image.ebooks.com/previews/210/210429/210429800/210429800-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2021",
+    "Author": "John Culkin",
+    "Author_Data": "https://www.ebooks.com/en-in/author/john-culkin/208631841/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "AWS Cookbook",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210429800/aws-cookbook/john-culkin/",
+    "Price": "US$59.99",
+    "Image": "https://image.ebooks.com/previews/210/210429/210429800/210429800-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2021",
+    "Author": "Mike Zazon",
+    "Author_Data": "https://www.ebooks.com/en-in/author/mike-zazon/208631842/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Starfish",
+    "Book_Link": "https://www.ebooks.com/en-in/book/1753745/starfish/peter-watts/",
+    "Price": "US$5.99",
+    "Image": "https://image.ebooks.com/previews/001/001753/001753745/001753745-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2014",
+    "Author": "Peter Watts",
+    "Author_Data": "https://www.ebooks.com/en-in/author/peter-watts/9068/",
+    "Publisher": "Tom Doherty Associates"
+  },
+  {
+    "Book_name": "React: Up & Running",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210413556/react-up-running/stoyan-stefanov/",
+    "Price": "US$42.99",
+    "Image": "https://image.ebooks.com/previews/210/210413/210413556/210413556-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2021",
+    "Author": "Stoyan Stefanov",
+    "Author_Data": "https://www.ebooks.com/en-in/author/stoyan-stefanov/265512/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "C# Cookbook",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210382920/c-cookbook/joe-mayo/",
+    "Price": "US$50.99",
+    "Image": "https://image.ebooks.com/previews/210/210382/210382920/210382920-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2021",
+    "Author": "Joe Mayo",
+    "Author_Data": "https://www.ebooks.com/en-in/author/joe-mayo/70090/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "WebAssembly: The Definitive Guide",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210429799/webassembly-the-definitive-guide/brian-sletten/",
+    "Price": "US$50.99",
+    "Image": "https://image.ebooks.com/previews/210/210429/210429799/210429799-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2021",
+    "Author": "Brian Sletten",
+    "Author_Data": "https://www.ebooks.com/en-in/author/brian-sletten/549676/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Head First Swift",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210435879/head-first-swift/paris-buttfield-addison/",
+    "Price": "US$59.99",
+    "Image": "https://image.ebooks.com/previews/210/210435/210435879/210435879-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2021",
+    "Author": "Paris Buttfield-Addison",
+    "Author_Data": "https://www.ebooks.com/en-in/author/paris-buttfield-addison/303646/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Head First Swift",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210435879/head-first-swift/paris-buttfield-addison/",
+    "Price": "US$59.99",
+    "Image": "https://image.ebooks.com/previews/210/210435/210435879/210435879-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2021",
+    "Author": "Jon Manning",
+    "Author_Data": "https://www.ebooks.com/en-in/author/jon-manning/303645/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Think Bayes",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210299921/think-bayes/allen-b-downey/",
+    "Price": "US$42.99",
+    "Image": "https://image.ebooks.com/previews/210/210299/210299921/210299921-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2021",
+    "Author": "Allen B. Downey",
+    "Author_Data": "https://www.ebooks.com/en-in/author/allen-b.-downey/171577/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Mastering Ethereum",
+    "Book_Link": "https://www.ebooks.com/en-in/book/209538405/mastering-ethereum/andreas-m-antonopoulos/",
+    "Price": "US$50.99",
+    "Image": "https://image.ebooks.com/previews/209/209538/209538405/209538405-sml-1.jpg",
+    "Subtitle": "Building Smart Contracts and DApps",
+    "Publication_Year": "2018",
+    "Author": "Andreas M. Antonopoulos",
+    "Author_Data": "https://www.ebooks.com/en-in/author/andreas-m.-antonopoulos/857411/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Mastering Ethereum",
+    "Book_Link": "https://www.ebooks.com/en-in/book/209538405/mastering-ethereum/andreas-m-antonopoulos/",
+    "Price": "US$50.99",
+    "Image": "https://image.ebooks.com/previews/209/209538/209538405/209538405-sml-1.jpg",
+    "Subtitle": "Building Smart Contracts and DApps",
+    "Publication_Year": "2018",
+    "Author": "Gavin Wood Ph. D.",
+    "Author_Data": "https://www.ebooks.com/en-in/author/gavin-wood-ph.-d./208174817/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Practical Cloud Security",
+    "Book_Link": "https://www.ebooks.com/en-in/book/209630691/practical-cloud-security/chris-dotson/",
+    "Price": "US$42.99",
+    "Image": "https://image.ebooks.com/previews/209/209630/209630691/209630691-sml-1.jpg",
+    "Subtitle": "A Guide for Secure Design and Deployment",
+    "Publication_Year": "2019",
+    "Author": "Chris Dotson",
+    "Author_Data": "https://www.ebooks.com/en-in/author/chris-dotson/94259032/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "bash Cookbook",
+    "Book_Link": "https://www.ebooks.com/en-in/book/95881077/bash-cookbook/carl-albing/",
+    "Price": "US$50.99",
+    "Image": "https://image.ebooks.com/previews/095/095881/095881077/095881077-sml-1.jpg",
+    "Subtitle": "Solutions and Examples for bash Users",
+    "Publication_Year": "2017",
+    "Author": "Carl Albing",
+    "Author_Data": "https://www.ebooks.com/en-in/author/carl-albing/182726/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "bash Cookbook",
+    "Book_Link": "https://www.ebooks.com/en-in/book/95881077/bash-cookbook/carl-albing/",
+    "Price": "US$50.99",
+    "Image": "https://image.ebooks.com/previews/095/095881/095881077/095881077-sml-1.jpg",
+    "Subtitle": "Solutions and Examples for bash Users",
+    "Publication_Year": "2017",
+    "Author": "JP Vossen",
+    "Author_Data": "https://www.ebooks.com/en-in/author/jp-vossen/182727/",
+    "Publisher": "O'Reilly Media"
+  }
+]
