@@ -1,0 +1,134 @@
+[
+  {
+    "Book_name": "Deep Learning for Coders with fastai and PyTorch",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210066947/deep-learning-for-coders-with-fastai-and-pytorch/jeremy-howard/",
+    "Price": "US$59.99",
+    "Image": "https://image.ebooks.com/previews/210/210066/210066947/210066947-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2020",
+    "Author": "Jeremy Howard",
+    "Author_Data": "https://www.ebooks.com/en-in/author/jeremy-howard/203221/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Deep Learning for Coders with fastai and PyTorch",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210066947/deep-learning-for-coders-with-fastai-and-pytorch/jeremy-howard/",
+    "Price": "US$59.99",
+    "Image": "https://image.ebooks.com/previews/210/210066/210066947/210066947-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2020",
+    "Author": "Sylvain Gugger",
+    "Author_Data": "https://www.ebooks.com/en-in/author/sylvain-gugger/208430776/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Learning Python",
+    "Book_Link": "https://www.ebooks.com/en-in/book/1224732/learning-python/mark-lutz/",
+    "Price": "US$63.99",
+    "Image": "https://image.ebooks.com/previews/001/001224/001224732/001224732-sml-1.jpg",
+    "Subtitle": "Powerful Object-Oriented Programming",
+    "Publication_Year": "2013",
+    "Author": "Mark Lutz",
+    "Author_Data": "https://www.ebooks.com/en-in/author/mark-lutz/182774/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "A Dead Djinn in Cairo",
+    "Book_Link": "https://www.ebooks.com/en-in/book/2543873/a-dead-djinn-in-cairo/p-dj-l-clark/",
+    "Price": "US$0.79",
+    "Image": "https://image.ebooks.com/previews/002/002543/002543873/002543873-sml-1.jpg",
+    "Subtitle": "A Tor.Com Original",
+    "Publication_Year": "2016",
+    "Author": "P. Dj\u00e8l\u00ed Clark",
+    "Author_Data": "https://www.ebooks.com/en-in/author/p.-dj\u00e8l\u00ed-clark/94245448/",
+    "Publisher": "Tom Doherty Associates"
+  },
+  {
+    "Book_name": "Learning Web Design",
+    "Book_Link": "https://www.ebooks.com/en-in/book/96260103/learning-web-design/jennifer-robbins/",
+    "Price": "US$50.99",
+    "Image": "https://image.ebooks.com/previews/096/096260/096260103/096260103-sml-1.jpg",
+    "Subtitle": "A Beginner's Guide to HTML, CSS, JavaScript, and Web Graphics",
+    "Publication_Year": "2018",
+    "Author": "Jennifer Robbins",
+    "Author_Data": "https://www.ebooks.com/en-in/author/jennifer-robbins/378173/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Software Engineering at Google",
+    "Book_Link": "https://www.ebooks.com/en-in/book/209970024/software-engineering-at-google/titus-winters/",
+    "Price": "US$50.99",
+    "Image": "https://image.ebooks.com/previews/209/209970/209970024/209970024-sml-1.jpg",
+    "Subtitle": "Lessons Learned from Programming Over Time",
+    "Publication_Year": "2020",
+    "Author": "Titus Winters",
+    "Author_Data": "https://www.ebooks.com/en-in/author/titus-winters/208375647/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Software Engineering at Google",
+    "Book_Link": "https://www.ebooks.com/en-in/book/209970024/software-engineering-at-google/titus-winters/",
+    "Price": "US$50.99",
+    "Image": "https://image.ebooks.com/previews/209/209970/209970024/209970024-sml-1.jpg",
+    "Subtitle": "Lessons Learned from Programming Over Time",
+    "Publication_Year": "2020",
+    "Author": "Tom Manshreck",
+    "Author_Data": "https://www.ebooks.com/en-in/author/tom-manshreck/208375648/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Silver in the Wood",
+    "Book_Link": "https://www.ebooks.com/en-in/book/209569883/silver-in-the-wood/emily-tesh/",
+    "Price": "US$3.19",
+    "Image": "https://image.ebooks.com/previews/209/209569/209569883/209569883-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2019",
+    "Author": "Emily Tesh",
+    "Author_Data": "https://www.ebooks.com/en-in/author/emily-tesh/208186870/",
+    "Publisher": "Tom Doherty Associates"
+  },
+  {
+    "Book_name": "Introducing Python",
+    "Book_Link": "https://www.ebooks.com/en-in/book/209884598/introducing-python/bill-lubanovic/",
+    "Price": "US$42.99",
+    "Image": "https://image.ebooks.com/previews/209/209884/209884598/209884598-sml-1.jpg",
+    "Subtitle": "Modern Computing in Simple Packages",
+    "Publication_Year": "2019",
+    "Author": "Bill Lubanovic",
+    "Author_Data": "https://www.ebooks.com/en-in/author/bill-lubanovic/241822/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Effective Modern C++",
+    "Book_Link": "https://www.ebooks.com/en-in/book/1839836/effective-modern-c/scott-meyers/",
+    "Price": "US$42.99",
+    "Image": "https://image.ebooks.com/previews/001/001839/001839836/001839836-sml-1.jpg",
+    "Subtitle": "42 Specific Ways to Improve Your Use of C++11 and C++14",
+    "Publication_Year": "2014",
+    "Author": "Scott Meyers",
+    "Author_Data": "https://www.ebooks.com/en-in/author/scott-meyers/147115/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Fluent Python",
+    "Book_Link": "https://www.ebooks.com/en-in/book/2120783/fluent-python/luciano-ramalho/",
+    "Price": "US$50.99",
+    "Image": "https://image.ebooks.com/previews/002/002120/002120783/002120783-sml-1.jpg",
+    "Subtitle": "Clear, Concise, and Effective Programming",
+    "Publication_Year": "2015",
+    "Author": "Luciano Ramalho",
+    "Author_Data": "https://www.ebooks.com/en-in/author/luciano-ramalho/983436/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Upright Women Wanted",
+    "Book_Link": "https://www.ebooks.com/en-in/book/209672398/upright-women-wanted/sarah-gailey/",
+    "Price": "US$8.39",
+    "Image": "https://image.ebooks.com/previews/209/209672/209672398/209672398-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2020",
+    "Author": "Sarah Gailey",
+    "Author_Data": "https://www.ebooks.com/en-in/author/sarah-gailey/1292544/",
+    "Publisher": "Tom Doherty Associates"
+  }
+]
