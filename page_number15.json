@@ -1,0 +1,167 @@
+[
+  {
+    "Book_name": "Continuous API Management",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210416660/continuous-api-management/mehdi-medjaoui/",
+    "Price": "US$50.99",
+    "Image": "https://image.ebooks.com/previews/210/210416/210416660/210416660-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2021",
+    "Author": "Mehdi Medjaoui",
+    "Author_Data": "https://www.ebooks.com/en-in/author/mehdi-medjaoui/208175030/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Continuous API Management",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210416660/continuous-api-management/mehdi-medjaoui/",
+    "Price": "US$50.99",
+    "Image": "https://image.ebooks.com/previews/210/210416/210416660/210416660-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2021",
+    "Author": "Erik Wilde",
+    "Author_Data": "https://www.ebooks.com/en-in/author/erik-wilde/391119/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Pro Go",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210462503/pro-go/adam-freeman/",
+    "Price": "US$46.58",
+    "Image": "https://image.ebooks.com/previews/210/210462/210462503/210462503-sml-1.jpg",
+    "Subtitle": "The Complete Guide to Programming Reliable and Efficient Software Using Golang",
+    "Publication_Year": "2022",
+    "Author": "Adam Freeman",
+    "Author_Data": "https://www.ebooks.com/en-in/author/adam-freeman/182825/",
+    "Publisher": "Apress"
+  },
+  {
+    "Book_name": "Pro T-SQL Programmer's Guide",
+    "Book_Link": "https://www.ebooks.com/en-in/book/1998660/pro-t-sql-programmer-s-guide/jay-natarajan/",
+    "Price": "US$60.58",
+    "Image": "https://image.ebooks.com/previews/001/001998/001998660/001998660-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2015",
+    "Author": "Jay Natarajan",
+    "Author_Data": "https://www.ebooks.com/en-in/author/jay-natarajan/574527/",
+    "Publisher": "Apress"
+  },
+  {
+    "Book_name": "Pro T-SQL Programmer's Guide",
+    "Book_Link": "https://www.ebooks.com/en-in/book/1998660/pro-t-sql-programmer-s-guide/jay-natarajan/",
+    "Price": "US$60.58",
+    "Image": "https://image.ebooks.com/previews/001/001998/001998660/001998660-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2015",
+    "Author": "Rudi Bruchez",
+    "Author_Data": "https://www.ebooks.com/en-in/author/rudi-bruchez/509229/",
+    "Publisher": "Apress"
+  },
+  {
+    "Book_name": "Powerful Command-Line Applications in Go",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210489066/powerful-command-line-applications-in-go/ricardo-gerardi/",
+    "Price": "US$39.99",
+    "Image": "https://image.ebooks.com/previews/210/210489/210489066/210489066-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2021",
+    "Author": "Ricardo Gerardi",
+    "Author_Data": "https://www.ebooks.com/en-in/author/ricardo-gerardi/208651464/",
+    "Publisher": "Pragmatic Bookshelf"
+  },
+  {
+    "Book_name": "Into the Light",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210061371/into-the-light/david-weber/",
+    "Price": "US$3.99",
+    "Image": "https://image.ebooks.com/previews/210/210061/210061371/210061371-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2021",
+    "Author": "David Weber",
+    "Author_Data": "https://www.ebooks.com/en-in/author/david-weber/267398/",
+    "Publisher": "Tom Doherty Associates"
+  },
+  {
+    "Book_name": "Into the Light",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210061371/into-the-light/david-weber/",
+    "Price": "US$3.99",
+    "Image": "https://image.ebooks.com/previews/210/210061/210061371/210061371-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2021",
+    "Author": "Chris Kennedy",
+    "Author_Data": "https://www.ebooks.com/en-in/author/chris-kennedy/405776/",
+    "Publisher": "Tom Doherty Associates"
+  },
+  {
+    "Book_name": "Programming Kubernetes",
+    "Book_Link": "https://www.ebooks.com/en-in/book/209744006/programming-kubernetes/michael-hausenblas/",
+    "Price": "US$50.99",
+    "Image": "https://image.ebooks.com/previews/209/209744/209744006/209744006-sml-1.jpg",
+    "Subtitle": "Developing Cloud-Native Applications",
+    "Publication_Year": "2019",
+    "Author": "Michael Hausenblas",
+    "Author_Data": "https://www.ebooks.com/en-in/author/michael-hausenblas/94231836/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Programming Kubernetes",
+    "Book_Link": "https://www.ebooks.com/en-in/book/209744006/programming-kubernetes/michael-hausenblas/",
+    "Price": "US$50.99",
+    "Image": "https://image.ebooks.com/previews/209/209744/209744006/209744006-sml-1.jpg",
+    "Subtitle": "Developing Cloud-Native Applications",
+    "Publication_Year": "2019",
+    "Author": "Stefan Schimanski",
+    "Author_Data": "https://www.ebooks.com/en-in/author/stefan-schimanski/208262655/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Learning SQL",
+    "Book_Link": "https://www.ebooks.com/en-in/book/209971182/learning-sql/alan-beaulieu/",
+    "Price": "US$50.99",
+    "Image": "https://image.ebooks.com/previews/209/209971/209971182/209971182-sml-1.jpg",
+    "Subtitle": "Generate, Manipulate, and Retrieve Data",
+    "Publication_Year": "2020",
+    "Author": "Alan Beaulieu",
+    "Author_Data": "https://www.ebooks.com/en-in/author/alan-beaulieu/182778/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Python Cookbook",
+    "Book_Link": "https://www.ebooks.com/en-in/book/1187796/python-cookbook/david-beazley/",
+    "Price": "US$39.99",
+    "Image": "https://image.ebooks.com/previews/001/001187/001187796/001187796-sml-1.jpg",
+    "Subtitle": "Recipes for Mastering Python 3",
+    "Publication_Year": "2013",
+    "Author": "David Beazley",
+    "Author_Data": "https://www.ebooks.com/en-in/author/david-beazley/74337/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Python Cookbook",
+    "Book_Link": "https://www.ebooks.com/en-in/book/1187796/python-cookbook/david-beazley/",
+    "Price": "US$39.99",
+    "Image": "https://image.ebooks.com/previews/001/001187/001187796/001187796-sml-1.jpg",
+    "Subtitle": "Recipes for Mastering Python 3",
+    "Publication_Year": "2013",
+    "Author": "Brian K. Jones",
+    "Author_Data": "https://www.ebooks.com/en-in/author/brian-k.-jones/182826/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Practical Time Series Analysis",
+    "Book_Link": "https://www.ebooks.com/en-in/book/209787852/practical-time-series-analysis/aileen-nielsen/",
+    "Price": "US$59.99",
+    "Image": "https://image.ebooks.com/previews/209/209787/209787852/209787852-sml-1.jpg",
+    "Subtitle": "Prediction with Statistics and Machine Learning",
+    "Publication_Year": "2019",
+    "Author": "Aileen Nielsen",
+    "Author_Data": "https://www.ebooks.com/en-in/author/aileen-nielsen/208284673/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Python for Algorithmic Trading",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210160934/python-for-algorithmic-trading/yves-hilpisch/",
+    "Price": "US$59.99",
+    "Image": "https://image.ebooks.com/previews/210/210160/210160934/210160934-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2020",
+    "Author": "Yves Hilpisch",
+    "Author_Data": "https://www.ebooks.com/en-in/author/yves-hilpisch/371878/",
+    "Publisher": "O'Reilly Media"
+  }
+]
