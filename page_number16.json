@@ -1,0 +1,145 @@
+[
+  {
+    "Book_name": "Flask Web Development",
+    "Book_Link": "https://www.ebooks.com/en-in/book/96034028/flask-web-development/miguel-grinberg/",
+    "Price": "US$38.99",
+    "Image": "https://image.ebooks.com/previews/096/096034/096034028/096034028-sml-1.jpg",
+    "Subtitle": "Developing Web Applications with Python",
+    "Publication_Year": "2018",
+    "Author": "Miguel Grinberg",
+    "Author_Data": "https://www.ebooks.com/en-in/author/miguel-grinberg/775134/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Product Roadmaps Relaunched",
+    "Book_Link": "https://www.ebooks.com/en-in/book/95896237/product-roadmaps-relaunched/c-todd-lombardo/",
+    "Price": "US$38.99",
+    "Image": "https://image.ebooks.com/previews/095/095896/095896237/095896237-sml-1.jpg",
+    "Subtitle": "How to Set Direction while Embracing Uncertainty",
+    "Publication_Year": "2017",
+    "Author": "C. Todd Lombardo",
+    "Author_Data": "https://www.ebooks.com/en-in/author/c.-todd-lombardo/1001436/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Product Roadmaps Relaunched",
+    "Book_Link": "https://www.ebooks.com/en-in/book/95896237/product-roadmaps-relaunched/c-todd-lombardo/",
+    "Price": "US$38.99",
+    "Image": "https://image.ebooks.com/previews/095/095896/095896237/095896237-sml-1.jpg",
+    "Subtitle": "How to Set Direction while Embracing Uncertainty",
+    "Publication_Year": "2017",
+    "Author": "Bruce McCarthy",
+    "Author_Data": "https://www.ebooks.com/en-in/author/bruce-mccarthy/94206808/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "PostgreSQL: Up and Running",
+    "Book_Link": "https://www.ebooks.com/en-in/book/95886902/postgresql-up-and-running/regina-o-obe/",
+    "Price": "US$33.99",
+    "Image": "https://image.ebooks.com/previews/095/095886/095886902/095886902-sml-1.jpg",
+    "Subtitle": "A Practical Guide to the Advanced Open Source Database",
+    "Publication_Year": "2017",
+    "Author": "Regina O. Obe",
+    "Author_Data": "https://www.ebooks.com/en-in/author/regina-o.-obe/722944/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "PostgreSQL: Up and Running",
+    "Book_Link": "https://www.ebooks.com/en-in/book/95886902/postgresql-up-and-running/regina-o-obe/",
+    "Price": "US$33.99",
+    "Image": "https://image.ebooks.com/previews/095/095886/095886902/095886902-sml-1.jpg",
+    "Subtitle": "A Practical Guide to the Advanced Open Source Database",
+    "Publication_Year": "2017",
+    "Author": "Leo S. Hsu",
+    "Author_Data": "https://www.ebooks.com/en-in/author/leo-s.-hsu/722945/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Everfair",
+    "Book_Link": "https://www.ebooks.com/en-in/book/2238955/everfair/nisi-shawl/",
+    "Price": "US$7.59",
+    "Image": "https://image.ebooks.com/previews/002/002238/002238955/002238955-sml-1.jpg",
+    "Subtitle": "A Novel",
+    "Publication_Year": "2016",
+    "Author": "Nisi Shawl",
+    "Author_Data": "https://www.ebooks.com/en-in/author/nisi-shawl/970879/",
+    "Publisher": "Tom Doherty Associates"
+  },
+  {
+    "Book_name": "Practical Deep Learning for Cloud, Mobile, and Edge",
+    "Book_Link": "https://www.ebooks.com/en-in/book/209815944/practical-deep-learning-for-cloud-mobile-and-edge/anirudh-koul/",
+    "Price": "US$67.99",
+    "Image": "https://image.ebooks.com/previews/209/209815/209815944/209815944-sml-1.jpg",
+    "Subtitle": "Real-World AI & Computer-Vision Projects Using Python, Keras & TensorFlow",
+    "Publication_Year": "2019",
+    "Author": "Anirudh Koul",
+    "Author_Data": "https://www.ebooks.com/en-in/author/anirudh-koul/208298020/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Practical Deep Learning for Cloud, Mobile, and Edge",
+    "Book_Link": "https://www.ebooks.com/en-in/book/209815944/practical-deep-learning-for-cloud-mobile-and-edge/anirudh-koul/",
+    "Price": "US$67.99",
+    "Image": "https://image.ebooks.com/previews/209/209815/209815944/209815944-sml-1.jpg",
+    "Subtitle": "Real-World AI & Computer-Vision Projects Using Python, Keras & TensorFlow",
+    "Publication_Year": "2019",
+    "Author": "Siddha Ganju",
+    "Author_Data": "https://www.ebooks.com/en-in/author/siddha-ganju/208298021/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Implementing Service Level Objectives",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210098887/implementing-service-level-objectives/alex-hidalgo/",
+    "Price": "US$50.99",
+    "Image": "https://image.ebooks.com/previews/210/210098/210098887/210098887-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2020",
+    "Author": "Alex Hidalgo",
+    "Author_Data": "https://www.ebooks.com/en-in/author/alex-hidalgo/208402006/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Programming iOS 14",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210136762/programming-ios-14/matt-neuburg/",
+    "Price": "US$50.99",
+    "Image": "https://image.ebooks.com/previews/210/210136/210136762/210136762-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2020",
+    "Author": "Matt Neuburg",
+    "Author_Data": "https://www.ebooks.com/en-in/author/matt-neuburg/239501/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Blindsight",
+    "Book_Link": "https://www.ebooks.com/en-in/book/633307/blindsight/peter-watts/",
+    "Price": "US$9.49",
+    "Image": "https://image.ebooks.com/previews/000/000633/000633307/000633307-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2006",
+    "Author": "Peter Watts",
+    "Author_Data": "https://www.ebooks.com/en-in/author/peter-watts/9068/",
+    "Publisher": "Tom Doherty Associates"
+  },
+  {
+    "Book_name": "The Dream-Quest of Vellitt Boe",
+    "Book_Link": "https://www.ebooks.com/en-in/book/2543875/the-dream-quest-of-vellitt-boe/kij-johnson/",
+    "Price": "US$3.19",
+    "Image": "https://image.ebooks.com/previews/002/002543/002543875/002543875-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2016",
+    "Author": "Kij Johnson",
+    "Author_Data": "https://www.ebooks.com/en-in/author/kij-johnson/6219/",
+    "Publisher": "Tom Doherty Associates"
+  },
+  {
+    "Book_name": "Data Pipelines Pocket Reference",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210223912/data-pipelines-pocket-reference/james-densmore/",
+    "Price": "US$21.99",
+    "Image": "https://image.ebooks.com/previews/210/210223/210223912/210223912-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2021",
+    "Author": "James Densmore",
+    "Author_Data": "https://www.ebooks.com/en-in/author/james-densmore/208527001/",
+    "Publisher": "O'Reilly Media"
+  }
+]
