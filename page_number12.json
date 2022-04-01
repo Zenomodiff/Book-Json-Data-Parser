@@ -1,0 +1,156 @@
+[
+  {
+    "Book_name": "High Performance Python",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210010581/high-performance-python/micha-gorelick/",
+    "Price": "US$50.99",
+    "Image": "https://image.ebooks.com/previews/210/210010/210010581/210010581-sml-1.jpg",
+    "Subtitle": "Practical Performant Programming for Humans",
+    "Publication_Year": "2020",
+    "Author": "Micha Gorelick",
+    "Author_Data": "https://www.ebooks.com/en-in/author/micha-gorelick/812361/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "High Performance Python",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210010581/high-performance-python/micha-gorelick/",
+    "Price": "US$50.99",
+    "Image": "https://image.ebooks.com/previews/210/210010/210010581/210010581-sml-1.jpg",
+    "Subtitle": "Practical Performant Programming for Humans",
+    "Publication_Year": "2020",
+    "Author": "Ian Ozsvald",
+    "Author_Data": "https://www.ebooks.com/en-in/author/ian-ozsvald/812362/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Stream Processing with Apache Flink",
+    "Book_Link": "https://www.ebooks.com/en-in/book/209661473/stream-processing-with-apache-flink/fabian-hueske/",
+    "Price": "US$59.99",
+    "Image": "https://image.ebooks.com/previews/209/209661/209661473/209661473-sml-1.jpg",
+    "Subtitle": "Fundamentals, Implementation, and Operation of Streaming Applications",
+    "Publication_Year": "2019",
+    "Author": "Fabian Hueske",
+    "Author_Data": "https://www.ebooks.com/en-in/author/fabian-hueske/208229409/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Stream Processing with Apache Flink",
+    "Book_Link": "https://www.ebooks.com/en-in/book/209661473/stream-processing-with-apache-flink/fabian-hueske/",
+    "Price": "US$59.99",
+    "Image": "https://image.ebooks.com/previews/209/209661/209661473/209661473-sml-1.jpg",
+    "Subtitle": "Fundamentals, Implementation, and Operation of Streaming Applications",
+    "Publication_Year": "2019",
+    "Author": "Vasiliki Kalavri",
+    "Author_Data": "https://www.ebooks.com/en-in/author/vasiliki-kalavri/208229410/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "gRPC: Up and Running",
+    "Book_Link": "https://www.ebooks.com/en-in/book/209930067/grpc-up-and-running/kasun-indrasiri/",
+    "Price": "US$38.99",
+    "Image": "https://image.ebooks.com/previews/209/209930/209930067/209930067-sml-1.jpg",
+    "Subtitle": "Building Cloud Native Applications with Go and Java for Docker and Kubernetes",
+    "Publication_Year": "2020",
+    "Author": "Kasun Indrasiri",
+    "Author_Data": "https://www.ebooks.com/en-in/author/kasun-indrasiri/1303254/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "gRPC: Up and Running",
+    "Book_Link": "https://www.ebooks.com/en-in/book/209930067/grpc-up-and-running/kasun-indrasiri/",
+    "Price": "US$38.99",
+    "Image": "https://image.ebooks.com/previews/209/209930/209930067/209930067-sml-1.jpg",
+    "Subtitle": "Building Cloud Native Applications with Go and Java for Docker and Kubernetes",
+    "Publication_Year": "2020",
+    "Author": "Danesh Kuruppu",
+    "Author_Data": "https://www.ebooks.com/en-in/author/danesh-kuruppu/208359618/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Witchmark",
+    "Book_Link": "https://www.ebooks.com/en-in/book/95852279/witchmark/c-l-polk/",
+    "Price": "US$6.79",
+    "Image": "https://image.ebooks.com/previews/095/095852/095852279/095852279-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2018",
+    "Author": "C. L. Polk",
+    "Author_Data": "https://www.ebooks.com/en-in/author/c.-l.-polk/94177670/",
+    "Publisher": "Tom Doherty Associates"
+  },
+  {
+    "Book_name": "Concurrency in Go",
+    "Book_Link": "https://www.ebooks.com/en-in/book/95820962/concurrency-in-go/katherine-cox-buday/",
+    "Price": "US$42.99",
+    "Image": "https://image.ebooks.com/previews/095/095820/095820962/095820962-sml-1.jpg",
+    "Subtitle": "Tools and Techniques for Developers",
+    "Publication_Year": "2017",
+    "Author": "Katherine Cox-Buday",
+    "Author_Data": "https://www.ebooks.com/en-in/author/katherine-cox-buday/94161104/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Drowned Country",
+    "Book_Link": "https://www.ebooks.com/en-in/book/209801050/drowned-country/emily-tesh/",
+    "Price": "US$3.19",
+    "Image": "https://image.ebooks.com/previews/209/209801/209801050/209801050-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2020",
+    "Author": "Emily Tesh",
+    "Author_Data": "https://www.ebooks.com/en-in/author/emily-tesh/208186870/",
+    "Publisher": "Tom Doherty Associates"
+  },
+  {
+    "Book_name": "At the Sign of Triumph",
+    "Book_Link": "https://www.ebooks.com/en-in/book/2537853/at-the-sign-of-triumph/david-weber/",
+    "Price": "US$3.99",
+    "Image": "https://image.ebooks.com/previews/002/002537/002537853/002537853-sml-1.jpg",
+    "Subtitle": "A Novel in the Safehold Series",
+    "Publication_Year": "2016",
+    "Author": "David Weber",
+    "Author_Data": "https://www.ebooks.com/en-in/author/david-weber/267398/",
+    "Publisher": "Tom Doherty Associates"
+  },
+  {
+    "Book_name": "Interactive Data Visualization for the Web",
+    "Book_Link": "https://www.ebooks.com/en-in/book/95835127/interactive-data-visualization-for-the-web/scott-murray/",
+    "Price": "US$42.99",
+    "Image": "https://image.ebooks.com/previews/095/095835/095835127/095835127-sml-1.jpg",
+    "Subtitle": "An Introduction to Designing with D3",
+    "Publication_Year": "2017",
+    "Author": "Scott Murray",
+    "Author_Data": "https://www.ebooks.com/en-in/author/scott-murray/207547/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Middlegame",
+    "Book_Link": "https://www.ebooks.com/en-in/book/138599241/middlegame/seanan-mcguire/",
+    "Price": "US$7.99",
+    "Image": "https://image.ebooks.com/previews/138/138599/138599241/138599241-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2019",
+    "Author": "Seanan McGuire",
+    "Author_Data": "https://www.ebooks.com/en-in/author/seanan-mcguire/186802/",
+    "Publisher": "Tom Doherty Associates"
+  },
+  {
+    "Book_name": "Python for DevOps",
+    "Book_Link": "https://www.ebooks.com/en-in/book/209909481/python-for-devops/noah-gift/",
+    "Price": "US$50.99",
+    "Image": "https://image.ebooks.com/previews/209/209909/209909481/209909481-sml-1.jpg",
+    "Subtitle": "Learn Ruthlessly Effective Automation",
+    "Publication_Year": "2019",
+    "Author": "Noah Gift",
+    "Author_Data": "https://www.ebooks.com/en-in/author/noah-gift/241801/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Python for DevOps",
+    "Book_Link": "https://www.ebooks.com/en-in/book/209909481/python-for-devops/noah-gift/",
+    "Price": "US$50.99",
+    "Image": "https://image.ebooks.com/previews/209/209909/209909481/209909481-sml-1.jpg",
+    "Subtitle": "Learn Ruthlessly Effective Automation",
+    "Publication_Year": "2019",
+    "Author": "Kennedy Behrman",
+    "Author_Data": "https://www.ebooks.com/en-in/author/kennedy-behrman/208352679/",
+    "Publisher": "O'Reilly Media"
+  }
+]
