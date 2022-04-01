@@ -1,0 +1,123 @@
+[
+  {
+    "Book_name": "Prosper's Demon",
+    "Book_Link": "https://www.ebooks.com/en-in/book/209753916/prosper-s-demon/k-j-parker/",
+    "Price": "US$1.99",
+    "Image": "https://image.ebooks.com/previews/209/209753/209753916/209753916-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2020",
+    "Author": "K. J. Parker",
+    "Author_Data": "https://www.ebooks.com/en-in/author/k.-j.-parker/171775/",
+    "Publisher": "Tom Doherty Associates"
+  },
+  {
+    "Book_name": "Assassin's Strike",
+    "Book_Link": "https://www.ebooks.com/en-in/book/209770261/assassin-s-strike/ward-larsen/",
+    "Price": "US$3.99",
+    "Image": "https://image.ebooks.com/previews/209/209770/209770261/209770261-sml-1.jpg",
+    "Subtitle": "A David Slaton Novel",
+    "Publication_Year": "2020",
+    "Author": "Ward Larsen",
+    "Author_Data": "https://www.ebooks.com/en-in/author/ward-larsen/254105/",
+    "Publisher": "Tom Doherty Associates"
+  },
+  {
+    "Book_name": "Sisters of the Forsaken Stars",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210185079/sisters-of-the-forsaken-stars/lina-rather/",
+    "Price": "US$1.59",
+    "Image": "https://image.ebooks.com/previews/210/210185/210185079/210185079-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2022",
+    "Author": "Lina Rather",
+    "Author_Data": "https://www.ebooks.com/en-in/author/lina-rather/208223829/",
+    "Publisher": "Tom Doherty Associates"
+  },
+  {
+    "Book_name": "Efficient Linux at the Command Line",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210497580/efficient-linux-at-the-command-line/daniel-j-barrett/",
+    "Price": "US$42.99",
+    "Image": "https://image.ebooks.com/previews/210/210497/210497580/210497580-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2022",
+    "Author": "Daniel J. Barrett",
+    "Author_Data": "https://www.ebooks.com/en-in/author/daniel-j.-barrett/182912/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Rogue Protocol",
+    "Book_Link": "https://www.ebooks.com/en-in/book/95852238/rogue-protocol/martha-wells/",
+    "Price": "US$7.19",
+    "Image": "https://image.ebooks.com/previews/095/095852/095852238/095852238-sml-1.jpg",
+    "Subtitle": "The Murderbot Diaries",
+    "Publication_Year": "2018",
+    "Author": "Martha Wells",
+    "Author_Data": "https://www.ebooks.com/en-in/author/martha-wells/65663/",
+    "Publisher": "Tom Doherty Associates"
+  },
+  {
+    "Book_name": "Artificial Condition",
+    "Book_Link": "https://www.ebooks.com/en-in/book/95856073/artificial-condition/martha-wells/",
+    "Price": "US$7.19",
+    "Image": "https://image.ebooks.com/previews/095/095856/095856073/095856073-sml-1.jpg",
+    "Subtitle": "The Murderbot Diaries",
+    "Publication_Year": "2018",
+    "Author": "Martha Wells",
+    "Author_Data": "https://www.ebooks.com/en-in/author/martha-wells/65663/",
+    "Publisher": "Tom Doherty Associates"
+  },
+  {
+    "Book_name": "Programming Rust",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210313783/programming-rust/jim-blandy/",
+    "Price": "US$59.99",
+    "Image": "https://image.ebooks.com/previews/210/210313/210313783/210313783-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2021",
+    "Author": "Jim Blandy",
+    "Author_Data": "https://www.ebooks.com/en-in/author/jim-blandy/94214791/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Programming Rust",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210313783/programming-rust/jim-blandy/",
+    "Price": "US$59.99",
+    "Image": "https://image.ebooks.com/previews/210/210313/210313783/210313783-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2021",
+    "Author": "Jason Orendorff",
+    "Author_Data": "https://www.ebooks.com/en-in/author/jason-orendorff/94214792/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Exit Strategy",
+    "Book_Link": "https://www.ebooks.com/en-in/book/95938538/exit-strategy/martha-wells/",
+    "Price": "US$7.19",
+    "Image": "https://image.ebooks.com/previews/095/095938/095938538/095938538-sml-1.jpg",
+    "Subtitle": "The Murderbot Diaries",
+    "Publication_Year": "2018",
+    "Author": "Martha Wells",
+    "Author_Data": "https://www.ebooks.com/en-in/author/martha-wells/65663/",
+    "Publisher": "Tom Doherty Associates"
+  },
+  {
+    "Book_name": "Dead Silence",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210289758/dead-silence/s-a-barnes/",
+    "Price": "US$10.79",
+    "Image": "https://image.ebooks.com/previews/210/210289/210289758/210289758-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2022",
+    "Author": "S.A. Barnes",
+    "Author_Data": "https://www.ebooks.com/en-in/author/s.a.-barnes/208563293/",
+    "Publisher": "Tom Doherty Associates"
+  },
+  {
+    "Book_name": "Head First Git",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210470751/head-first-git/raju-gandhi/",
+    "Price": "US$59.99",
+    "Image": "https://image.ebooks.com/previews/210/210470/210470751/210470751-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2022",
+    "Author": "Raju Gandhi",
+    "Author_Data": "https://www.ebooks.com/en-in/author/raju-gandhi/208302749/",
+    "Publisher": "O'Reilly Media"
+  }
+]
