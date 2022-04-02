@@ -1,0 +1,167 @@
+[
+  {
+    "Book_name": "How Firm a Foundation",
+    "Book_Link": "https://www.ebooks.com/en-in/book/678099/how-firm-a-foundation/david-weber/",
+    "Price": "US$5.49",
+    "Image": "https://image.ebooks.com/previews/000/000678/000678099/000678099-sml-1.jpg",
+    "Subtitle": "A Novel in the Safehold Series (#5)",
+    "Publication_Year": "2011",
+    "Author": "David Weber",
+    "Author_Data": "https://www.ebooks.com/en-in/author/david-weber/267398/",
+    "Publisher": "Tom Doherty Associates"
+  },
+  {
+    "Book_name": "Riot Baby",
+    "Book_Link": "https://www.ebooks.com/en-in/book/209659372/riot-baby/tochi-onyebuchi/",
+    "Price": "US$7.99",
+    "Image": "https://image.ebooks.com/previews/209/209659/209659372/209659372-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2020",
+    "Author": "Tochi Onyebuchi",
+    "Author_Data": "https://www.ebooks.com/en-in/author/tochi-onyebuchi/1312034/",
+    "Publisher": "Tom Doherty Associates"
+  },
+  {
+    "Book_name": "SQL Cookbook",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210173280/sql-cookbook/anthony-molinaro/",
+    "Price": "US$50.99",
+    "Image": "https://image.ebooks.com/previews/210/210173/210173280/210173280-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2020",
+    "Author": "Anthony Molinaro",
+    "Author_Data": "https://www.ebooks.com/en-in/author/anthony-molinaro/182996/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "SQL Cookbook",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210173280/sql-cookbook/anthony-molinaro/",
+    "Price": "US$50.99",
+    "Image": "https://image.ebooks.com/previews/210/210173/210173280/210173280-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2020",
+    "Author": "Robert de Graaf",
+    "Author_Data": "https://www.ebooks.com/en-in/author/robert-de-graaf/208495209/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Python in a Nutshell",
+    "Book_Link": "https://www.ebooks.com/en-in/book/95755479/python-in-a-nutshell/alex-martelli/",
+    "Price": "US$67.99",
+    "Image": "https://image.ebooks.com/previews/095/095755/095755479/095755479-sml-1.jpg",
+    "Subtitle": "A Desktop Quick Reference",
+    "Publication_Year": "2017",
+    "Author": "Alex Martelli",
+    "Author_Data": "https://www.ebooks.com/en-in/author/alex-martelli/182646/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Python in a Nutshell",
+    "Book_Link": "https://www.ebooks.com/en-in/book/95755479/python-in-a-nutshell/alex-martelli/",
+    "Price": "US$67.99",
+    "Image": "https://image.ebooks.com/previews/095/095755/095755479/095755479-sml-1.jpg",
+    "Subtitle": "A Desktop Quick Reference",
+    "Publication_Year": "2017",
+    "Author": "Anna Ravenscroft",
+    "Author_Data": "https://www.ebooks.com/en-in/author/anna-ravenscroft/182647/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Programming Python",
+    "Book_Link": "https://www.ebooks.com/en-in/book/625412/programming-python/mark-lutz/",
+    "Price": "US$63.99",
+    "Image": "https://image.ebooks.com/previews/000/000625/000625412/000625412-sml-1.jpg",
+    "Subtitle": "Powerful Object-Oriented Programming",
+    "Publication_Year": "2010",
+    "Author": "Mark Lutz",
+    "Author_Data": "https://www.ebooks.com/en-in/author/mark-lutz/182774/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Sisters of the Vast Black",
+    "Book_Link": "https://www.ebooks.com/en-in/book/209645638/sisters-of-the-vast-black/lina-rather/",
+    "Price": "US$2.79",
+    "Image": "https://image.ebooks.com/previews/209/209645/209645638/209645638-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2019",
+    "Author": "Lina Rather",
+    "Author_Data": "https://www.ebooks.com/en-in/author/lina-rather/208223829/",
+    "Publisher": "Tom Doherty Associates"
+  },
+  {
+    "Book_name": "DNS and BIND",
+    "Book_Link": "https://www.ebooks.com/en-in/book/443122/dns-and-bind/cricket-liu/",
+    "Price": "US$50.99",
+    "Image": "https://image.ebooks.com/previews/000/000443/000443122/000443122-sml-1.jpg",
+    "Subtitle": "Help for System Administrators",
+    "Publication_Year": "2006",
+    "Author": "Cricket Liu",
+    "Author_Data": "https://www.ebooks.com/en-in/author/cricket-liu/182771/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "DNS and BIND",
+    "Book_Link": "https://www.ebooks.com/en-in/book/443122/dns-and-bind/cricket-liu/",
+    "Price": "US$50.99",
+    "Image": "https://image.ebooks.com/previews/000/000443/000443122/000443122-sml-1.jpg",
+    "Subtitle": "Help for System Administrators",
+    "Publication_Year": "2006",
+    "Author": "Paul Albitz",
+    "Author_Data": "https://www.ebooks.com/en-in/author/paul-albitz/182772/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Learning the vi and Vim Editors",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210416626/learning-the-vi-and-vim-editors/arnold-robbins/",
+    "Price": "US$50.99",
+    "Image": "https://image.ebooks.com/previews/210/210416/210416626/210416626-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2021",
+    "Author": "Arnold Robbins",
+    "Author_Data": "https://www.ebooks.com/en-in/author/arnold-robbins/182779/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Learning the vi and Vim Editors",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210416626/learning-the-vi-and-vim-editors/arnold-robbins/",
+    "Price": "US$50.99",
+    "Image": "https://image.ebooks.com/previews/210/210416/210416626/210416626-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2021",
+    "Author": "Elbert Hannah",
+    "Author_Data": "https://www.ebooks.com/en-in/author/elbert-hannah/241798/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Infrastructure as Code",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210180570/infrastructure-as-code/kief-morris/",
+    "Price": "US$59.99",
+    "Image": "https://image.ebooks.com/previews/210/210180/210180570/210180570-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2020",
+    "Author": "Kief Morris",
+    "Author_Data": "https://www.ebooks.com/en-in/author/kief-morris/1249984/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Debugging Teams",
+    "Book_Link": "https://www.ebooks.com/en-in/book/2255858/debugging-teams/brian-w-fitzpatrick/",
+    "Price": "US$25.99",
+    "Image": "https://image.ebooks.com/previews/002/002255/002255858/002255858-sml-1.jpg",
+    "Subtitle": "Better Productivity through Collaboration",
+    "Publication_Year": "2015",
+    "Author": "Brian W. Fitzpatrick",
+    "Author_Data": "https://www.ebooks.com/en-in/author/brian-w.-fitzpatrick/239506/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Debugging Teams",
+    "Book_Link": "https://www.ebooks.com/en-in/book/2255858/debugging-teams/brian-w-fitzpatrick/",
+    "Price": "US$25.99",
+    "Image": "https://image.ebooks.com/previews/002/002255/002255858/002255858-sml-1.jpg",
+    "Subtitle": "Better Productivity through Collaboration",
+    "Publication_Year": "2015",
+    "Author": "Ben Collins-Sussman",
+    "Author_Data": "https://www.ebooks.com/en-in/author/ben-collins-sussman/239505/",
+    "Publisher": "O'Reilly Media"
+  }
+]
