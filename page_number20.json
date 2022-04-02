@@ -1,0 +1,134 @@
+[
+  {
+    "Book_name": "macOS Catalina: The Missing Manual",
+    "Book_Link": "https://www.ebooks.com/en-in/book/209901844/macos-catalina-the-missing-manual/david-pogue/",
+    "Price": "US$29.99",
+    "Image": "https://image.ebooks.com/previews/209/209901/209901844/209901844-sml-1.jpg",
+    "Subtitle": "The Book That Should Have Been in the Box",
+    "Publication_Year": "2019",
+    "Author": "David Pogue",
+    "Author_Data": "https://www.ebooks.com/en-in/author/david-pogue/9907/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Assassin's Dawn",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210236322/assassin-s-dawn/ward-larsen/",
+    "Price": "US$1.99",
+    "Image": "https://image.ebooks.com/previews/210/210236/210236322/210236322-sml-1.jpg",
+    "Subtitle": "A David Slaton Adventure",
+    "Publication_Year": "2021",
+    "Author": "Ward Larsen",
+    "Author_Data": "https://www.ebooks.com/en-in/author/ward-larsen/254105/",
+    "Publisher": "Tom Doherty Associates"
+  },
+  {
+    "Book_name": "Java Cookbook",
+    "Book_Link": "https://www.ebooks.com/en-in/book/209980726/java-cookbook/ian-f-darwin/",
+    "Price": "US$59.99",
+    "Image": "https://image.ebooks.com/previews/209/209980/209980726/209980726-sml-1.jpg",
+    "Subtitle": "Problems and Solutions for Java Developers",
+    "Publication_Year": "2020",
+    "Author": "Ian F. Darwin",
+    "Author_Data": "https://www.ebooks.com/en-in/author/ian-f.-darwin/182796/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Badass: Making Users Awesome",
+    "Book_Link": "https://www.ebooks.com/en-in/book/1935542/badass-making-users-awesome/kathy-sierra/",
+    "Price": "US$29.99",
+    "Image": "https://image.ebooks.com/previews/001/001935/001935542/001935542-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2015",
+    "Author": "Kathy Sierra",
+    "Author_Data": "https://www.ebooks.com/en-in/author/kathy-sierra/241881/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Chaos Engineering",
+    "Book_Link": "https://www.ebooks.com/en-in/book/209993254/chaos-engineering/casey-rosenthal/",
+    "Price": "US$59.99",
+    "Image": "https://image.ebooks.com/previews/209/209993/209993254/209993254-sml-1.jpg",
+    "Subtitle": "System Resiliency in Practice",
+    "Publication_Year": "2020",
+    "Author": "Casey Rosenthal",
+    "Author_Data": "https://www.ebooks.com/en-in/author/casey-rosenthal/208392861/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Chaos Engineering",
+    "Book_Link": "https://www.ebooks.com/en-in/book/209993254/chaos-engineering/casey-rosenthal/",
+    "Price": "US$59.99",
+    "Image": "https://image.ebooks.com/previews/209/209993/209993254/209993254-sml-1.jpg",
+    "Subtitle": "System Resiliency in Practice",
+    "Publication_Year": "2020",
+    "Author": "Nora Jones",
+    "Author_Data": "https://www.ebooks.com/en-in/author/nora-jones/208392862/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Data Science on AWS",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210265137/data-science-on-aws/chris-fregly/",
+    "Price": "US$59.99",
+    "Image": "https://image.ebooks.com/previews/210/210265/210265137/210265137-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2021",
+    "Author": "Chris Fregly",
+    "Author_Data": "https://www.ebooks.com/en-in/author/chris-fregly/208549055/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Data Science on AWS",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210265137/data-science-on-aws/chris-fregly/",
+    "Price": "US$59.99",
+    "Image": "https://image.ebooks.com/previews/210/210265/210265137/210265137-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2021",
+    "Author": "Antje Barth",
+    "Author_Data": "https://www.ebooks.com/en-in/author/antje-barth/208549056/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Assassin's Run",
+    "Book_Link": "https://www.ebooks.com/en-in/book/95852222/assassin-s-run/ward-larsen/",
+    "Price": "US$3.99",
+    "Image": "https://image.ebooks.com/previews/095/095852/095852222/095852222-sml-1.jpg",
+    "Subtitle": "A David Slaton Novel",
+    "Publication_Year": "2018",
+    "Author": "Ward Larsen",
+    "Author_Data": "https://www.ebooks.com/en-in/author/ward-larsen/254105/",
+    "Publisher": "Tom Doherty Associates"
+  },
+  {
+    "Book_name": "Practical Monitoring",
+    "Book_Link": "https://www.ebooks.com/en-in/book/95897099/practical-monitoring/mike-julian/",
+    "Price": "US$25.99",
+    "Image": "https://image.ebooks.com/previews/095/095897/095897099/095897099-sml-1.jpg",
+    "Subtitle": "Effective Strategies for the Real World",
+    "Publication_Year": "2017",
+    "Author": "Mike Julian",
+    "Author_Data": "https://www.ebooks.com/en-in/author/mike-julian/94207219/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Agents of Dreamland",
+    "Book_Link": "https://www.ebooks.com/en-in/book/2656658/agents-of-dreamland/caitlin-r-kiernan/",
+    "Price": "US$3.19",
+    "Image": "https://image.ebooks.com/previews/002/002656/002656658/002656658-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2017",
+    "Author": "Caitlin R. Kiernan",
+    "Author_Data": "https://www.ebooks.com/en-in/author/caitlin-r.-kiernan/94821/",
+    "Publisher": "Tom Doherty Associates"
+  },
+  {
+    "Book_name": "Hammers on Bone",
+    "Book_Link": "https://www.ebooks.com/en-in/book/2591582/hammers-on-bone/cassandra-khaw/",
+    "Price": "US$2.79",
+    "Image": "https://image.ebooks.com/previews/002/002591/002591582/002591582-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2016",
+    "Author": "Cassandra Khaw",
+    "Author_Data": "https://www.ebooks.com/en-in/author/cassandra-khaw/1245723/",
+    "Publisher": "Tom Doherty Associates"
+  }
+]
