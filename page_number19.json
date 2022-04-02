@@ -1,0 +1,145 @@
+[
+  {
+    "Book_name": "R for Data Science",
+    "Book_Link": "https://www.ebooks.com/en-in/book/95653746/r-for-data-science/hadley-wickham/",
+    "Price": "US$42.99",
+    "Image": "https://image.ebooks.com/previews/095/095653/095653746/095653746-sml-1.jpg",
+    "Subtitle": "Import, Tidy, Transform, Visualize, and Model Data",
+    "Publication_Year": "2016",
+    "Author": "Hadley Wickham",
+    "Author_Data": "https://www.ebooks.com/en-in/author/hadley-wickham/234180/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "R for Data Science",
+    "Book_Link": "https://www.ebooks.com/en-in/book/95653746/r-for-data-science/hadley-wickham/",
+    "Price": "US$42.99",
+    "Image": "https://image.ebooks.com/previews/095/095653/095653746/095653746-sml-1.jpg",
+    "Subtitle": "Import, Tidy, Transform, Visualize, and Model Data",
+    "Publication_Year": "2016",
+    "Author": "Garrett Grolemund",
+    "Author_Data": "https://www.ebooks.com/en-in/author/garrett-grolemund/799566/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "JavaScript Everywhere",
+    "Book_Link": "https://www.ebooks.com/en-in/book/209951555/javascript-everywhere/adam-d-scott/",
+    "Price": "US$42.99",
+    "Image": "https://image.ebooks.com/previews/209/209951/209951555/209951555-sml-1.jpg",
+    "Subtitle": "Building Cross-Platform Applications with GraphQL, React, React Native, and Electron",
+    "Publication_Year": "2020",
+    "Author": "Adam D. Scott",
+    "Author_Data": "https://www.ebooks.com/en-in/author/adam-d.-scott/466214/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "The Descent of Monsters",
+    "Book_Link": "https://www.ebooks.com/en-in/book/95910506/the-descent-of-monsters/neon-yang/",
+    "Price": "US$2.79",
+    "Image": "https://image.ebooks.com/previews/095/095910/095910506/095910506-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2018",
+    "Author": "Neon Yang",
+    "Author_Data": "https://www.ebooks.com/en-in/author/neon-yang/208457434/",
+    "Publisher": "Tom Doherty Associates"
+  },
+  {
+    "Book_name": "Hands-On Unsupervised Learning Using Python",
+    "Book_Link": "https://www.ebooks.com/en-in/book/209614601/hands-on-unsupervised-learning-using-python/ankur-a-patel/",
+    "Price": "US$59.99",
+    "Image": "https://image.ebooks.com/previews/209/209614/209614601/209614601-sml-1.jpg",
+    "Subtitle": "How to Build Applied Machine Learning Solutions from Unlabeled Data",
+    "Publication_Year": "2019",
+    "Author": "Ankur A. Patel",
+    "Author_Data": "https://www.ebooks.com/en-in/author/ankur-a.-patel/208205257/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Ansible: Up and Running",
+    "Book_Link": "https://www.ebooks.com/en-in/book/95823948/ansible-up-and-running/lorin-hochstein/",
+    "Price": "US$46.99",
+    "Image": "https://image.ebooks.com/previews/095/095823/095823948/095823948-sml-1.jpg",
+    "Subtitle": "Automating Configuration Management and Deployment the Easy Way",
+    "Publication_Year": "2017",
+    "Author": "Lorin Hochstein",
+    "Author_Data": "https://www.ebooks.com/en-in/author/lorin-hochstein/773540/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Ansible: Up and Running",
+    "Book_Link": "https://www.ebooks.com/en-in/book/95823948/ansible-up-and-running/lorin-hochstein/",
+    "Price": "US$46.99",
+    "Image": "https://image.ebooks.com/previews/095/095823/095823948/095823948-sml-1.jpg",
+    "Subtitle": "Automating Configuration Management and Deployment the Easy Way",
+    "Publication_Year": "2017",
+    "Author": "Rene Moser",
+    "Author_Data": "https://www.ebooks.com/en-in/author/rene-moser/94162173/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "The Only Harmless Great Thing",
+    "Book_Link": "https://www.ebooks.com/en-in/book/95768321/the-only-harmless-great-thing/brooke-bolander/",
+    "Price": "US$3.19",
+    "Image": "https://image.ebooks.com/previews/095/095768/095768321/095768321-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2018",
+    "Author": "Brooke Bolander",
+    "Author_Data": "https://www.ebooks.com/en-in/author/brooke-bolander/1306843/",
+    "Publisher": "Tom Doherty Associates"
+  },
+  {
+    "Book_name": "Midst Toil and Tribulation",
+    "Book_Link": "https://www.ebooks.com/en-in/book/882164/midst-toil-and-tribulation/david-weber/",
+    "Price": "US$4.49",
+    "Image": "https://image.ebooks.com/previews/000/000882/000882164/000882164-sml-1.jpg",
+    "Subtitle": "A Novel in the Safehold Series (#6)",
+    "Publication_Year": "2012",
+    "Author": "David Weber",
+    "Author_Data": "https://www.ebooks.com/en-in/author/david-weber/267398/",
+    "Publisher": "Tom Doherty Associates"
+  },
+  {
+    "Book_name": "PowerShell Cookbook",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210318708/powershell-cookbook/lee-holmes/",
+    "Price": "US$67.99",
+    "Image": "https://image.ebooks.com/previews/210/210318/210318708/210318708-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2021",
+    "Author": "Lee Holmes",
+    "Author_Data": "https://www.ebooks.com/en-in/author/lee-holmes/182966/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Think Julia",
+    "Book_Link": "https://www.ebooks.com/en-in/book/209657916/think-julia/ben-lauwens/",
+    "Price": "US$42.99",
+    "Image": "https://image.ebooks.com/previews/209/209657/209657916/209657916-sml-1.jpg",
+    "Subtitle": "How to Think Like a Computer Scientist",
+    "Publication_Year": "2019",
+    "Author": "Ben Lauwens",
+    "Author_Data": "https://www.ebooks.com/en-in/author/ben-lauwens/208227379/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Think Julia",
+    "Book_Link": "https://www.ebooks.com/en-in/book/209657916/think-julia/ben-lauwens/",
+    "Price": "US$42.99",
+    "Image": "https://image.ebooks.com/previews/209/209657/209657916/209657916-sml-1.jpg",
+    "Subtitle": "How to Think Like a Computer Scientist",
+    "Publication_Year": "2019",
+    "Author": "Allen B. Downey",
+    "Author_Data": "https://www.ebooks.com/en-in/author/allen-b.-downey/171577/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Web Development with Node and Express",
+    "Book_Link": "https://www.ebooks.com/en-in/book/209887036/web-development-with-node-and-express/ethan-brown/",
+    "Price": "US$42.99",
+    "Image": "https://image.ebooks.com/previews/209/209887/209887036/209887036-sml-1.jpg",
+    "Subtitle": "Leveraging the JavaScript Stack",
+    "Publication_Year": "2019",
+    "Author": "Ethan Brown",
+    "Author_Data": "https://www.ebooks.com/en-in/author/ethan-brown/159274/",
+    "Publisher": "O'Reilly Media"
+  }
+]
