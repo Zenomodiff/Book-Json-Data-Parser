@@ -1,0 +1,134 @@
+[
+  {
+    "Book_name": "Interference",
+    "Book_Link": "https://www.ebooks.com/en-in/book/209556744/interference/sue-burke/",
+    "Price": "US$7.59",
+    "Image": "https://image.ebooks.com/previews/209/209556/209556744/209556744-sml-1.jpg",
+    "Subtitle": "A Novel",
+    "Publication_Year": "2019",
+    "Author": "Sue Burke",
+    "Author_Data": "https://www.ebooks.com/en-in/author/sue-burke/894268/",
+    "Publisher": "Tom Doherty Associates"
+  },
+  {
+    "Book_name": "Defekt",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210023493/defekt/nino-cipri/",
+    "Price": "US$1.99",
+    "Image": "https://image.ebooks.com/previews/210/210023/210023493/210023493-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2021",
+    "Author": "Nino Cipri",
+    "Author_Data": "https://www.ebooks.com/en-in/author/nino-cipri/861656/",
+    "Publisher": "Tom Doherty Associates"
+  },
+  {
+    "Book_name": "Across the Green Grass Fields",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210004179/across-the-green-grass-fields/seanan-mcguire/",
+    "Price": "US$7.99",
+    "Image": "https://image.ebooks.com/previews/210/210004/210004179/210004179-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2021",
+    "Author": "Seanan McGuire",
+    "Author_Data": "https://www.ebooks.com/en-in/author/seanan-mcguire/186802/",
+    "Publisher": "Tom Doherty Associates"
+  },
+  {
+    "Book_name": "Cloud Native DevOps with Kubernetes",
+    "Book_Link": "https://www.ebooks.com/en-in/book/209635125/cloud-native-devops-with-kubernetes/john-arundel/",
+    "Price": "US$67.99",
+    "Image": "https://image.ebooks.com/previews/209/209635/209635125/209635125-sml-1.jpg",
+    "Subtitle": "Building, Deploying, and Scaling Modern Applications in the Cloud",
+    "Publication_Year": "2019",
+    "Author": "John Arundel",
+    "Author_Data": "https://www.ebooks.com/en-in/author/john-arundel/462639/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Cloud Native DevOps with Kubernetes",
+    "Book_Link": "https://www.ebooks.com/en-in/book/209635125/cloud-native-devops-with-kubernetes/john-arundel/",
+    "Price": "US$67.99",
+    "Image": "https://image.ebooks.com/previews/209/209635/209635125/209635125-sml-1.jpg",
+    "Subtitle": "Building, Deploying, and Scaling Modern Applications in the Cloud",
+    "Publication_Year": "2019",
+    "Author": "Justin Domingus",
+    "Author_Data": "https://www.ebooks.com/en-in/author/justin-domingus/208219770/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Spring Boot: Up and Running",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210221332/spring-boot-up-and-running/mark-heckler/",
+    "Price": "US$50.99",
+    "Image": "https://image.ebooks.com/previews/210/210221/210221332/210221332-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2021",
+    "Author": "Mark Heckler",
+    "Author_Data": "https://www.ebooks.com/en-in/author/mark-heckler/816097/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Fundamentals of Data Visualization",
+    "Book_Link": "https://www.ebooks.com/en-in/book/209641360/fundamentals-of-data-visualization/claus-o-wilke/",
+    "Price": "US$59.99",
+    "Image": "https://image.ebooks.com/previews/209/209641/209641360/209641360-sml-1.jpg",
+    "Subtitle": "A Primer on Making Informative and Compelling Figures",
+    "Publication_Year": "2019",
+    "Author": "Claus O. Wilke",
+    "Author_Data": "https://www.ebooks.com/en-in/author/claus-o.-wilke/208221754/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Assassin's Silence",
+    "Book_Link": "https://www.ebooks.com/en-in/book/2261960/assassin-s-silence/ward-larsen/",
+    "Price": "US$4.79",
+    "Image": "https://image.ebooks.com/previews/002/002261/002261960/002261960-sml-1.jpg",
+    "Subtitle": "A David Slaton Novel",
+    "Publication_Year": "2016",
+    "Author": "Ward Larsen",
+    "Author_Data": "https://www.ebooks.com/en-in/author/ward-larsen/254105/",
+    "Publisher": "Tom Doherty Associates"
+  },
+  {
+    "Book_name": "Gamestorming",
+    "Book_Link": "https://www.ebooks.com/en-in/book/562862/gamestorming/dave-gray/",
+    "Price": "US$23.99",
+    "Image": "https://image.ebooks.com/previews/000/000562/000562862/000562862-sml-1.jpg",
+    "Subtitle": "A Playbook for Innovators, Rulebreakers, and Changemakers",
+    "Publication_Year": "2010",
+    "Author": "Dave Gray",
+    "Author_Data": "https://www.ebooks.com/en-in/author/dave-gray/252656/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Gamestorming",
+    "Book_Link": "https://www.ebooks.com/en-in/book/562862/gamestorming/dave-gray/",
+    "Price": "US$23.99",
+    "Image": "https://image.ebooks.com/previews/000/000562/000562862/000562862-sml-1.jpg",
+    "Subtitle": "A Playbook for Innovators, Rulebreakers, and Changemakers",
+    "Publication_Year": "2010",
+    "Author": "Sunni Brown",
+    "Author_Data": "https://www.ebooks.com/en-in/author/sunni-brown/252657/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "JavaScript: The Good Parts",
+    "Book_Link": "https://www.ebooks.com/en-in/book/443287/javascript-the-good-parts/douglas-crockford/",
+    "Price": "US$23.99",
+    "Image": "https://image.ebooks.com/previews/000/000443/000443287/000443287-sml-1.jpg",
+    "Subtitle": "The Good Parts",
+    "Publication_Year": "2008",
+    "Author": "Douglas Crockford",
+    "Author_Data": "https://www.ebooks.com/en-in/author/douglas-crockford/182933/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Learning the bash Shell",
+    "Book_Link": "https://www.ebooks.com/en-in/book/443423/learning-the-bash-shell/cameron-newham/",
+    "Price": "US$38.99",
+    "Image": "https://image.ebooks.com/previews/000/000443/000443423/000443423-sml-1.jpg",
+    "Subtitle": "Unix Shell Programming",
+    "Publication_Year": "2005",
+    "Author": "Cameron Newham",
+    "Author_Data": "https://www.ebooks.com/en-in/author/cameron-newham/182728/",
+    "Publisher": "O'Reilly Media"
+  }
+]
