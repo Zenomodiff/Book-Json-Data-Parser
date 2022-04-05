@@ -1,0 +1,123 @@
+[
+  {
+    "Book_name": "Python Pocket Reference",
+    "Book_Link": "https://www.ebooks.com/en-in/book/1619476/python-pocket-reference/mark-lutz/",
+    "Price": "US$16.99",
+    "Image": "https://image.ebooks.com/previews/001/001619/001619476/001619476-sml-1.jpg",
+    "Subtitle": "Python In Your Pocket",
+    "Publication_Year": "2014",
+    "Author": "Mark Lutz",
+    "Author_Data": "https://www.ebooks.com/en-in/author/mark-lutz/182774/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Killing Gravity",
+    "Book_Link": "https://www.ebooks.com/en-in/book/95638053/killing-gravity/corey-j-white/",
+    "Price": "US$1.99",
+    "Image": "https://image.ebooks.com/previews/095/095638/095638053/095638053-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2017",
+    "Author": "Corey J. White",
+    "Author_Data": "https://www.ebooks.com/en-in/author/corey-j.-white/1292559/",
+    "Publisher": "Tom Doherty Associates"
+  },
+  {
+    "Book_name": "Understanding and Using C Pointers",
+    "Book_Link": "https://www.ebooks.com/en-in/book/1183950/understanding-and-using-c-pointers/richard-m-reese/",
+    "Price": "US$33.99",
+    "Image": "https://image.ebooks.com/previews/001/001183/001183950/001183950-sml-1.jpg",
+    "Subtitle": "Core Techniques for Memory Management",
+    "Publication_Year": "2013",
+    "Author": "Richard M Reese",
+    "Author_Data": "https://www.ebooks.com/en-in/author/richard-m-reese/913777/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Java in a Nutshell",
+    "Book_Link": "https://www.ebooks.com/en-in/book/209550160/java-in-a-nutshell/benjamin-j-evans/",
+    "Price": "US$50.99",
+    "Image": "https://image.ebooks.com/previews/209/209550/209550160/209550160-sml-1.jpg",
+    "Subtitle": "A Desktop Quick Reference",
+    "Publication_Year": "2018",
+    "Author": "Benjamin J. Evans",
+    "Author_Data": "https://www.ebooks.com/en-in/author/benjamin-j.-evans/208634489/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Java in a Nutshell",
+    "Book_Link": "https://www.ebooks.com/en-in/book/209550160/java-in-a-nutshell/benjamin-j-evans/",
+    "Price": "US$50.99",
+    "Image": "https://image.ebooks.com/previews/209/209550/209550160/209550160-sml-1.jpg",
+    "Subtitle": "A Desktop Quick Reference",
+    "Publication_Year": "2018",
+    "Author": "David Flanagan",
+    "Author_Data": "https://www.ebooks.com/en-in/author/david-flanagan/182846/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Stormsong",
+    "Book_Link": "https://www.ebooks.com/en-in/book/138599177/stormsong/c-l-polk/",
+    "Price": "US$7.19",
+    "Image": "https://image.ebooks.com/previews/138/138599/138599177/138599177-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2020",
+    "Author": "C. L. Polk",
+    "Author_Data": "https://www.ebooks.com/en-in/author/c.-l.-polk/94177670/",
+    "Publisher": "Tom Doherty Associates"
+  },
+  {
+    "Book_name": "Machine Learning Pocket Reference",
+    "Book_Link": "https://www.ebooks.com/en-in/book/209770550/machine-learning-pocket-reference/matt-harrison/",
+    "Price": "US$21.99",
+    "Image": "https://image.ebooks.com/previews/209/209770/209770550/209770550-sml-1.jpg",
+    "Subtitle": "Working with Structured Data in Python",
+    "Publication_Year": "2019",
+    "Author": "Matt Harrison",
+    "Author_Data": "https://www.ebooks.com/en-in/author/matt-harrison/208279380/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Architecting for Scale",
+    "Book_Link": "https://www.ebooks.com/en-in/book/209970023/architecting-for-scale/lee-atchison/",
+    "Price": "US$50.99",
+    "Image": "https://image.ebooks.com/previews/209/209970/209970023/209970023-sml-1.jpg",
+    "Subtitle": "How to Maintain High Availability and Manage Risk in the Cloud",
+    "Publication_Year": "2020",
+    "Author": "Lee Atchison",
+    "Author_Data": "https://www.ebooks.com/en-in/author/lee-atchison/1258448/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Down on the Farm",
+    "Book_Link": "https://www.ebooks.com/en-in/book/630830/down-on-the-farm/charles-stross/",
+    "Price": "US$0.99",
+    "Image": "https://image.ebooks.com/previews/000/000630/000630830/000630830-sml-1.jpg",
+    "Subtitle": "A Tor.Com Original",
+    "Publication_Year": "2010",
+    "Author": "Charles Stross",
+    "Author_Data": "https://www.ebooks.com/en-in/author/charles-stross/64870/",
+    "Publisher": "Tom Doherty Associates"
+  },
+  {
+    "Book_name": "Running Lean",
+    "Book_Link": "https://www.ebooks.com/en-in/book/867860/running-lean/ash-maurya/",
+    "Price": "US$29.99",
+    "Image": "https://image.ebooks.com/previews/000/000867/000867860/000867860-sml-1.jpg",
+    "Subtitle": "Iterate from Plan A to a Plan That Works",
+    "Publication_Year": "2012",
+    "Author": "Ash Maurya",
+    "Author_Data": "https://www.ebooks.com/en-in/author/ash-maurya/427414/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Machine Learning with Python Cookbook",
+    "Book_Link": "https://www.ebooks.com/en-in/book/96035583/machine-learning-with-python-cookbook/chris-albon/",
+    "Price": "US$50.99",
+    "Image": "https://image.ebooks.com/previews/096/096035/096035583/096035583-sml-1.jpg",
+    "Subtitle": "Practical Solutions from Preprocessing to Deep Learning",
+    "Publication_Year": "2018",
+    "Author": "Chris Albon",
+    "Author_Data": "https://www.ebooks.com/en-in/author/chris-albon/94238576/",
+    "Publisher": "O'Reilly Media"
+  }
+]
