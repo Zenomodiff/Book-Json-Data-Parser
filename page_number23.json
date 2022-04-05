@@ -1,0 +1,123 @@
+[
+  {
+    "Book_name": "Winter Tide",
+    "Book_Link": "https://www.ebooks.com/en-in/book/2582382/winter-tide/ruthanna-emrys/",
+    "Price": "US$4.79",
+    "Image": "https://image.ebooks.com/previews/002/002582/002582382/002582382-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2017",
+    "Author": "Ruthanna Emrys",
+    "Author_Data": "https://www.ebooks.com/en-in/author/ruthanna-emrys/770483/",
+    "Publisher": "Tom Doherty Associates"
+  },
+  {
+    "Book_name": "The Site Reliability Workbook",
+    "Book_Link": "https://www.ebooks.com/en-in/book/96314088/the-site-reliability-workbook/betsy-beyer/",
+    "Price": "US$42.99",
+    "Image": "https://image.ebooks.com/previews/096/096314/096314088/096314088-sml-1.jpg",
+    "Subtitle": "Practical Ways to Implement SRE",
+    "Publication_Year": "2018",
+    "Author": "Betsy Beyer",
+    "Author_Data": "https://www.ebooks.com/en-in/author/betsy-beyer/1234114/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "The Site Reliability Workbook",
+    "Book_Link": "https://www.ebooks.com/en-in/book/96314088/the-site-reliability-workbook/betsy-beyer/",
+    "Price": "US$42.99",
+    "Image": "https://image.ebooks.com/previews/096/096314/096314088/096314088-sml-1.jpg",
+    "Subtitle": "Practical Ways to Implement SRE",
+    "Publication_Year": "2018",
+    "Author": "Niall Richard Murphy",
+    "Author_Data": "https://www.ebooks.com/en-in/author/niall-richard-murphy/182842/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Burning Roses",
+    "Book_Link": "https://www.ebooks.com/en-in/book/209911324/burning-roses/s-l-huang/",
+    "Price": "US$4.79",
+    "Image": "https://image.ebooks.com/previews/209/209911/209911324/209911324-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2020",
+    "Author": "S. L. Huang",
+    "Author_Data": "https://www.ebooks.com/en-in/author/s.-l.-huang/94224291/",
+    "Publisher": "Tom Doherty Associates"
+  },
+  {
+    "Book_name": "Distributed Systems with Node.js",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210156921/distributed-systems-with-node-js/ii-thomas-hunter/",
+    "Price": "US$42.99",
+    "Image": "https://image.ebooks.com/previews/210/210156/210156921/210156921-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2020",
+    "Author": "II Thomas Hunter",
+    "Author_Data": "https://www.ebooks.com/en-in/author/ii-thomas-hunter/208480640/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Using Asyncio in Python",
+    "Book_Link": "https://www.ebooks.com/en-in/book/209936503/using-asyncio-in-python/caleb-hattingh/",
+    "Price": "US$38.99",
+    "Image": "https://image.ebooks.com/previews/209/209936/209936503/209936503-sml-1.jpg",
+    "Subtitle": "Understanding Python's Asynchronous Programming Features",
+    "Publication_Year": "2020",
+    "Author": "Caleb Hattingh",
+    "Author_Data": "https://www.ebooks.com/en-in/author/caleb-hattingh/208361431/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Through Fiery Trials",
+    "Book_Link": "https://www.ebooks.com/en-in/book/96165023/through-fiery-trials/david-weber/",
+    "Price": "US$3.99",
+    "Image": "https://image.ebooks.com/previews/096/096165/096165023/096165023-sml-1.jpg",
+    "Subtitle": "A Novel in the Safehold Series",
+    "Publication_Year": "2019",
+    "Author": "David Weber",
+    "Author_Data": "https://www.ebooks.com/en-in/author/david-weber/267398/",
+    "Publisher": "Tom Doherty Associates"
+  },
+  {
+    "Book_name": "Python for Excel",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210239573/python-for-excel/felix-zumstein/",
+    "Price": "US$50.99",
+    "Image": "https://image.ebooks.com/previews/210/210239/210239573/210239573-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2021",
+    "Author": "Felix Zumstein",
+    "Author_Data": "https://www.ebooks.com/en-in/author/felix-zumstein/208533140/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Test-Driven Development with Python",
+    "Book_Link": "https://www.ebooks.com/en-in/book/95836888/test-driven-development-with-python/harry-percival/",
+    "Price": "US$59.99",
+    "Image": "https://image.ebooks.com/previews/095/095836/095836888/095836888-sml-1.jpg",
+    "Subtitle": "Obey the Testing Goat: Using Django, Selenium, and JavaScript",
+    "Publication_Year": "2017",
+    "Author": "Harry Percival",
+    "Author_Data": "https://www.ebooks.com/en-in/author/harry-percival/208223117/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Python for Finance",
+    "Book_Link": "https://www.ebooks.com/en-in/book/209553019/python-for-finance/yves-hilpisch/",
+    "Price": "US$59.99",
+    "Image": "https://image.ebooks.com/previews/209/209553/209553019/209553019-sml-1.jpg",
+    "Subtitle": "Mastering Data-Driven Finance",
+    "Publication_Year": "2018",
+    "Author": "Yves Hilpisch",
+    "Author_Data": "https://www.ebooks.com/en-in/author/yves-hilpisch/371878/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Beginning Microsoft Power BI",
+    "Book_Link": "https://www.ebooks.com/en-in/book/209967244/beginning-microsoft-power-bi/dan-clark/",
+    "Price": "US$35.46",
+    "Image": "https://image.ebooks.com/previews/209/209967/209967244/209967244-sml-1.jpg",
+    "Subtitle": "A Practical Guide to Self-Service Data Analytics",
+    "Publication_Year": "2020",
+    "Author": "Dan Clark",
+    "Author_Data": "https://www.ebooks.com/en-in/author/dan-clark/6450/",
+    "Publisher": "Apress"
+  }
+]
