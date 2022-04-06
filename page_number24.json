@@ -1,0 +1,134 @@
+[
+  {
+    "Book_name": "Beginning Microsoft Power BI",
+    "Book_Link": "https://www.ebooks.com/en-in/book/209967244/beginning-microsoft-power-bi/dan-clark/",
+    "Price": "US$35.46",
+    "Image": "https://image.ebooks.com/previews/209/209967/209967244/209967244-sml-1.jpg",
+    "Subtitle": "A Practical Guide to Self-Service Data Analytics",
+    "Publication_Year": "2020",
+    "Author": "Dan Clark",
+    "Author_Data": "https://www.ebooks.com/en-in/author/dan-clark/6450/",
+    "Publisher": "Apress"
+  },
+  {
+    "Book_name": "Learn Microsoft PowerApps",
+    "Book_Link": "https://www.ebooks.com/en-in/book/209901700/learn-microsoft-powerapps/matthew-weston/",
+    "Price": "US$27.99",
+    "Image": "https://image.ebooks.com/previews/209/209901/209901700/209901700-sml-1.jpg",
+    "Subtitle": "Build customized business applications without writing any code",
+    "Publication_Year": "2019",
+    "Author": "Matthew Weston",
+    "Author_Data": "https://www.ebooks.com/en-in/author/matthew-weston/208349953/",
+    "Publisher": "Packt Publishing"
+  },
+  {
+    "Book_name": "CEO School",
+    "Book_Link": "https://www.ebooks.com/en-in/book/95958316/ceo-school/stanislav-shekshnia/",
+    "Price": "US$37.29",
+    "Image": "https://image.ebooks.com/previews/095/095958/095958316/095958316-sml-1.jpg",
+    "Subtitle": "Insights from 20 Global Business Leaders",
+    "Publication_Year": "2018",
+    "Author": "Stanislav Shekshnia",
+    "Author_Data": "https://www.ebooks.com/en-in/author/stanislav-shekshnia/94226609/",
+    "Publisher": "Springer Singapore"
+  },
+  {
+    "Book_name": "CEO School",
+    "Book_Link": "https://www.ebooks.com/en-in/book/95958316/ceo-school/stanislav-shekshnia/",
+    "Price": "US$37.29",
+    "Image": "https://image.ebooks.com/previews/095/095958/095958316/095958316-sml-1.jpg",
+    "Subtitle": "Insights from 20 Global Business Leaders",
+    "Publication_Year": "2018",
+    "Author": "Kirill Kravchenko",
+    "Author_Data": "https://www.ebooks.com/en-in/author/kirill-kravchenko/94232392/",
+    "Publisher": "Springer Singapore"
+  },
+  {
+    "Book_name": "The Paper Menagerie and Other Stories",
+    "Book_Link": "https://www.ebooks.com/en-in/book/1943508/the-paper-menagerie-and-other-stories/ken-liu/",
+    "Price": "US$7.59",
+    "Image": "https://image.ebooks.com/previews/001/001943/001943508/001943508-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2016",
+    "Author": "Ken Liu",
+    "Author_Data": "https://www.ebooks.com/en-in/author/ken-liu/732885/",
+    "Publisher": "Gallery / Saga Press"
+  },
+  {
+    "Book_name": "Getting Started with p5.js",
+    "Book_Link": "https://www.ebooks.com/en-in/book/2258757/getting-started-with-p5-js/lauren-mccarthy/",
+    "Price": "US$9.99",
+    "Image": "https://image.ebooks.com/previews/002/002258/002258757/002258757-sml-1.jpg",
+    "Subtitle": "Making Interactive Graphics in JavaScript and Processing",
+    "Publication_Year": "2015",
+    "Author": "Lauren McCarthy",
+    "Author_Data": "https://www.ebooks.com/en-in/author/lauren-mccarthy/1005373/",
+    "Publisher": "Make Community, LLC"
+  },
+  {
+    "Book_name": "Getting Started with p5.js",
+    "Book_Link": "https://www.ebooks.com/en-in/book/2258757/getting-started-with-p5-js/lauren-mccarthy/",
+    "Price": "US$9.99",
+    "Image": "https://image.ebooks.com/previews/002/002258/002258757/002258757-sml-1.jpg",
+    "Subtitle": "Making Interactive Graphics in JavaScript and Processing",
+    "Publication_Year": "2015",
+    "Author": "Casey Reas",
+    "Author_Data": "https://www.ebooks.com/en-in/author/casey-reas/246483/",
+    "Publisher": "Make Community, LLC"
+  },
+  {
+    "Book_name": "Beyond Beliefs",
+    "Book_Link": "https://www.ebooks.com/en-in/book/96036636/beyond-beliefs/melanie-joy/",
+    "Price": "US$9.99",
+    "Image": "https://image.ebooks.com/previews/096/096036/096036636/096036636-sml-1.jpg",
+    "Subtitle": "A Guide to Improving Relationships and Communication for Vegans, Vegetarians, and Meat Eaters",
+    "Publication_Year": "2018",
+    "Author": "Melanie Joy",
+    "Author_Data": "https://www.ebooks.com/en-in/author/melanie-joy/561670/",
+    "Publisher": "Lantern Books"
+  },
+  {
+    "Book_name": "Fusion 360 for Makers",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210311231/fusion-360-for-makers/lydia-sloan-cline/",
+    "Price": "US$22.99",
+    "Image": "https://image.ebooks.com/previews/210/210311/210311231/210311231-sml-1.jpg",
+    "Subtitle": "Design Your Own Digital Models for 3D Printing and CNC Fabrication",
+    "Publication_Year": "2021",
+    "Author": "Lydia Sloan Cline",
+    "Author_Data": "https://www.ebooks.com/en-in/author/lydia-sloan-cline/1223769/",
+    "Publisher": "Make Community, LLC"
+  },
+  {
+    "Book_name": "The Grace of Kings",
+    "Book_Link": "https://www.ebooks.com/en-in/book/1708098/the-grace-of-kings/ken-liu/",
+    "Price": "US$9.99",
+    "Image": "https://image.ebooks.com/previews/001/001708/001708098/001708098-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2015",
+    "Author": "Ken Liu",
+    "Author_Data": "https://www.ebooks.com/en-in/author/ken-liu/732885/",
+    "Publisher": "Gallery / Saga Press"
+  },
+  {
+    "Book_name": "Escaping the Build Trap",
+    "Book_Link": "https://www.ebooks.com/en-in/book/209522842/escaping-the-build-trap/melissa-perri/",
+    "Price": "US$29.99",
+    "Image": "https://image.ebooks.com/previews/209/209522/209522842/209522842-sml-1.jpg",
+    "Subtitle": "How Effective Product Management Creates Real Value",
+    "Publication_Year": "2018",
+    "Author": "Melissa Perri",
+    "Author_Data": "https://www.ebooks.com/en-in/author/melissa-perri/208161305/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "SQL for Data Analysis",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210368484/sql-for-data-analysis/cathy-tanimura/",
+    "Price": "US$50.99",
+    "Image": "https://image.ebooks.com/previews/210/210368/210368484/210368484-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2021",
+    "Author": "Cathy Tanimura",
+    "Author_Data": "https://www.ebooks.com/en-in/author/cathy-tanimura/208605029/",
+    "Publisher": "O'Reilly Media"
+  }
+]
