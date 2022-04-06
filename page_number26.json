@@ -1,0 +1,156 @@
+[
+  {
+    "Book_name": "Practical Machine Learning for Computer Vision",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210336891/practical-machine-learning-for-computer-vision/valliappa-lakshmanan/",
+    "Price": "US$67.99",
+    "Image": "https://image.ebooks.com/previews/210/210336/210336891/210336891-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2021",
+    "Author": "Valliappa Lakshmanan",
+    "Author_Data": "https://www.ebooks.com/en-in/author/valliappa-lakshmanan/474659/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Practical Machine Learning for Computer Vision",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210336891/practical-machine-learning-for-computer-vision/valliappa-lakshmanan/",
+    "Price": "US$67.99",
+    "Image": "https://image.ebooks.com/previews/210/210336/210336891/210336891-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2021",
+    "Author": "Martin G\u00f6rner",
+    "Author_Data": "https://www.ebooks.com/en-in/author/martin-g\u00f6rner/208588782/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Financial Theory with Python",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210380833/financial-theory-with-python/yves-hilpisch/",
+    "Price": "US$42.99",
+    "Image": "https://image.ebooks.com/previews/210/210380/210380833/210380833-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2021",
+    "Author": "Yves Hilpisch",
+    "Author_Data": "https://www.ebooks.com/en-in/author/yves-hilpisch/371878/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "The Ruin of Angels",
+    "Book_Link": "https://www.ebooks.com/en-in/book/95699546/the-ruin-of-angels/max-gladstone/",
+    "Price": "US$3.19",
+    "Image": "https://image.ebooks.com/previews/095/095699/095699546/095699546-sml-1.jpg",
+    "Subtitle": "A Novel of the Craft Sequence",
+    "Publication_Year": "2017",
+    "Author": "Max Gladstone",
+    "Author_Data": "https://www.ebooks.com/en-in/author/max-gladstone/455616/",
+    "Publisher": "Tom Doherty Associates"
+  },
+  {
+    "Book_name": "Cloud Native Java",
+    "Book_Link": "https://www.ebooks.com/en-in/book/95840285/cloud-native-java/josh-long/",
+    "Price": "US$59.99",
+    "Image": "https://image.ebooks.com/previews/095/095840/095840285/095840285-sml-1.jpg",
+    "Subtitle": "Designing Resilient Systems with Spring Boot, Spring Cloud, and Cloud Foundry",
+    "Publication_Year": "2017",
+    "Author": "Josh Long",
+    "Author_Data": "https://www.ebooks.com/en-in/author/josh-long/273608/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Cloud Native Java",
+    "Book_Link": "https://www.ebooks.com/en-in/book/95840285/cloud-native-java/josh-long/",
+    "Price": "US$59.99",
+    "Image": "https://image.ebooks.com/previews/095/095840/095840285/095840285-sml-1.jpg",
+    "Subtitle": "Designing Resilient Systems with Spring Boot, Spring Cloud, and Cloud Foundry",
+    "Publication_Year": "2017",
+    "Author": "Kenny Bastani",
+    "Author_Data": "https://www.ebooks.com/en-in/author/kenny-bastani/94170183/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "The Devil You Know",
+    "Book_Link": "https://www.ebooks.com/en-in/book/2258354/the-devil-you-know/k-j-parker/",
+    "Price": "US$1.99",
+    "Image": "https://image.ebooks.com/previews/002/002258/002258354/002258354-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2016",
+    "Author": "K. J. Parker",
+    "Author_Data": "https://www.ebooks.com/en-in/author/k.-j.-parker/171775/",
+    "Publisher": "Tom Doherty Associates"
+  },
+  {
+    "Book_name": "The Murders of Molly Southbourne",
+    "Book_Link": "https://www.ebooks.com/en-in/book/95764503/the-murders-of-molly-southbourne/tade-thompson/",
+    "Price": "US$3.19",
+    "Image": "https://image.ebooks.com/previews/095/095764/095764503/095764503-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2017",
+    "Author": "Tade Thompson",
+    "Author_Data": "https://www.ebooks.com/en-in/author/tade-thompson/995012/",
+    "Publisher": "Tom Doherty Associates"
+  },
+  {
+    "Book_name": "Head First C",
+    "Book_Link": "https://www.ebooks.com/en-in/book/887874/head-first-c/david-griffiths/",
+    "Price": "US$50.99",
+    "Image": "https://image.ebooks.com/previews/000/000887/000887874/000887874-sml-1.jpg",
+    "Subtitle": "A Brain-Friendly Guide",
+    "Publication_Year": "2012",
+    "Author": "David Griffiths",
+    "Author_Data": "https://www.ebooks.com/en-in/author/david-griffiths/891/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Head First C",
+    "Book_Link": "https://www.ebooks.com/en-in/book/887874/head-first-c/david-griffiths/",
+    "Price": "US$50.99",
+    "Image": "https://image.ebooks.com/previews/000/000887/000887874/000887874-sml-1.jpg",
+    "Subtitle": "A Brain-Friendly Guide",
+    "Publication_Year": "2012",
+    "Author": "Dawn Griffiths",
+    "Author_Data": "https://www.ebooks.com/en-in/author/dawn-griffiths/241932/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Designing for Sustainability",
+    "Book_Link": "https://www.ebooks.com/en-in/book/2678578/designing-for-sustainability/tim-frick/",
+    "Price": "US$29.99",
+    "Image": "https://image.ebooks.com/previews/002/002678/002678578/002678578-sml-1.jpg",
+    "Subtitle": "A Guide to Building Greener Digital Products and Services",
+    "Publication_Year": "2016",
+    "Author": "Tim Frick",
+    "Author_Data": "https://www.ebooks.com/en-in/author/tim-frick/304740/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "The Monster of Elendhaven",
+    "Book_Link": "https://www.ebooks.com/en-in/book/209556769/the-monster-of-elendhaven/jennifer-giesbrecht/",
+    "Price": "US$7.19",
+    "Image": "https://image.ebooks.com/previews/209/209556/209556769/209556769-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2019",
+    "Author": "Jennifer Giesbrecht",
+    "Author_Data": "https://www.ebooks.com/en-in/author/jennifer-giesbrecht/895249/",
+    "Publisher": "Tom Doherty Associates"
+  },
+  {
+    "Book_name": "High Performance MySQL",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210417272/high-performance-mysql/silvia-botros/",
+    "Price": "US$50.99",
+    "Image": "https://image.ebooks.com/previews/210/210417/210417272/210417272-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2021",
+    "Author": "Silvia Botros",
+    "Author_Data": "https://www.ebooks.com/en-in/author/silvia-botros/208624245/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "High Performance MySQL",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210417272/high-performance-mysql/silvia-botros/",
+    "Price": "US$50.99",
+    "Image": "https://image.ebooks.com/previews/210/210417/210417272/210417272-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2021",
+    "Author": "Jeremy Tinley",
+    "Author_Data": "https://www.ebooks.com/en-in/author/jeremy-tinley/208624246/",
+    "Publisher": "O'Reilly Media"
+  }
+]
