@@ -1,0 +1,156 @@
+[
+  {
+    "Book_name": "A Taste of Honey",
+    "Book_Link": "https://www.ebooks.com/en-in/book/2591620/a-taste-of-honey/kai-ashante-wilson/",
+    "Price": "US$1.59",
+    "Image": "https://image.ebooks.com/previews/002/002591/002591620/002591620-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2016",
+    "Author": "Kai Ashante Wilson",
+    "Author_Data": "https://www.ebooks.com/en-in/author/kai-ashante-wilson/581770/",
+    "Publisher": "Tom Doherty Associates"
+  },
+  {
+    "Book_name": "Where the Drowned Girls Go",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210270693/where-the-drowned-girls-go/seanan-mcguire/",
+    "Price": "US$7.99",
+    "Image": "https://image.ebooks.com/previews/210/210270/210270693/210270693-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2022",
+    "Author": "Seanan McGuire",
+    "Author_Data": "https://www.ebooks.com/en-in/author/seanan-mcguire/186802/",
+    "Publisher": "Tom Doherty Associates"
+  },
+  {
+    "Book_name": "The Exiled Fleet",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210110594/the-exiled-fleet/j-s-dewes/",
+    "Price": "US$7.19",
+    "Image": "https://image.ebooks.com/previews/210/210110/210110594/210110594-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2021",
+    "Author": "J. S. Dewes",
+    "Author_Data": "https://www.ebooks.com/en-in/author/j.-s.-dewes/208449115/",
+    "Publisher": "Tom Doherty Associates"
+  },
+  {
+    "Book_name": "Advancing into Analytics",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210269115/advancing-into-analytics/george-mount/",
+    "Price": "US$50.99",
+    "Image": "https://image.ebooks.com/previews/210/210269/210269115/210269115-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2021",
+    "Author": "George Mount",
+    "Author_Data": "https://www.ebooks.com/en-in/author/george-mount/208550942/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Programming Quantum Computers",
+    "Book_Link": "https://www.ebooks.com/en-in/book/209734891/programming-quantum-computers/eric-r-johnston/",
+    "Price": "US$59.99",
+    "Image": "https://image.ebooks.com/previews/209/209734/209734891/209734891-sml-1.jpg",
+    "Subtitle": "Essential Algorithms and Code Samples",
+    "Publication_Year": "2019",
+    "Author": "Eric R. Johnston",
+    "Author_Data": "https://www.ebooks.com/en-in/author/eric-r.-johnston/208259302/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Programming Quantum Computers",
+    "Book_Link": "https://www.ebooks.com/en-in/book/209734891/programming-quantum-computers/eric-r-johnston/",
+    "Price": "US$59.99",
+    "Image": "https://image.ebooks.com/previews/209/209734/209734891/209734891-sml-1.jpg",
+    "Subtitle": "Essential Algorithms and Code Samples",
+    "Publication_Year": "2019",
+    "Author": "Nic Harrigan",
+    "Author_Data": "https://www.ebooks.com/en-in/author/nic-harrigan/208259303/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Programming Bitcoin",
+    "Book_Link": "https://www.ebooks.com/en-in/book/209602986/programming-bitcoin/jimmy-song/",
+    "Price": "US$59.99",
+    "Image": "https://image.ebooks.com/previews/209/209602/209602986/209602986-sml-1.jpg",
+    "Subtitle": "Learn How to Program Bitcoin from Scratch",
+    "Publication_Year": "2019",
+    "Author": "Jimmy Song",
+    "Author_Data": "https://www.ebooks.com/en-in/author/jimmy-song/208200449/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Design Patterns for Cloud Native Applications",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210299932/design-patterns-for-cloud-native-applications/kasun-indrasiri/",
+    "Price": "US$50.99",
+    "Image": "https://image.ebooks.com/previews/210/210299/210299932/210299932-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2021",
+    "Author": "Kasun Indrasiri",
+    "Author_Data": "https://www.ebooks.com/en-in/author/kasun-indrasiri/1303254/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Design Patterns for Cloud Native Applications",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210299932/design-patterns-for-cloud-native-applications/kasun-indrasiri/",
+    "Price": "US$50.99",
+    "Image": "https://image.ebooks.com/previews/210/210299/210299932/210299932-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2021",
+    "Author": "Sriskandarajah Suhothayan",
+    "Author_Data": "https://www.ebooks.com/en-in/author/sriskandarajah-suhothayan/208571920/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Kubernetes Cookbook",
+    "Book_Link": "https://www.ebooks.com/en-in/book/95956892/kubernetes-cookbook/s-bastien-goasguen/",
+    "Price": "US$33.99",
+    "Image": "https://image.ebooks.com/previews/095/095956/095956892/095956892-sml-1.jpg",
+    "Subtitle": "Building Cloud Native Applications",
+    "Publication_Year": "2018",
+    "Author": "S\u00e9bastien Goasguen",
+    "Author_Data": "https://www.ebooks.com/en-in/author/s\u00e9bastien-goasguen/823916/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Kubernetes Cookbook",
+    "Book_Link": "https://www.ebooks.com/en-in/book/95956892/kubernetes-cookbook/s-bastien-goasguen/",
+    "Price": "US$33.99",
+    "Image": "https://image.ebooks.com/previews/095/095956/095956892/095956892-sml-1.jpg",
+    "Subtitle": "Building Cloud Native Applications",
+    "Publication_Year": "2018",
+    "Author": "Michael Hausenblas",
+    "Author_Data": "https://www.ebooks.com/en-in/author/michael-hausenblas/94231836/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "sed & awk",
+    "Book_Link": "https://www.ebooks.com/en-in/book/610665/sed-awk/dale-dougherty/",
+    "Price": "US$31.99",
+    "Image": "https://image.ebooks.com/previews/000/000610/000610665/000610665-sml-1.jpg",
+    "Subtitle": "UNIX Power Tools",
+    "Publication_Year": "1997",
+    "Author": "Dale Dougherty",
+    "Author_Data": "https://www.ebooks.com/en-in/author/dale-dougherty/275882/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "sed & awk",
+    "Book_Link": "https://www.ebooks.com/en-in/book/610665/sed-awk/dale-dougherty/",
+    "Price": "US$31.99",
+    "Image": "https://image.ebooks.com/previews/000/000610/000610665/000610665-sml-1.jpg",
+    "Subtitle": "UNIX Power Tools",
+    "Publication_Year": "1997",
+    "Author": "Arnold Robbins",
+    "Author_Data": "https://www.ebooks.com/en-in/author/arnold-robbins/182779/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Financial Theory with Python",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210380833/financial-theory-with-python/yves-hilpisch/",
+    "Price": "US$42.99",
+    "Image": "https://image.ebooks.com/previews/210/210380/210380833/210380833-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2021",
+    "Author": "Yves Hilpisch",
+    "Author_Data": "https://www.ebooks.com/en-in/author/yves-hilpisch/371878/",
+    "Publisher": "O'Reilly Media"
+  }
+]
