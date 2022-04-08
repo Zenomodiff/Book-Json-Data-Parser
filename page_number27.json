@@ -1,0 +1,123 @@
+[
+  {
+    "Book_name": "Blueprints for Text Analytics Using Python",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210180130/blueprints-for-text-analytics-using-python/jens-albrecht/",
+    "Price": "US$59.99",
+    "Image": "https://image.ebooks.com/previews/210/210180/210180130/210180130-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2020",
+    "Author": "Jens Albrecht",
+    "Author_Data": "https://www.ebooks.com/en-in/author/jens-albrecht/208499222/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Blueprints for Text Analytics Using Python",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210180130/blueprints-for-text-analytics-using-python/jens-albrecht/",
+    "Price": "US$59.99",
+    "Image": "https://image.ebooks.com/previews/210/210180/210180130/210180130-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2020",
+    "Author": "Sidharth Ramachandran",
+    "Author_Data": "https://www.ebooks.com/en-in/author/sidharth-ramachandran/208499223/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "UX Strategy",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210244612/ux-strategy/jaime-levy/",
+    "Price": "US$38.99",
+    "Image": "https://image.ebooks.com/previews/210/210244/210244612/210244612-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2021",
+    "Author": "Jaime Levy",
+    "Author_Data": "https://www.ebooks.com/en-in/author/jaime-levy/954640/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "sed and awk Pocket Reference",
+    "Book_Link": "https://www.ebooks.com/en-in/book/443458/sed-and-awk-pocket-reference/arnold-robbins/",
+    "Price": "US$7.99",
+    "Image": "https://image.ebooks.com/previews/000/000443/000443458/000443458-sml-1.jpg",
+    "Subtitle": "Text Processing with Regular Expressions",
+    "Publication_Year": "2002",
+    "Author": "Arnold Robbins",
+    "Author_Data": "https://www.ebooks.com/en-in/author/arnold-robbins/182779/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "High Performance Browser Networking",
+    "Book_Link": "https://www.ebooks.com/en-in/book/1386495/high-performance-browser-networking/ilya-grigorik/",
+    "Price": "US$38.99",
+    "Image": "https://image.ebooks.com/previews/001/001386/001386495/001386495-sml-1.jpg",
+    "Subtitle": "What every web developer should know about networking and web performance",
+    "Publication_Year": "2013",
+    "Author": "Ilya Grigorik",
+    "Author_Data": "https://www.ebooks.com/en-in/author/ilya-grigorik/693200/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Behemoth: Seppuku",
+    "Book_Link": "https://www.ebooks.com/en-in/book/1753698/behemoth-seppuku/peter-watts/",
+    "Price": "US$5.99",
+    "Image": "https://image.ebooks.com/previews/001/001753/001753698/001753698-sml-1.jpg",
+    "Subtitle": "Rifters Trilogy, Book 3 Part II",
+    "Publication_Year": "2014",
+    "Author": "Peter Watts",
+    "Author_Data": "https://www.ebooks.com/en-in/author/peter-watts/9068/",
+    "Publisher": "Tom Doherty Associates"
+  },
+  {
+    "Book_name": "Maelstrom",
+    "Book_Link": "https://www.ebooks.com/en-in/book/654544/maelstrom/peter-watts/",
+    "Price": "US$5.99",
+    "Image": "https://image.ebooks.com/previews/000/000654/000654544/000654544-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2009",
+    "Author": "Peter Watts",
+    "Author_Data": "https://www.ebooks.com/en-in/author/peter-watts/9068/",
+    "Publisher": "Tom Doherty Associates"
+  },
+  {
+    "Book_name": "In the Black",
+    "Book_Link": "https://www.ebooks.com/en-in/book/209911322/in-the-black/patrick-s-tomlinson/",
+    "Price": "US$7.99",
+    "Image": "https://image.ebooks.com/previews/209/209911/209911322/209911322-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2020",
+    "Author": "Patrick S. Tomlinson",
+    "Author_Data": "https://www.ebooks.com/en-in/author/patrick-s.-tomlinson/970805/",
+    "Publisher": "Tom Doherty Associates"
+  },
+  {
+    "Book_name": "Behemoth: B-Max",
+    "Book_Link": "https://www.ebooks.com/en-in/book/1753697/behemoth-b-max/peter-watts/",
+    "Price": "US$5.99",
+    "Image": "https://image.ebooks.com/previews/001/001753/001753697/001753697-sml-1.jpg",
+    "Subtitle": "Rifters Trilogy, Book 3 Part I",
+    "Publication_Year": "2014",
+    "Author": "Peter Watts",
+    "Author_Data": "https://www.ebooks.com/en-in/author/peter-watts/9068/",
+    "Publisher": "Tom Doherty Associates"
+  },
+  {
+    "Book_name": "They All Fall Down",
+    "Book_Link": "https://www.ebooks.com/en-in/book/96164998/they-all-fall-down/rachel-howzell-hall/",
+    "Price": "US$3.59",
+    "Image": "https://image.ebooks.com/previews/096/096164/096164998/096164998-sml-1.jpg",
+    "Subtitle": "A Thriller",
+    "Publication_Year": "2019",
+    "Author": "Rachel Howzell Hall",
+    "Author_Data": "https://www.ebooks.com/en-in/author/rachel-howzell-hall/740368/",
+    "Publisher": "Tom Doherty Associates"
+  },
+  {
+    "Book_name": "The Tensorate Series",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210185108/the-tensorate-series/neon-yang/",
+    "Price": "US$8.39",
+    "Image": "https://image.ebooks.com/previews/210/210185/210185108/210185108-sml-1.jpg",
+    "Subtitle": "(The Black Tides of Heaven, The Red Threads of Fortune, The Descent of Monsters, The Ascent to Godhood)",
+    "Publication_Year": "2021",
+    "Author": "Neon Yang",
+    "Author_Data": "https://www.ebooks.com/en-in/author/neon-yang/208457434/",
+    "Publisher": "Tom Doherty Associates"
+  }
+]
