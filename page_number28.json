@@ -1,0 +1,145 @@
+[
+  {
+    "Book_name": "The Tensorate Series",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210185108/the-tensorate-series/neon-yang/",
+    "Price": "US$8.39",
+    "Image": "https://image.ebooks.com/previews/210/210185/210185108/210185108-sml-1.jpg",
+    "Subtitle": "(The Black Tides of Heaven, The Red Threads of Fortune, The Descent of Monsters, The Ascent to Godhood)",
+    "Publication_Year": "2021",
+    "Author": "Neon Yang",
+    "Author_Data": "https://www.ebooks.com/en-in/author/neon-yang/208457434/",
+    "Publisher": "Tom Doherty Associates"
+  },
+  {
+    "Book_name": "Hacking Kubernetes",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210396577/hacking-kubernetes/andrew-martin/",
+    "Price": "US$50.99",
+    "Image": "https://image.ebooks.com/previews/210/210396/210396577/210396577-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2021",
+    "Author": "Andrew Martin",
+    "Author_Data": "https://www.ebooks.com/en-in/author/andrew-martin/81171/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Hacking Kubernetes",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210396577/hacking-kubernetes/andrew-martin/",
+    "Price": "US$50.99",
+    "Image": "https://image.ebooks.com/previews/210/210396/210396577/210396577-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2021",
+    "Author": "Michael Hausenblas",
+    "Author_Data": "https://www.ebooks.com/en-in/author/michael-hausenblas/94231836/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "JavaScript Cookbook",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210335134/javascript-cookbook/adam-d-scott/",
+    "Price": "US$59.99",
+    "Image": "https://image.ebooks.com/previews/210/210335/210335134/210335134-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2021",
+    "Author": "Adam D. Scott",
+    "Author_Data": "https://www.ebooks.com/en-in/author/adam-d.-scott/466214/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "JavaScript Cookbook",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210335134/javascript-cookbook/adam-d-scott/",
+    "Price": "US$59.99",
+    "Image": "https://image.ebooks.com/previews/210/210335/210335134/210335134-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2021",
+    "Author": "Matthew MacDonald",
+    "Author_Data": "https://www.ebooks.com/en-in/author/matthew-macdonald/79844/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Multithreaded JavaScript",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210380832/multithreaded-javascript/ii-thomas-hunter/",
+    "Price": "US$50.99",
+    "Image": "https://image.ebooks.com/previews/210/210380/210380832/210380832-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2021",
+    "Author": "II Thomas Hunter",
+    "Author_Data": "https://www.ebooks.com/en-in/author/ii-thomas-hunter/208480640/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Multithreaded JavaScript",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210380832/multithreaded-javascript/ii-thomas-hunter/",
+    "Price": "US$50.99",
+    "Image": "https://image.ebooks.com/previews/210/210380/210380832/210380832-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2021",
+    "Author": "Bryan English",
+    "Author_Data": "https://www.ebooks.com/en-in/author/bryan-english/351897/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "PDF Explained",
+    "Book_Link": "https://www.ebooks.com/en-in/book/816395/pdf-explained/john-whitington/",
+    "Price": "US$9.99",
+    "Image": "https://image.ebooks.com/previews/000/000816/000816395/000816395-sml-1.jpg",
+    "Subtitle": "The ISO Standard for Document Exchange",
+    "Publication_Year": "2011",
+    "Author": "John Whitington",
+    "Author_Data": "https://www.ebooks.com/en-in/author/john-whitington/396752/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Ship of Smoke and Steel",
+    "Book_Link": "https://www.ebooks.com/en-in/book/96165029/ship-of-smoke-and-steel/django-wexler/",
+    "Price": "US$7.59",
+    "Image": "https://image.ebooks.com/previews/096/096165/096165029/096165029-sml-1.jpg",
+    "Subtitle": "The Wells of Sorcery, Book One",
+    "Publication_Year": "2019",
+    "Author": "Django Wexler",
+    "Author_Data": "https://www.ebooks.com/en-in/author/django-wexler/170751/",
+    "Publisher": "Tom Doherty Associates"
+  },
+  {
+    "Book_name": "Master of Poisons",
+    "Book_Link": "https://www.ebooks.com/en-in/book/209911343/master-of-poisons/andrea-hairston/",
+    "Price": "US$7.99",
+    "Image": "https://image.ebooks.com/previews/209/209911/209911343/209911343-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2020",
+    "Author": "Andrea Hairston",
+    "Author_Data": "https://www.ebooks.com/en-in/author/andrea-hairston/208353468/",
+    "Publisher": "Tom Doherty Associates"
+  },
+  {
+    "Book_name": "Three Tales from the Laundry Files",
+    "Book_Link": "https://www.ebooks.com/en-in/book/1692303/three-tales-from-the-laundry-files/charles-stross/",
+    "Price": "US$3.49",
+    "Image": "https://image.ebooks.com/previews/001/001692/001692303/001692303-sml-1.jpg",
+    "Subtitle": "A Tor.Com Original (Equoid, Down on the Farm, Overtime)",
+    "Publication_Year": "2014",
+    "Author": "Charles Stross",
+    "Author_Data": "https://www.ebooks.com/en-in/author/charles-stross/64870/",
+    "Publisher": "Tom Doherty Associates"
+  },
+  {
+    "Book_name": "The Hum and the Shiver",
+    "Book_Link": "https://www.ebooks.com/en-in/book/678105/the-hum-and-the-shiver/alex-bledsoe/",
+    "Price": "US$5.99",
+    "Image": "https://image.ebooks.com/previews/000/000678/000678105/000678105-sml-1.jpg",
+    "Subtitle": "A Novel of the Tufa",
+    "Publication_Year": "2011",
+    "Author": "Alex Bledsoe",
+    "Author_Data": "https://www.ebooks.com/en-in/author/alex-bledsoe/304931/",
+    "Publisher": "Tom Doherty Associates"
+  },
+  {
+    "Book_name": "Flexbox in CSS",
+    "Book_Link": "https://www.ebooks.com/en-in/book/95787291/flexbox-in-css/estelle-weyl/",
+    "Price": "US$9.99",
+    "Image": "https://image.ebooks.com/previews/095/095787/095787291/095787291-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2017",
+    "Author": "Estelle Weyl",
+    "Author_Data": "https://www.ebooks.com/en-in/author/estelle-weyl/502215/",
+    "Publisher": "O'Reilly Media"
+  }
+]
