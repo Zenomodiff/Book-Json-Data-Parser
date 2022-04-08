@@ -1,0 +1,134 @@
+[
+  {
+    "Book_name": "An Illusion of Thieves",
+    "Book_Link": "https://www.ebooks.com/en-in/book/96334553/an-illusion-of-thieves/cate-glass/",
+    "Price": "US$6.79",
+    "Image": "https://image.ebooks.com/previews/096/096334/096334553/096334553-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2019",
+    "Author": "Cate Glass",
+    "Author_Data": "https://www.ebooks.com/en-in/author/cate-glass/94323560/",
+    "Publisher": "Tom Doherty Associates"
+  },
+  {
+    "Book_name": "Learning Perl",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210327283/learning-perl/randal-l-schwartz/",
+    "Price": "US$50.99",
+    "Image": "https://image.ebooks.com/previews/210/210327/210327283/210327283-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2021",
+    "Author": "Randal L. Schwartz",
+    "Author_Data": "https://www.ebooks.com/en-in/author/randal-l.-schwartz/182684/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Learning Perl",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210327283/learning-perl/randal-l-schwartz/",
+    "Price": "US$50.99",
+    "Image": "https://image.ebooks.com/previews/210/210327/210327283/210327283-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2021",
+    "Author": "brian d foy",
+    "Author_Data": "https://www.ebooks.com/en-in/author/brian-d-foy/182686/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Arista Warrior",
+    "Book_Link": "https://www.ebooks.com/en-in/book/209724563/arista-warrior/gary-a-donahue/",
+    "Price": "US$59.99",
+    "Image": "https://image.ebooks.com/previews/209/209724/209724563/209724563-sml-1.jpg",
+    "Subtitle": "Arista Products with a Focus on EOS",
+    "Publication_Year": "2019",
+    "Author": "Gary A. Donahue",
+    "Author_Data": "https://www.ebooks.com/en-in/author/gary-a.-donahue/182939/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Raspberry Pi Cookbook",
+    "Book_Link": "https://www.ebooks.com/en-in/book/209819897/raspberry-pi-cookbook/simon-monk/",
+    "Price": "US$42.99",
+    "Image": "https://image.ebooks.com/previews/209/209819/209819897/209819897-sml-1.jpg",
+    "Subtitle": "Software and Hardware Problems and Solutions",
+    "Publication_Year": "2019",
+    "Author": "Simon Monk",
+    "Author_Data": "https://www.ebooks.com/en-in/author/simon-monk/258741/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Cloud Native Data Center Networking",
+    "Book_Link": "https://www.ebooks.com/en-in/book/209895112/cloud-native-data-center-networking/dinesh-g-dutt/",
+    "Price": "US$50.99",
+    "Image": "https://image.ebooks.com/previews/209/209895/209895112/209895112-sml-1.jpg",
+    "Subtitle": "Architecture, Protocols, and Tools",
+    "Publication_Year": "2019",
+    "Author": "Dinesh G. Dutt",
+    "Author_Data": "https://www.ebooks.com/en-in/author/dinesh-g.-dutt/208347466/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "The Magic of Recluce",
+    "Book_Link": "https://www.ebooks.com/en-in/book/597533/the-magic-of-recluce/modesitt-jr-l-e/",
+    "Price": "US$4.99",
+    "Image": "https://image.ebooks.com/previews/000/000597/000597533/000597533-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2010",
+    "Author": "Modesitt, Jr., L. E.",
+    "Author_Data": "https://www.ebooks.com/en-in/author/modesitt--jr.--l.-e./895378/",
+    "Publisher": "Tom Doherty Associates"
+  },
+  {
+    "Book_name": "Overtime",
+    "Book_Link": "https://www.ebooks.com/en-in/book/630701/overtime/charles-stross/",
+    "Price": "US$0.99",
+    "Image": "https://image.ebooks.com/previews/000/000630/000630701/000630701-sml-1.jpg",
+    "Subtitle": "A Tor.Com Original",
+    "Publication_Year": "2010",
+    "Author": "Charles Stross",
+    "Author_Data": "https://www.ebooks.com/en-in/author/charles-stross/64870/",
+    "Publisher": "Tom Doherty Associates"
+  },
+  {
+    "Book_name": "Feature Engineering for Machine Learning",
+    "Book_Link": "https://www.ebooks.com/en-in/book/96116298/feature-engineering-for-machine-learning/alice-zheng/",
+    "Price": "US$50.99",
+    "Image": "https://image.ebooks.com/previews/096/096116/096116298/096116298-sml-1.jpg",
+    "Subtitle": "Principles and Techniques for Data Scientists",
+    "Publication_Year": "2018",
+    "Author": "Alice Zheng",
+    "Author_Data": "https://www.ebooks.com/en-in/author/alice-zheng/94253282/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Feature Engineering for Machine Learning",
+    "Book_Link": "https://www.ebooks.com/en-in/book/96116298/feature-engineering-for-machine-learning/alice-zheng/",
+    "Price": "US$50.99",
+    "Image": "https://image.ebooks.com/previews/096/096116/096116298/096116298-sml-1.jpg",
+    "Subtitle": "Principles and Techniques for Data Scientists",
+    "Publication_Year": "2018",
+    "Author": "Amanda Casari",
+    "Author_Data": "https://www.ebooks.com/en-in/author/amanda-casari/94253283/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Three Parts Dead",
+    "Book_Link": "https://www.ebooks.com/en-in/book/922965/three-parts-dead/max-gladstone/",
+    "Price": "US$1.49",
+    "Image": "https://image.ebooks.com/previews/000/000922/000922965/000922965-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2012",
+    "Author": "Max Gladstone",
+    "Author_Data": "https://www.ebooks.com/en-in/author/max-gladstone/455616/",
+    "Publisher": "Tom Doherty Associates"
+  },
+  {
+    "Book_name": "Time Management for System Administrators",
+    "Book_Link": "https://www.ebooks.com/en-in/book/443375/time-management-for-system-administrators/thomas-a-limoncelli/",
+    "Price": "US$19.99",
+    "Image": "https://image.ebooks.com/previews/000/000443/000443375/000443375-sml-1.jpg",
+    "Subtitle": "Stop Working Late and Start Working Smart",
+    "Publication_Year": "2005",
+    "Author": "Thomas A. Limoncelli",
+    "Author_Data": "https://www.ebooks.com/en-in/author/thomas-a.-limoncelli/182978/",
+    "Publisher": "O'Reilly Media"
+  }
+]
