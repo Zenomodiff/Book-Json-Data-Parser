@@ -1,0 +1,156 @@
+[
+  {
+    "Book_name": "Grid Layout in CSS",
+    "Book_Link": "https://www.ebooks.com/en-in/book/2565156/grid-layout-in-css/eric-a-meyer/",
+    "Price": "US$6.99",
+    "Image": "https://image.ebooks.com/previews/002/002565/002565156/002565156-sml-1.jpg",
+    "Subtitle": "Interface Layout for the Web",
+    "Publication_Year": "2016",
+    "Author": "Eric A. Meyer",
+    "Author_Data": "https://www.ebooks.com/en-in/author/eric-a.-meyer/252958/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Star Eater",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210114207/star-eater/kerstin-hall/",
+    "Price": "US$10.79",
+    "Image": "https://image.ebooks.com/previews/210/210114/210114207/210114207-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2021",
+    "Author": "Kerstin Hall",
+    "Author_Data": "https://www.ebooks.com/en-in/author/kerstin-hall/761171/",
+    "Publisher": "Tom Doherty Associates"
+  },
+  {
+    "Book_name": "Comfort Me With Apples",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210185073/comfort-me-with-apples/catherynne-m-valente/",
+    "Price": "US$7.19",
+    "Image": "https://image.ebooks.com/previews/210/210185/210185073/210185073-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2021",
+    "Author": "Catherynne M. Valente",
+    "Author_Data": "https://www.ebooks.com/en-in/author/catherynne-m.-valente/317730/",
+    "Publisher": "Tom Doherty Associates"
+  },
+  {
+    "Book_name": "Rise of the Federation: A Choice of Futures",
+    "Book_Link": "https://www.ebooks.com/en-in/book/1060254/rise-of-the-federation-a-choice-of-futures/christopher-l-bennett/",
+    "Price": "US$7.99",
+    "Image": "https://image.ebooks.com/previews/001/001060/001060254/001060254-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2013",
+    "Author": "Christopher L. Bennett",
+    "Author_Data": "https://www.ebooks.com/en-in/author/christopher-l.-bennett/16394/",
+    "Publisher": "Pocket Books"
+  },
+  {
+    "Book_name": "Ethernet Switches",
+    "Book_Link": "https://www.ebooks.com/en-in/book/1163704/ethernet-switches/charles-e-spurgeon/",
+    "Price": "US$11.99",
+    "Image": "https://image.ebooks.com/previews/001/001163/001163704/001163704-sml-1.jpg",
+    "Subtitle": "An Introduction to Network Design with Switches",
+    "Publication_Year": "2013",
+    "Author": "Charles E. Spurgeon",
+    "Author_Data": "https://www.ebooks.com/en-in/author/charles-e.-spurgeon/578300/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Ethernet Switches",
+    "Book_Link": "https://www.ebooks.com/en-in/book/1163704/ethernet-switches/charles-e-spurgeon/",
+    "Price": "US$11.99",
+    "Image": "https://image.ebooks.com/previews/001/001163/001163704/001163704-sml-1.jpg",
+    "Subtitle": "An Introduction to Network Design with Switches",
+    "Publication_Year": "2013",
+    "Author": "Joann Zimmerman",
+    "Author_Data": "https://www.ebooks.com/en-in/author/joann-zimmerman/578301/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Understanding Context",
+    "Book_Link": "https://www.ebooks.com/en-in/book/1882070/understanding-context/andrew-hinton/",
+    "Price": "US$50.99",
+    "Image": "https://image.ebooks.com/previews/001/001882/001882070/001882070-sml-1.jpg",
+    "Subtitle": "Environment, Language, and Information Architecture",
+    "Publication_Year": "2014",
+    "Author": "Andrew Hinton",
+    "Author_Data": "https://www.ebooks.com/en-in/author/andrew-hinton/857410/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Servant Mage",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210266394/servant-mage/kate-elliott/",
+    "Price": "US$7.99",
+    "Image": "https://image.ebooks.com/previews/210/210266/210266394/210266394-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2022",
+    "Author": "Kate Elliott",
+    "Author_Data": "https://www.ebooks.com/en-in/author/kate-elliott/220178/",
+    "Publisher": "Tom Doherty Associates"
+  },
+  {
+    "Book_name": "Arduino Cookbook",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210002436/arduino-cookbook/michael-margolis/",
+    "Price": "US$42.99",
+    "Image": "https://image.ebooks.com/previews/210/210002/210002436/210002436-sml-1.jpg",
+    "Subtitle": "Recipes to Begin, Expand, and Enhance Your Projects",
+    "Publication_Year": "2020",
+    "Author": "Michael Margolis",
+    "Author_Data": "https://www.ebooks.com/en-in/author/michael-margolis/185039/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Arduino Cookbook",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210002436/arduino-cookbook/michael-margolis/",
+    "Price": "US$42.99",
+    "Image": "https://image.ebooks.com/previews/210/210002/210002436/210002436-sml-1.jpg",
+    "Subtitle": "Recipes to Begin, Expand, and Enhance Your Projects",
+    "Publication_Year": "2020",
+    "Author": "Brian Jepson",
+    "Author_Data": "https://www.ebooks.com/en-in/author/brian-jepson/182745/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Learning the Korn Shell",
+    "Book_Link": "https://www.ebooks.com/en-in/book/1191171/learning-the-korn-shell/arnold-robbins/",
+    "Price": "US$33.99",
+    "Image": "https://image.ebooks.com/previews/001/001191/001191171/001191171-sml-1.jpg",
+    "Subtitle": "Unix Programming",
+    "Publication_Year": "2002",
+    "Author": "Arnold Robbins",
+    "Author_Data": "https://www.ebooks.com/en-in/author/arnold-robbins/182779/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Learning the Korn Shell",
+    "Book_Link": "https://www.ebooks.com/en-in/book/1191171/learning-the-korn-shell/arnold-robbins/",
+    "Price": "US$33.99",
+    "Image": "https://image.ebooks.com/previews/001/001191/001191171/001191171-sml-1.jpg",
+    "Subtitle": "Unix Programming",
+    "Publication_Year": "2002",
+    "Author": "Bill Rosenblatt",
+    "Author_Data": "https://www.ebooks.com/en-in/author/bill-rosenblatt/239748/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Hands-On Smart Contract Development with Hyperledger Fabric V2",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210368483/hands-on-smart-contract-development-with-hyperledger-fabric-v2/matt-zand/",
+    "Price": "US$59.99",
+    "Image": "https://image.ebooks.com/previews/210/210368/210368483/210368483-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2021",
+    "Author": "Matt Zand",
+    "Author_Data": "https://www.ebooks.com/en-in/author/matt-zand/208605027/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Hands-On Smart Contract Development with Hyperledger Fabric V2",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210368483/hands-on-smart-contract-development-with-hyperledger-fabric-v2/matt-zand/",
+    "Price": "US$59.99",
+    "Image": "https://image.ebooks.com/previews/210/210368/210368483/210368483-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2021",
+    "Author": "Xun (Brian) Wu",
+    "Author_Data": "https://www.ebooks.com/en-in/author/xun-(brian)-wu/94267579/",
+    "Publisher": "O'Reilly Media"
+  }
+]
