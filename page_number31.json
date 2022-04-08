@@ -1,0 +1,145 @@
+[
+  {
+    "Book_name": "Deal with the Devil",
+    "Book_Link": "https://www.ebooks.com/en-in/book/209665135/deal-with-the-devil/kit-rocha/",
+    "Price": "US$7.19",
+    "Image": "https://image.ebooks.com/previews/209/209665/209665135/209665135-sml-1.jpg",
+    "Subtitle": "A Mercenary Librarians Novel",
+    "Publication_Year": "2020",
+    "Author": "Kit Rocha",
+    "Author_Data": "https://www.ebooks.com/en-in/author/kit-rocha/208230273/",
+    "Publisher": "Tom Doherty Associates"
+  },
+  {
+    "Book_name": "SQL Pocket Guide",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210361378/sql-pocket-guide/alice-zhao/",
+    "Price": "US$25.99",
+    "Image": "https://image.ebooks.com/previews/210/210361/210361378/210361378-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2021",
+    "Author": "Alice Zhao",
+    "Author_Data": "https://www.ebooks.com/en-in/author/alice-zhao/208601857/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "The Self-Service Data Roadmap",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210119307/the-self-service-data-roadmap/sandeep-uttamchandani/",
+    "Price": "US$50.99",
+    "Image": "https://image.ebooks.com/previews/210/210119/210119307/210119307-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2020",
+    "Author": "Sandeep Uttamchandani",
+    "Author_Data": "https://www.ebooks.com/en-in/author/sandeep-uttamchandani/208457690/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "The Enterprise Big Data Lake",
+    "Book_Link": "https://www.ebooks.com/en-in/book/209614600/the-enterprise-big-data-lake/alex-gorelik/",
+    "Price": "US$59.99",
+    "Image": "https://image.ebooks.com/previews/209/209614/209614600/209614600-sml-1.jpg",
+    "Subtitle": "Delivering the Promise of Big Data and Data Science",
+    "Publication_Year": "2019",
+    "Author": "Alex Gorelik",
+    "Author_Data": "https://www.ebooks.com/en-in/author/alex-gorelik/208205256/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Think Python",
+    "Book_Link": "https://www.ebooks.com/en-in/book/2467935/think-python/allen-b-downey/",
+    "Price": "US$38.99",
+    "Image": "https://image.ebooks.com/previews/002/002467/002467935/002467935-sml-1.jpg",
+    "Subtitle": "How to Think Like a Computer Scientist",
+    "Publication_Year": "2015",
+    "Author": "Allen B. Downey",
+    "Author_Data": "https://www.ebooks.com/en-in/author/allen-b.-downey/171577/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "D3 for the Impatient",
+    "Book_Link": "https://www.ebooks.com/en-in/book/209675227/d3-for-the-impatient/philipp-k-janert/",
+    "Price": "US$42.99",
+    "Image": "https://image.ebooks.com/previews/209/209675/209675227/209675227-sml-1.jpg",
+    "Subtitle": "Interactive Graphics for Programmers and Scientists",
+    "Publication_Year": "2019",
+    "Author": "Philipp K. Janert",
+    "Author_Data": "https://www.ebooks.com/en-in/author/philipp-k.-janert/277380/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Cloud Native",
+    "Book_Link": "https://www.ebooks.com/en-in/book/209766989/cloud-native/boris-scholl/",
+    "Price": "US$50.99",
+    "Image": "https://image.ebooks.com/previews/209/209766/209766989/209766989-sml-1.jpg",
+    "Subtitle": "Using Containers, Functions, and Data to Build Next-Generation Applications",
+    "Publication_Year": "2019",
+    "Author": "Boris Scholl",
+    "Author_Data": "https://www.ebooks.com/en-in/author/boris-scholl/258755/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Cloud Native",
+    "Book_Link": "https://www.ebooks.com/en-in/book/209766989/cloud-native/boris-scholl/",
+    "Price": "US$50.99",
+    "Image": "https://image.ebooks.com/previews/209/209766/209766989/209766989-sml-1.jpg",
+    "Subtitle": "Using Containers, Functions, and Data to Build Next-Generation Applications",
+    "Publication_Year": "2019",
+    "Author": "Trent Swanson",
+    "Author_Data": "https://www.ebooks.com/en-in/author/trent-swanson/94162288/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Cutting Edge",
+    "Book_Link": "https://www.ebooks.com/en-in/book/95768300/cutting-edge/ward-larsen/",
+    "Price": "US$3.99",
+    "Image": "https://image.ebooks.com/previews/095/095768/095768300/095768300-sml-1.jpg",
+    "Subtitle": "A Novel",
+    "Publication_Year": "2018",
+    "Author": "Ward Larsen",
+    "Author_Data": "https://www.ebooks.com/en-in/author/ward-larsen/254105/",
+    "Publisher": "Tom Doherty Associates"
+  },
+  {
+    "Book_name": "Hacking Healthcare",
+    "Book_Link": "https://www.ebooks.com/en-in/book/801455/hacking-healthcare/fred-trotter/",
+    "Price": "US$14.99",
+    "Image": "https://image.ebooks.com/previews/000/000801/000801455/000801455-sml-1.jpg",
+    "Subtitle": "A Guide to Standards, Workflows, and Meaningful Use",
+    "Publication_Year": "2011",
+    "Author": "Fred Trotter",
+    "Author_Data": "https://www.ebooks.com/en-in/author/fred-trotter/392319/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Hacking Healthcare",
+    "Book_Link": "https://www.ebooks.com/en-in/book/801455/hacking-healthcare/fred-trotter/",
+    "Price": "US$14.99",
+    "Image": "https://image.ebooks.com/previews/000/000801/000801455/000801455-sml-1.jpg",
+    "Subtitle": "A Guide to Standards, Workflows, and Meaningful Use",
+    "Publication_Year": "2011",
+    "Author": "David Uhlman",
+    "Author_Data": "https://www.ebooks.com/en-in/author/david-uhlman/392320/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Learning Agile",
+    "Book_Link": "https://www.ebooks.com/en-in/book/1840882/learning-agile/andrew-stellman/",
+    "Price": "US$42.99",
+    "Image": "https://image.ebooks.com/previews/001/001840/001840882/001840882-sml-1.jpg",
+    "Subtitle": "Understanding Scrum, XP, Lean, and Kanban",
+    "Publication_Year": "2014",
+    "Author": "Andrew Stellman",
+    "Author_Data": "https://www.ebooks.com/en-in/author/andrew-stellman/182816/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Learning Agile",
+    "Book_Link": "https://www.ebooks.com/en-in/book/1840882/learning-agile/andrew-stellman/",
+    "Price": "US$42.99",
+    "Image": "https://image.ebooks.com/previews/001/001840/001840882/001840882-sml-1.jpg",
+    "Subtitle": "Understanding Scrum, XP, Lean, and Kanban",
+    "Publication_Year": "2014",
+    "Author": "Jennifer Greene",
+    "Author_Data": "https://www.ebooks.com/en-in/author/jennifer-greene/67758/",
+    "Publisher": "O'Reilly Media"
+  }
+]
