@@ -1,0 +1,123 @@
+[
+  {
+    "Book_name": "Version Control with Git",
+    "Book_Link": "https://www.ebooks.com/en-in/book/999513/version-control-with-git/jon-loeliger/",
+    "Price": "US$31.99",
+    "Image": "https://image.ebooks.com/previews/000/000999/000999513/000999513-sml-1.jpg",
+    "Subtitle": "Powerful tools and techniques for collaborative software development",
+    "Publication_Year": "2012",
+    "Author": "Jon Loeliger",
+    "Author_Data": "https://www.ebooks.com/en-in/author/jon-loeliger/182980/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Version Control with Git",
+    "Book_Link": "https://www.ebooks.com/en-in/book/999513/version-control-with-git/jon-loeliger/",
+    "Price": "US$31.99",
+    "Image": "https://image.ebooks.com/previews/000/000999/000999513/000999513-sml-1.jpg",
+    "Subtitle": "Powerful tools and techniques for collaborative software development",
+    "Publication_Year": "2012",
+    "Author": "Matthew McCullough",
+    "Author_Data": "https://www.ebooks.com/en-in/author/matthew-mccullough/367563/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Making Embedded Systems",
+    "Book_Link": "https://www.ebooks.com/en-in/book/801453/making-embedded-systems/elecia-white/",
+    "Price": "US$31.99",
+    "Image": "https://image.ebooks.com/previews/000/000801/000801453/000801453-sml-1.jpg",
+    "Subtitle": "Design Patterns for Great Software",
+    "Publication_Year": "2011",
+    "Author": "Elecia White",
+    "Author_Data": "https://www.ebooks.com/en-in/author/elecia-white/392317/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "The Emperor's Railroad",
+    "Book_Link": "https://www.ebooks.com/en-in/book/2249983/the-emperor-s-railroad/guy-haley/",
+    "Price": "US$1.99",
+    "Image": "https://image.ebooks.com/previews/002/002249/002249983/002249983-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2016",
+    "Author": "Guy Haley",
+    "Author_Data": "https://www.ebooks.com/en-in/author/guy-haley/270888/",
+    "Publisher": "Tom Doherty Associates"
+  },
+  {
+    "Book_name": "Miranda in Milan",
+    "Book_Link": "https://www.ebooks.com/en-in/book/96321120/miranda-in-milan/katharine-duckett/",
+    "Price": "US$2.79",
+    "Image": "https://image.ebooks.com/previews/096/096321/096321120/096321120-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2019",
+    "Author": "Katharine Duckett",
+    "Author_Data": "https://www.ebooks.com/en-in/author/katharine-duckett/94311839/",
+    "Publisher": "Tom Doherty Associates"
+  },
+  {
+    "Book_name": "Light From Uncommon Stars",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210185094/light-from-uncommon-stars/ryka-aoki/",
+    "Price": "US$10.39",
+    "Image": "https://image.ebooks.com/previews/210/210185/210185094/210185094-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2021",
+    "Author": "Ryka Aoki",
+    "Author_Data": "https://www.ebooks.com/en-in/author/ryka-aoki/208502942/",
+    "Publisher": "Tom Doherty Associates"
+  },
+  {
+    "Book_name": "The Amberlough Dossier",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210061368/the-amberlough-dossier/lara-elena-donnelly/",
+    "Price": "US$1.19",
+    "Image": "https://image.ebooks.com/previews/210/210061/210061368/210061368-sml-1.jpg",
+    "Subtitle": "Amberlough, Armistice, Amnesty",
+    "Publication_Year": "2020",
+    "Author": "Lara Elena Donnelly",
+    "Author_Data": "https://www.ebooks.com/en-in/author/lara-elena-donnelly/1244190/",
+    "Publisher": "Tom Doherty Associates"
+  },
+  {
+    "Book_name": "Articulated Restraint",
+    "Book_Link": "https://www.ebooks.com/en-in/book/209594403/articulated-restraint/mary-robinette-kowal/",
+    "Price": "US$0.79",
+    "Image": "https://image.ebooks.com/previews/209/209594/209594403/209594403-sml-1.jpg",
+    "Subtitle": "A Tor.com Original",
+    "Publication_Year": "2019",
+    "Author": "Mary Robinette Kowal",
+    "Author_Data": "https://www.ebooks.com/en-in/author/mary-robinette-kowal/277421/",
+    "Publisher": "Tom Doherty Associates"
+  },
+  {
+    "Book_name": "Night of the Mannequins",
+    "Book_Link": "https://www.ebooks.com/en-in/book/209911281/night-of-the-mannequins/stephen-graham-jones/",
+    "Price": "US$1.99",
+    "Image": "https://image.ebooks.com/previews/209/209911/209911281/209911281-sml-1.jpg",
+    "Subtitle": "A Tor.com Original",
+    "Publication_Year": "2020",
+    "Author": "Stephen Graham Jones",
+    "Author_Data": "https://www.ebooks.com/en-in/author/stephen-graham-jones/187869/",
+    "Publisher": "Tom Doherty Associates"
+  },
+  {
+    "Book_name": "Linux Cookbook",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210356055/linux-cookbook/carla-schroder/",
+    "Price": "US$50.99",
+    "Image": "https://image.ebooks.com/previews/210/210356/210356055/210356055-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2021",
+    "Author": "Carla Schroder",
+    "Author_Data": "https://www.ebooks.com/en-in/author/carla-schroder/183019/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Learning Algorithms",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210336889/learning-algorithms/george-heineman/",
+    "Price": "US$59.99",
+    "Image": "https://image.ebooks.com/previews/210/210336/210336889/210336889-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2021",
+    "Author": "George Heineman",
+    "Author_Data": "https://www.ebooks.com/en-in/author/george-heineman/241807/",
+    "Publisher": "O'Reilly Media"
+  }
+]
