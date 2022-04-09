@@ -1,0 +1,123 @@
+[
+  {
+    "Book_name": "Mapping Experiences",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210172260/mapping-experiences/james-kalbach/",
+    "Price": "US$42.99",
+    "Image": "https://image.ebooks.com/previews/210/210172/210172260/210172260-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2020",
+    "Author": "James Kalbach",
+    "Author_Data": "https://www.ebooks.com/en-in/author/james-kalbach/182970/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Getting Started with Arduino",
+    "Book_Link": "https://www.ebooks.com/en-in/book/443238/getting-started-with-arduino/massimo-banzi/",
+    "Price": "US$9.99",
+    "Image": "https://image.ebooks.com/previews/000/000443/000443238/000443238-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2009",
+    "Author": "Massimo Banzi",
+    "Author_Data": "https://www.ebooks.com/en-in/author/massimo-banzi/182911/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Ordermaster",
+    "Book_Link": "https://www.ebooks.com/en-in/book/597365/ordermaster/modesitt-jr-l-e/",
+    "Price": "US$5.99",
+    "Image": "https://image.ebooks.com/previews/000/000597/000597365/000597365-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2010",
+    "Author": "Modesitt, Jr., L. E.",
+    "Author_Data": "https://www.ebooks.com/en-in/author/modesitt--jr.--l.-e./895378/",
+    "Publisher": "Tom Doherty Associates"
+  },
+  {
+    "Book_name": "Cyador's Heirs",
+    "Book_Link": "https://www.ebooks.com/en-in/book/1597479/cyador-s-heirs/modesitt-jr-l-e/",
+    "Price": "US$5.49",
+    "Image": "https://image.ebooks.com/previews/001/001597/001597479/001597479-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2014",
+    "Author": "Modesitt, Jr., L. E.",
+    "Author_Data": "https://www.ebooks.com/en-in/author/modesitt--jr.--l.-e./895378/",
+    "Publisher": "Tom Doherty Associates"
+  },
+  {
+    "Book_name": "REST API Design Rulebook",
+    "Book_Link": "https://www.ebooks.com/en-in/book/801433/rest-api-design-rulebook/mark-masse/",
+    "Price": "US$9.99",
+    "Image": "https://image.ebooks.com/previews/000/000801/000801433/000801433-sml-1.jpg",
+    "Subtitle": "Designing Consistent RESTful Web Service Interfaces",
+    "Publication_Year": "2011",
+    "Author": "Mark Masse",
+    "Author_Data": "https://www.ebooks.com/en-in/author/mark-masse/392306/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Bash Pocket Reference",
+    "Book_Link": "https://www.ebooks.com/en-in/book/2530097/bash-pocket-reference/arnold-robbins/",
+    "Price": "US$16.99",
+    "Image": "https://image.ebooks.com/previews/002/002530/002530097/002530097-sml-1.jpg",
+    "Subtitle": "Help for Power Users and Sys Admins",
+    "Publication_Year": "2016",
+    "Author": "Arnold Robbins",
+    "Author_Data": "https://www.ebooks.com/en-in/author/arnold-robbins/182779/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Hackers",
+    "Book_Link": "https://www.ebooks.com/en-in/book/563956/hackers/steven-levy/",
+    "Price": "US$25.99",
+    "Image": "https://image.ebooks.com/previews/000/000563/000563956/000563956-sml-1.jpg",
+    "Subtitle": "Heroes of the Computer Revolution - 25th Anniversary Edition",
+    "Publication_Year": "2010",
+    "Author": "Steven Levy",
+    "Author_Data": "https://www.ebooks.com/en-in/author/steven-levy/53889/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Elegant SciPy",
+    "Book_Link": "https://www.ebooks.com/en-in/book/95838978/elegant-scipy/juan-nunez-iglesias/",
+    "Price": "US$33.99",
+    "Image": "https://image.ebooks.com/previews/095/095838/095838978/095838978-sml-1.jpg",
+    "Subtitle": "The Art of Scientific Python",
+    "Publication_Year": "2017",
+    "Author": "Juan Nunez-Iglesias",
+    "Author_Data": "https://www.ebooks.com/en-in/author/juan-nunez-iglesias/94169728/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Elegant SciPy",
+    "Book_Link": "https://www.ebooks.com/en-in/book/95838978/elegant-scipy/juan-nunez-iglesias/",
+    "Price": "US$33.99",
+    "Image": "https://image.ebooks.com/previews/095/095838/095838978/095838978-sml-1.jpg",
+    "Subtitle": "The Art of Scientific Python",
+    "Publication_Year": "2017",
+    "Author": "St\u00e9fan van der Walt",
+    "Author_Data": "https://www.ebooks.com/en-in/author/st\u00e9fan-van-der-walt/94169729/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Fonts & Encodings",
+    "Book_Link": "https://www.ebooks.com/en-in/book/540615/fonts-encodings/yannis-haralambous/",
+    "Price": "US$47.99",
+    "Image": "https://image.ebooks.com/previews/000/000540/000540615/000540615-sml-1.jpg",
+    "Subtitle": "From Advanced Typography to Unicode and Everything in Between",
+    "Publication_Year": "2007",
+    "Author": "Yannis Haralambous",
+    "Author_Data": "https://www.ebooks.com/en-in/author/yannis-haralambous/241879/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "GDB Pocket Reference",
+    "Book_Link": "https://www.ebooks.com/en-in/book/443457/gdb-pocket-reference/arnold-robbins/",
+    "Price": "US$16.99",
+    "Image": "https://image.ebooks.com/previews/000/000443/000443457/000443457-sml-1.jpg",
+    "Subtitle": "Debugging Quickly & Painlessly with GDB",
+    "Publication_Year": "2005",
+    "Author": "Arnold Robbins",
+    "Author_Data": "https://www.ebooks.com/en-in/author/arnold-robbins/182779/",
+    "Publisher": "O'Reilly Media"
+  }
+]
