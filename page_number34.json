@@ -1,0 +1,134 @@
+[
+  {
+    "Book_name": "Mastering Blockchain",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210161482/mastering-blockchain/lorne-lantz/",
+    "Price": "US$59.99",
+    "Image": "https://image.ebooks.com/previews/210/210161/210161482/210161482-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2020",
+    "Author": "Lorne Lantz",
+    "Author_Data": "https://www.ebooks.com/en-in/author/lorne-lantz/208486796/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Mastering Blockchain",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210161482/mastering-blockchain/lorne-lantz/",
+    "Price": "US$59.99",
+    "Image": "https://image.ebooks.com/previews/210/210161/210161482/210161482-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2020",
+    "Author": "Daniel Cawrey",
+    "Author_Data": "https://www.ebooks.com/en-in/author/daniel-cawrey/208486797/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Practical AI on the Google Cloud Platform",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210143438/practical-ai-on-the-google-cloud-platform/micheal-lanham/",
+    "Price": "US$59.99",
+    "Image": "https://image.ebooks.com/previews/210/210143/210143438/210143438-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2020",
+    "Author": "Micheal Lanham",
+    "Author_Data": "https://www.ebooks.com/en-in/author/micheal-lanham/1309168/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Heritage of Cyador",
+    "Book_Link": "https://www.ebooks.com/en-in/book/1680931/heritage-of-cyador/modesitt-jr-l-e/",
+    "Price": "US$5.99",
+    "Image": "https://image.ebooks.com/previews/001/001680/001680931/001680931-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2014",
+    "Author": "Modesitt, Jr., L. E.",
+    "Author_Data": "https://www.ebooks.com/en-in/author/modesitt--jr.--l.-e./895378/",
+    "Publisher": "Tom Doherty Associates"
+  },
+  {
+    "Book_name": "Hadoop: The Definitive Guide",
+    "Book_Link": "https://www.ebooks.com/en-in/book/1999148/hadoop-the-definitive-guide/tom-white/",
+    "Price": "US$50.99",
+    "Image": "https://image.ebooks.com/previews/001/001999/001999148/001999148-sml-1.jpg",
+    "Subtitle": "Storage and Analysis at Internet Scale",
+    "Publication_Year": "2015",
+    "Author": "Tom White",
+    "Author_Data": "https://www.ebooks.com/en-in/author/tom-white/183047/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Theory of Fun for Game Design",
+    "Book_Link": "https://www.ebooks.com/en-in/book/1550578/theory-of-fun-for-game-design/raph-koster/",
+    "Price": "US$38.99",
+    "Image": "https://image.ebooks.com/previews/001/001550/001550578/001550578-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2013",
+    "Author": "Raph Koster",
+    "Author_Data": "https://www.ebooks.com/en-in/author/raph-koster/273717/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Spiderlight",
+    "Book_Link": "https://www.ebooks.com/en-in/book/2509351/spiderlight/adrian-tchaikovsky/",
+    "Price": "US$3.19",
+    "Image": "https://image.ebooks.com/previews/002/002509/002509351/002509351-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2016",
+    "Author": "Adrian Tchaikovsky",
+    "Author_Data": "https://www.ebooks.com/en-in/author/adrian-tchaikovsky/357200/",
+    "Publisher": "Tom Doherty Associates"
+  },
+  {
+    "Book_name": "The Past Is Red",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210110604/the-past-is-red/catherynne-m-valente/",
+    "Price": "US$8.39",
+    "Image": "https://image.ebooks.com/previews/210/210110/210110604/210110604-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2021",
+    "Author": "Catherynne M. Valente",
+    "Author_Data": "https://www.ebooks.com/en-in/author/catherynne-m.-valente/317730/",
+    "Publisher": "Tom Doherty Associates"
+  },
+  {
+    "Book_name": "Head First Android Development",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210416627/head-first-android-development/dawn-griffiths/",
+    "Price": "US$67.99",
+    "Image": "https://image.ebooks.com/previews/210/210416/210416627/210416627-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2021",
+    "Author": "Dawn Griffiths",
+    "Author_Data": "https://www.ebooks.com/en-in/author/dawn-griffiths/241932/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Head First Android Development",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210416627/head-first-android-development/dawn-griffiths/",
+    "Price": "US$67.99",
+    "Image": "https://image.ebooks.com/previews/210/210416/210416627/210416627-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2021",
+    "Author": "David Griffiths",
+    "Author_Data": "https://www.ebooks.com/en-in/author/david-griffiths/891/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Programming PyTorch for Deep Learning",
+    "Book_Link": "https://www.ebooks.com/en-in/book/209787851/programming-pytorch-for-deep-learning/ian-pointer/",
+    "Price": "US$42.99",
+    "Image": "https://image.ebooks.com/previews/209/209787/209787851/209787851-sml-1.jpg",
+    "Subtitle": "Creating and Deploying Deep Learning Applications",
+    "Publication_Year": "2019",
+    "Author": "Ian Pointer",
+    "Author_Data": "https://www.ebooks.com/en-in/author/ian-pointer/699916/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Mapping Experiences",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210172260/mapping-experiences/james-kalbach/",
+    "Price": "US$42.99",
+    "Image": "https://image.ebooks.com/previews/210/210172/210172260/210172260-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2020",
+    "Author": "James Kalbach",
+    "Author_Data": "https://www.ebooks.com/en-in/author/james-kalbach/182970/",
+    "Publisher": "O'Reilly Media"
+  }
+]
