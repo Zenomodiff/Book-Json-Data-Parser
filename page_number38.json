@@ -1,0 +1,145 @@
+[
+  {
+    "Book_name": "Java Pocket Guide",
+    "Book_Link": "https://www.ebooks.com/en-in/book/95852341/java-pocket-guide/robert-liguori/",
+    "Price": "US$16.99",
+    "Image": "https://image.ebooks.com/previews/095/095852/095852341/095852341-sml-1.jpg",
+    "Subtitle": "Instant Help for Java Programmers",
+    "Publication_Year": "2017",
+    "Author": "Robert Liguori",
+    "Author_Data": "https://www.ebooks.com/en-in/author/robert-liguori/182836/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Java Pocket Guide",
+    "Book_Link": "https://www.ebooks.com/en-in/book/95852341/java-pocket-guide/robert-liguori/",
+    "Price": "US$16.99",
+    "Image": "https://image.ebooks.com/previews/095/095852/095852341/095852341-sml-1.jpg",
+    "Subtitle": "Instant Help for Java Programmers",
+    "Publication_Year": "2017",
+    "Author": "Patricia Liguori",
+    "Author_Data": "https://www.ebooks.com/en-in/author/patricia-liguori/182837/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Product Leadership",
+    "Book_Link": "https://www.ebooks.com/en-in/book/95787271/product-leadership/richard-banfield/",
+    "Price": "US$33.99",
+    "Image": "https://image.ebooks.com/previews/095/095787/095787271/095787271-sml-1.jpg",
+    "Subtitle": "How Top Product Managers Launch Awesome Products and Build Successful Teams",
+    "Publication_Year": "2017",
+    "Author": "Richard Banfield",
+    "Author_Data": "https://www.ebooks.com/en-in/author/richard-banfield/1001435/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Product Leadership",
+    "Book_Link": "https://www.ebooks.com/en-in/book/95787271/product-leadership/richard-banfield/",
+    "Price": "US$33.99",
+    "Image": "https://image.ebooks.com/previews/095/095787/095787271/095787271-sml-1.jpg",
+    "Subtitle": "How Top Product Managers Launch Awesome Products and Build Successful Teams",
+    "Publication_Year": "2017",
+    "Author": "Martin Eriksson",
+    "Author_Data": "https://www.ebooks.com/en-in/author/martin-eriksson/1343601/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Technology Strategy Patterns",
+    "Book_Link": "https://www.ebooks.com/en-in/book/209514863/technology-strategy-patterns/eben-hewitt/",
+    "Price": "US$38.00",
+    "Image": "https://image.ebooks.com/previews/209/209514/209514863/209514863-sml-1.jpg",
+    "Subtitle": "Architecture as Strategy",
+    "Publication_Year": "2018",
+    "Author": "Eben Hewitt",
+    "Author_Data": "https://www.ebooks.com/en-in/author/eben-hewitt/182964/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Worth Her Weight in Gold",
+    "Book_Link": "https://www.ebooks.com/en-in/book/96059807/worth-her-weight-in-gold/sarah-gailey/",
+    "Price": "US$0.79",
+    "Image": "https://image.ebooks.com/previews/096/096059/096059807/096059807-sml-1.jpg",
+    "Subtitle": "A Tor.com Original",
+    "Publication_Year": "2018",
+    "Author": "Sarah Gailey",
+    "Author_Data": "https://www.ebooks.com/en-in/author/sarah-gailey/1292544/",
+    "Publisher": "Tom Doherty Associates"
+  },
+  {
+    "Book_name": "grep Pocket Reference",
+    "Book_Link": "https://www.ebooks.com/en-in/book/443168/grep-pocket-reference/john-bambenek/",
+    "Price": "US$16.99",
+    "Image": "https://image.ebooks.com/previews/000/000443/000443168/000443168-sml-1.jpg",
+    "Subtitle": "A Quick Pocket Reference for a Utility Every Unix User Needs",
+    "Publication_Year": "2009",
+    "Author": "John Bambenek",
+    "Author_Data": "https://www.ebooks.com/en-in/author/john-bambenek/182829/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "grep Pocket Reference",
+    "Book_Link": "https://www.ebooks.com/en-in/book/443168/grep-pocket-reference/john-bambenek/",
+    "Price": "US$16.99",
+    "Image": "https://image.ebooks.com/previews/000/000443/000443168/000443168-sml-1.jpg",
+    "Subtitle": "A Quick Pocket Reference for a Utility Every Unix User Needs",
+    "Publication_Year": "2009",
+    "Author": "Agnieszka Klus",
+    "Author_Data": "https://www.ebooks.com/en-in/author/agnieszka-klus/182830/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Feedback Control for Computer Systems",
+    "Book_Link": "https://www.ebooks.com/en-in/book/1404606/feedback-control-for-computer-systems/philipp-k-janert/",
+    "Price": "US$33.99",
+    "Image": "https://image.ebooks.com/previews/001/001404/001404606/001404606-sml-1.jpg",
+    "Subtitle": "Introducing Control Theory to Enterprise Programmers",
+    "Publication_Year": "2013",
+    "Author": "Philipp K. Janert",
+    "Author_Data": "https://www.ebooks.com/en-in/author/philipp-k.-janert/277380/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Breaker of Empires",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210078682/breaker-of-empires/richard-baker/",
+    "Price": "US$1.19",
+    "Image": "https://image.ebooks.com/previews/210/210078/210078682/210078682-sml-1.jpg",
+    "Subtitle": "Valiant Dust, Restless Lightning, Scornful Stars",
+    "Publication_Year": "2020",
+    "Author": "Richard Baker",
+    "Author_Data": "https://www.ebooks.com/en-in/author/richard-baker/45205/",
+    "Publisher": "Tom Doherty Associates"
+  },
+  {
+    "Book_name": "The New Kingmakers",
+    "Book_Link": "https://www.ebooks.com/en-in/book/1154458/the-new-kingmakers/stephen-o-grady/",
+    "Price": "US$6.99",
+    "Image": "https://image.ebooks.com/previews/001/001154/001154458/001154458-sml-1.jpg",
+    "Subtitle": "How Developers Conquered the World",
+    "Publication_Year": "2013",
+    "Author": "Stephen O'Grady",
+    "Author_Data": "https://www.ebooks.com/en-in/author/stephen-o'grady/573747/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "97 Things Every Scrum Practitioner Should Know",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210008656/97-things-every-scrum-practitioner-should-know/gunther-verheyen/",
+    "Price": "US$38.99",
+    "Image": "https://image.ebooks.com/previews/210/210008/210008656/210008656-sml-1.jpg",
+    "Subtitle": "Collective Wisdom from the Experts",
+    "Publication_Year": "2020",
+    "Author": "Gunther Verheyen",
+    "Author_Data": "https://www.ebooks.com/en-in/author/gunther-verheyen/94282455/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Learning Serverless",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210148975/learning-serverless/jason-katzer/",
+    "Price": "US$50.99",
+    "Image": "https://image.ebooks.com/previews/210/210148/210148975/210148975-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2020",
+    "Author": "Jason Katzer",
+    "Author_Data": "https://www.ebooks.com/en-in/author/jason-katzer/208476838/",
+    "Publisher": "O'Reilly Media"
+  }
+]
