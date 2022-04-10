@@ -1,0 +1,134 @@
+[
+  {
+    "Book_name": "C++ Pocket Reference",
+    "Book_Link": "https://www.ebooks.com/en-in/book/540801/c-pocket-reference/kyle-loudon/",
+    "Price": "US$7.99",
+    "Image": "https://image.ebooks.com/previews/000/000540/000540801/000540801-sml-1.jpg",
+    "Subtitle": "C++ Syntax and Fundamentals",
+    "Publication_Year": "2008",
+    "Author": "Kyle Loudon",
+    "Author_Data": "https://www.ebooks.com/en-in/author/kyle-loudon/182981/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Learning the Unix Operating System",
+    "Book_Link": "https://www.ebooks.com/en-in/book/1664451/learning-the-unix-operating-system/jerry-peek/",
+    "Price": "US$27.99",
+    "Image": "https://image.ebooks.com/previews/001/001664/001664451/001664451-sml-1.jpg",
+    "Subtitle": "A Concise Guide for the New User",
+    "Publication_Year": "2001",
+    "Author": "Jerry Peek",
+    "Author_Data": "https://www.ebooks.com/en-in/author/jerry-peek/182732/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Learning the Unix Operating System",
+    "Book_Link": "https://www.ebooks.com/en-in/book/1664451/learning-the-unix-operating-system/jerry-peek/",
+    "Price": "US$27.99",
+    "Image": "https://image.ebooks.com/previews/001/001664/001664451/001664451-sml-1.jpg",
+    "Subtitle": "A Concise Guide for the New User",
+    "Publication_Year": "2001",
+    "Author": "Grace Todino",
+    "Author_Data": "https://www.ebooks.com/en-in/author/grace-todino/765947/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "ZeroMQ",
+    "Book_Link": "https://www.ebooks.com/en-in/book/1153659/zeromq/pieter-hintjens/",
+    "Price": "US$45.99",
+    "Image": "https://image.ebooks.com/previews/001/001153/001153659/001153659-sml-1.jpg",
+    "Subtitle": "Messaging for Many Applications",
+    "Publication_Year": "2013",
+    "Author": "Pieter Hintjens",
+    "Author_Data": "https://www.ebooks.com/en-in/author/pieter-hintjens/573274/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Creating a Data-Driven Organization",
+    "Book_Link": "https://www.ebooks.com/en-in/book/2120743/creating-a-data-driven-organization/carl-anderson/",
+    "Price": "US$33.99",
+    "Image": "https://image.ebooks.com/previews/002/002120/002120743/002120743-sml-1.jpg",
+    "Subtitle": "Practical Advice from the Trenches",
+    "Publication_Year": "2015",
+    "Author": "Carl Anderson",
+    "Author_Data": "https://www.ebooks.com/en-in/author/carl-anderson/123297/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Warm Up",
+    "Book_Link": "https://www.ebooks.com/en-in/book/1324562/warm-up/v-e-schwab/",
+    "Price": "US$0.99",
+    "Image": "https://image.ebooks.com/previews/001/001324/001324562/001324562-sml-1.jpg",
+    "Subtitle": "A Tor.Com Original Prequel to 'Vicious'",
+    "Publication_Year": "2013",
+    "Author": "V. E. Schwab",
+    "Author_Data": "https://www.ebooks.com/en-in/author/v.-e.-schwab/588670/",
+    "Publisher": "Tom Doherty Associates"
+  },
+  {
+    "Book_name": "Scala Cookbook",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210354077/scala-cookbook/alvin-alexander/",
+    "Price": "US$59.99",
+    "Image": "https://image.ebooks.com/previews/210/210354/210354077/210354077-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2021",
+    "Author": "Alvin Alexander",
+    "Author_Data": "https://www.ebooks.com/en-in/author/alvin-alexander/683186/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Learning Chaos Engineering",
+    "Book_Link": "https://www.ebooks.com/en-in/book/209741147/learning-chaos-engineering/russ-miles/",
+    "Price": "US$50.99",
+    "Image": "https://image.ebooks.com/previews/209/209741/209741147/209741147-sml-1.jpg",
+    "Subtitle": "Discovering and Overcoming System Weaknesses Through Experimentation",
+    "Publication_Year": "2019",
+    "Author": "Russ Miles",
+    "Author_Data": "https://www.ebooks.com/en-in/author/russ-miles/182820/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "97 Things Every Java Programmer Should Know",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210022720/97-things-every-java-programmer-should-know/kevlin-henney/",
+    "Price": "US$38.99",
+    "Image": "https://image.ebooks.com/previews/210/210022/210022720/210022720-sml-1.jpg",
+    "Subtitle": "Collective Wisdom from the Experts",
+    "Publication_Year": "2020",
+    "Author": "Kevlin Henney",
+    "Author_Data": "https://www.ebooks.com/en-in/author/kevlin-henney/91406/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "97 Things Every Java Programmer Should Know",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210022720/97-things-every-java-programmer-should-know/kevlin-henney/",
+    "Price": "US$38.99",
+    "Image": "https://image.ebooks.com/previews/210/210022/210022720/210022720-sml-1.jpg",
+    "Subtitle": "Collective Wisdom from the Experts",
+    "Publication_Year": "2020",
+    "Author": "Trisha Gee",
+    "Author_Data": "https://www.ebooks.com/en-in/author/trisha-gee/208404339/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Available Light",
+    "Book_Link": "https://www.ebooks.com/en-in/book/96321512/available-light/dayton-ward/",
+    "Price": "US$9.11",
+    "Image": "https://image.ebooks.com/previews/096/096321/096321512/096321512-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2019",
+    "Author": "Dayton Ward",
+    "Author_Data": "https://www.ebooks.com/en-in/author/dayton-ward/8453/",
+    "Publisher": "Pocket Books/Star Trek"
+  },
+  {
+    "Book_name": "The Death of Chaos",
+    "Book_Link": "https://www.ebooks.com/en-in/book/598894/the-death-of-chaos/modesitt-jr-l-e/",
+    "Price": "US$5.99",
+    "Image": "https://image.ebooks.com/previews/000/000598/000598894/000598894-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2010",
+    "Author": "Modesitt, Jr., L. E.",
+    "Author_Data": "https://www.ebooks.com/en-in/author/modesitt--jr.--l.-e./895378/",
+    "Publisher": "Tom Doherty Associates"
+  }
+]
