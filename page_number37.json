@@ -1,0 +1,156 @@
+[
+  {
+    "Book_name": "Hawk",
+    "Book_Link": "https://www.ebooks.com/en-in/book/1657131/hawk/steven-brust/",
+    "Price": "US$5.99",
+    "Image": "https://image.ebooks.com/previews/001/001657/001657131/001657131-sml-1.jpg",
+    "Subtitle": "A New Novel Vlad Taltos",
+    "Publication_Year": "2014",
+    "Author": "Steven Brust",
+    "Author_Data": "https://www.ebooks.com/en-in/author/steven-brust/268557/",
+    "Publisher": "Tom Doherty Associates"
+  },
+  {
+    "Book_name": "Head First Object-Oriented Analysis and Design",
+    "Book_Link": "https://www.ebooks.com/en-in/book/540881/head-first-object-oriented-analysis-and-design/brett-mclaughlin/",
+    "Price": "US$59.99",
+    "Image": "https://image.ebooks.com/previews/000/000540/000540881/000540881-sml-1.jpg",
+    "Subtitle": "A Brain Friendly Guide to OOA&D",
+    "Publication_Year": "2006",
+    "Author": "Brett McLaughlin",
+    "Author_Data": "https://www.ebooks.com/en-in/author/brett-mclaughlin/239578/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Head First Object-Oriented Analysis and Design",
+    "Book_Link": "https://www.ebooks.com/en-in/book/540881/head-first-object-oriented-analysis-and-design/brett-mclaughlin/",
+    "Price": "US$59.99",
+    "Image": "https://image.ebooks.com/previews/000/000540/000540881/000540881-sml-1.jpg",
+    "Subtitle": "A Brain Friendly Guide to OOA&D",
+    "Publication_Year": "2006",
+    "Author": "Gary Pollice",
+    "Author_Data": "https://www.ebooks.com/en-in/author/gary-pollice/239533/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Head First Data Analysis",
+    "Book_Link": "https://www.ebooks.com/en-in/book/563954/head-first-data-analysis/michael-milton/",
+    "Price": "US$50.99",
+    "Image": "https://image.ebooks.com/previews/000/000563/000563954/000563954-sml-1.jpg",
+    "Subtitle": "A learner's guide to big numbers, statistics, and good decisions",
+    "Publication_Year": "2009",
+    "Author": "Michael Milton",
+    "Author_Data": "https://www.ebooks.com/en-in/author/michael-milton/252962/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Ringworld: The Graphic Novel, Part One",
+    "Book_Link": "https://www.ebooks.com/en-in/book/1830508/ringworld-the-graphic-novel-part-one/larry-niven/",
+    "Price": "US$5.99",
+    "Image": "https://image.ebooks.com/previews/001/001830/001830508/001830508-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2014",
+    "Author": "Larry Niven",
+    "Author_Data": "https://www.ebooks.com/en-in/author/larry-niven/16695/",
+    "Publisher": "Tom Doherty Associates"
+  },
+  {
+    "Book_name": "Ringworld: The Graphic Novel, Part One",
+    "Book_Link": "https://www.ebooks.com/en-in/book/1830508/ringworld-the-graphic-novel-part-one/larry-niven/",
+    "Price": "US$5.99",
+    "Image": "https://image.ebooks.com/previews/001/001830/001830508/001830508-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2014",
+    "Author": "Robert Mandell",
+    "Author_Data": "https://www.ebooks.com/en-in/author/robert-mandell/832071/",
+    "Publisher": "Tom Doherty Associates"
+  },
+  {
+    "Book_name": "Regular Expressions Cookbook",
+    "Book_Link": "https://www.ebooks.com/en-in/book/999514/regular-expressions-cookbook/jan-goyvaerts/",
+    "Price": "US$50.99",
+    "Image": "https://image.ebooks.com/previews/000/000999/000999514/000999514-sml-1.jpg",
+    "Subtitle": "Detailed Solutions in Eight Programming Languages",
+    "Publication_Year": "2012",
+    "Author": "Jan Goyvaerts",
+    "Author_Data": "https://www.ebooks.com/en-in/author/jan-goyvaerts/252960/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Regular Expressions Cookbook",
+    "Book_Link": "https://www.ebooks.com/en-in/book/999514/regular-expressions-cookbook/jan-goyvaerts/",
+    "Price": "US$50.99",
+    "Image": "https://image.ebooks.com/previews/000/000999/000999514/000999514-sml-1.jpg",
+    "Subtitle": "Detailed Solutions in Eight Programming Languages",
+    "Publication_Year": "2012",
+    "Author": "Steven Levithan",
+    "Author_Data": "https://www.ebooks.com/en-in/author/steven-levithan/252961/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "vi Editor Pocket Reference",
+    "Book_Link": "https://www.ebooks.com/en-in/book/443459/vi-editor-pocket-reference/arnold-robbins/",
+    "Price": "US$7.99",
+    "Image": "https://image.ebooks.com/previews/000/000443/000443459/000443459-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "1999",
+    "Author": "Arnold Robbins",
+    "Author_Data": "https://www.ebooks.com/en-in/author/arnold-robbins/182779/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Head First Statistics",
+    "Book_Link": "https://www.ebooks.com/en-in/book/540888/head-first-statistics/dawn-griffiths/",
+    "Price": "US$27.99",
+    "Image": "https://image.ebooks.com/previews/000/000540/000540888/000540888-sml-1.jpg",
+    "Subtitle": "A Brain-Friendly Guide",
+    "Publication_Year": "2008",
+    "Author": "Dawn Griffiths",
+    "Author_Data": "https://www.ebooks.com/en-in/author/dawn-griffiths/241932/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Head First Algebra",
+    "Book_Link": "https://www.ebooks.com/en-in/book/540875/head-first-algebra/tracey-pilone/",
+    "Price": "US$29.99",
+    "Image": "https://image.ebooks.com/previews/000/000540/000540875/000540875-sml-1.jpg",
+    "Subtitle": "A Learner's Guide to Algebra I",
+    "Publication_Year": "2008",
+    "Author": "Tracey Pilone",
+    "Author_Data": "https://www.ebooks.com/en-in/author/tracey-pilone/241928/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Head First Algebra",
+    "Book_Link": "https://www.ebooks.com/en-in/book/540875/head-first-algebra/tracey-pilone/",
+    "Price": "US$29.99",
+    "Image": "https://image.ebooks.com/previews/000/000540/000540875/000540875-sml-1.jpg",
+    "Subtitle": "A Learner's Guide to Algebra I",
+    "Publication_Year": "2008",
+    "Author": "Dan Pilone",
+    "Author_Data": "https://www.ebooks.com/en-in/author/dan-pilone/182868/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Developing with PDF",
+    "Book_Link": "https://www.ebooks.com/en-in/book/1480424/developing-with-pdf/leonard-rosenthol/",
+    "Price": "US$24.99",
+    "Image": "https://image.ebooks.com/previews/001/001480/001480424/001480424-sml-1.jpg",
+    "Subtitle": "Dive Into the Portable Document Format",
+    "Publication_Year": "2013",
+    "Author": "Leonard Rosenthol",
+    "Author_Data": "https://www.ebooks.com/en-in/author/leonard-rosenthol/713128/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Department of Temporal Investigations: Shield of the Gods",
+    "Book_Link": "https://www.ebooks.com/en-in/book/95593619/department-of-temporal-investigations-shield-of-the-gods/christopher-l-bennett/",
+    "Price": "US$2.27",
+    "Image": "https://image.ebooks.com/previews/095/095593/095593619/095593619-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2017",
+    "Author": "Christopher L. Bennett",
+    "Author_Data": "https://www.ebooks.com/en-in/author/christopher-l.-bennett/16394/",
+    "Publisher": "Pocket Books/Star Trek"
+  }
+]
