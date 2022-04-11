@@ -1,0 +1,145 @@
+[
+  {
+    "Book_name": "Cloud Native Infrastructure",
+    "Book_Link": "https://www.ebooks.com/en-in/book/95895764/cloud-native-infrastructure/justin-garrison/",
+    "Price": "US$33.99",
+    "Image": "https://image.ebooks.com/previews/095/095895/095895764/095895764-sml-1.jpg",
+    "Subtitle": "Patterns for Scalable Infrastructure and Applications in a Dynamic Environment",
+    "Publication_Year": "2017",
+    "Author": "Justin Garrison",
+    "Author_Data": "https://www.ebooks.com/en-in/author/justin-garrison/94206587/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Cloud Native Infrastructure",
+    "Book_Link": "https://www.ebooks.com/en-in/book/95895764/cloud-native-infrastructure/justin-garrison/",
+    "Price": "US$33.99",
+    "Image": "https://image.ebooks.com/previews/095/095895/095895764/095895764-sml-1.jpg",
+    "Subtitle": "Patterns for Scalable Infrastructure and Applications in a Dynamic Environment",
+    "Publication_Year": "2017",
+    "Author": "Kris Nova",
+    "Author_Data": "https://www.ebooks.com/en-in/author/kris-nova/94206588/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "The Mither Mages Trilogy",
+    "Book_Link": "https://www.ebooks.com/en-in/book/95753731/the-mither-mages-trilogy/orson-scott-card/",
+    "Price": "US$8.79",
+    "Image": "https://image.ebooks.com/previews/095/095753/095753731/095753731-sml-1.jpg",
+    "Subtitle": "(The Lost Gate, The Gate Thief, Gatefather)",
+    "Publication_Year": "2017",
+    "Author": "Orson Scott Card",
+    "Author_Data": "https://www.ebooks.com/en-in/author/orson-scott-card/9180/",
+    "Publisher": "Tom Doherty Associates"
+  },
+  {
+    "Book_name": "Macintosh Terminal Pocket Guide",
+    "Book_Link": "https://www.ebooks.com/en-in/book/946586/macintosh-terminal-pocket-guide/daniel-j-barrett/",
+    "Price": "US$7.99",
+    "Image": "https://image.ebooks.com/previews/000/000946/000946586/000946586-sml-1.jpg",
+    "Subtitle": "Take Command of Your Mac",
+    "Publication_Year": "2012",
+    "Author": "Daniel J. Barrett",
+    "Author_Data": "https://www.ebooks.com/en-in/author/daniel-j.-barrett/182912/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Linux Device Drivers",
+    "Book_Link": "https://www.ebooks.com/en-in/book/443086/linux-device-drivers/jonathan-corbet/",
+    "Price": "US$42.99",
+    "Image": "https://image.ebooks.com/previews/000/000443/000443086/000443086-sml-1.jpg",
+    "Subtitle": "Where the Kernel Meets the Hardware",
+    "Publication_Year": "2005",
+    "Author": "Jonathan Corbet",
+    "Author_Data": "https://www.ebooks.com/en-in/author/jonathan-corbet/182699/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Linux Device Drivers",
+    "Book_Link": "https://www.ebooks.com/en-in/book/443086/linux-device-drivers/jonathan-corbet/",
+    "Price": "US$42.99",
+    "Image": "https://image.ebooks.com/previews/000/000443/000443086/000443086-sml-1.jpg",
+    "Subtitle": "Where the Kernel Meets the Hardware",
+    "Publication_Year": "2005",
+    "Author": "Alessandro Rubini",
+    "Author_Data": "https://www.ebooks.com/en-in/author/alessandro-rubini/182700/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Introducing GitHub",
+    "Book_Link": "https://www.ebooks.com/en-in/book/95936901/introducing-github/brent-beer/",
+    "Price": "US$25.99",
+    "Image": "https://image.ebooks.com/previews/095/095936/095936901/095936901-sml-1.jpg",
+    "Subtitle": "A Non-Technical Guide",
+    "Publication_Year": "2018",
+    "Author": "Brent Beer",
+    "Author_Data": "https://www.ebooks.com/en-in/author/brent-beer/839632/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "The Barrow Will Send What it May",
+    "Book_Link": "https://www.ebooks.com/en-in/book/95852218/the-barrow-will-send-what-it-may/margaret-killjoy/",
+    "Price": "US$1.99",
+    "Image": "https://image.ebooks.com/previews/095/095852/095852218/095852218-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2018",
+    "Author": "Margaret Killjoy",
+    "Author_Data": "https://www.ebooks.com/en-in/author/margaret-killjoy/523823/",
+    "Publisher": "Tom Doherty Associates"
+  },
+  {
+    "Book_name": "Sin du Jour: The First Course",
+    "Book_Link": "https://www.ebooks.com/en-in/book/95634097/sin-du-jour-the-first-course/matt-wallace/",
+    "Price": "US$2.79",
+    "Image": "https://image.ebooks.com/previews/095/095634/095634097/095634097-sml-1.jpg",
+    "Subtitle": "Envy of Angels, Lustlocked, Pride's Spell",
+    "Publication_Year": "2017",
+    "Author": "Matt Wallace",
+    "Author_Data": "https://www.ebooks.com/en-in/author/matt-wallace/841257/",
+    "Publisher": "Tom Doherty Associates"
+  },
+  {
+    "Book_name": "XSLT",
+    "Book_Link": "https://www.ebooks.com/en-in/book/540335/xslt/doug-tidwell/",
+    "Price": "US$39.99",
+    "Image": "https://image.ebooks.com/previews/000/000540/000540335/000540335-sml-1.jpg",
+    "Subtitle": "Mastering XML Transformations",
+    "Publication_Year": "2008",
+    "Author": "Doug Tidwell",
+    "Author_Data": "https://www.ebooks.com/en-in/author/doug-tidwell/182703/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Understanding the Linux Kernel",
+    "Book_Link": "https://www.ebooks.com/en-in/book/443134/understanding-the-linux-kernel/daniel-p-bovet/",
+    "Price": "US$59.99",
+    "Image": "https://image.ebooks.com/previews/000/000443/000443134/000443134-sml-1.jpg",
+    "Subtitle": "From I/O Ports to Process Management",
+    "Publication_Year": "2005",
+    "Author": "Daniel P. Bovet",
+    "Author_Data": "https://www.ebooks.com/en-in/author/daniel-p.-bovet/182786/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Understanding the Linux Kernel",
+    "Book_Link": "https://www.ebooks.com/en-in/book/443134/understanding-the-linux-kernel/daniel-p-bovet/",
+    "Price": "US$59.99",
+    "Image": "https://image.ebooks.com/previews/000/000443/000443134/000443134-sml-1.jpg",
+    "Subtitle": "From I/O Ports to Process Management",
+    "Publication_Year": "2005",
+    "Author": "Marco Cesati",
+    "Author_Data": "https://www.ebooks.com/en-in/author/marco-cesati/182787/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Electronics Cookbook",
+    "Book_Link": "https://www.ebooks.com/en-in/book/95751751/electronics-cookbook/simon-monk/",
+    "Price": "US$42.99",
+    "Image": "https://image.ebooks.com/previews/095/095751/095751751/095751751-sml-1.jpg",
+    "Subtitle": "Practical Electronic Recipes with Arduino and Raspberry Pi",
+    "Publication_Year": "2017",
+    "Author": "Simon Monk",
+    "Author_Data": "https://www.ebooks.com/en-in/author/simon-monk/258741/",
+    "Publisher": "O'Reilly Media"
+  }
+]
