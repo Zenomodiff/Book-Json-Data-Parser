@@ -1,0 +1,123 @@
+[
+  {
+    "Book_name": "97 Things Every Scrum Practitioner Should Know",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210008656/97-things-every-scrum-practitioner-should-know/gunther-verheyen/",
+    "Price": "US$38.99",
+    "Image": "https://image.ebooks.com/previews/210/210008/210008656/210008656-sml-1.jpg",
+    "Subtitle": "Collective Wisdom from the Experts",
+    "Publication_Year": "2020",
+    "Author": "Gunther Verheyen",
+    "Author_Data": "https://www.ebooks.com/en-in/author/gunther-verheyen/94282455/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Learning Serverless",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210148975/learning-serverless/jason-katzer/",
+    "Price": "US$50.99",
+    "Image": "https://image.ebooks.com/previews/210/210148/210148975/210148975-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2020",
+    "Author": "Jason Katzer",
+    "Author_Data": "https://www.ebooks.com/en-in/author/jason-katzer/208476838/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Designing for Behavior Change",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210039881/designing-for-behavior-change/stephen-wendel/",
+    "Price": "US$42.99",
+    "Image": "https://image.ebooks.com/previews/210/210039/210039881/210039881-sml-1.jpg",
+    "Subtitle": "Applying Psychology and Behavioral Economics",
+    "Publication_Year": "2020",
+    "Author": "Stephen Wendel",
+    "Author_Data": "https://www.ebooks.com/en-in/author/stephen-wendel/718956/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Data Governance: The Definitive Guide",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210240308/data-governance-the-definitive-guide/evren-eryurek/",
+    "Price": "US$59.99",
+    "Image": "https://image.ebooks.com/previews/210/210240/210240308/210240308-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2021",
+    "Author": "Evren Eryurek",
+    "Author_Data": "https://www.ebooks.com/en-in/author/evren-eryurek/208533398/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Data Governance: The Definitive Guide",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210240308/data-governance-the-definitive-guide/evren-eryurek/",
+    "Price": "US$59.99",
+    "Image": "https://image.ebooks.com/previews/210/210240/210240308/210240308-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2021",
+    "Author": "Uri Gilad",
+    "Author_Data": "https://www.ebooks.com/en-in/author/uri-gilad/208533399/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Data Science at the Command Line",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210356371/data-science-at-the-command-line/jeroen-janssens/",
+    "Price": "US$50.99",
+    "Image": "https://image.ebooks.com/previews/210/210356/210356371/210356371-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2021",
+    "Author": "Jeroen Janssens",
+    "Author_Data": "https://www.ebooks.com/en-in/author/jeroen-janssens/821417/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Star Trek: Discovery: The Way to the Stars",
+    "Book_Link": "https://www.ebooks.com/en-in/book/96321516/star-trek-discovery-the-way-to-the-stars/una-mccormack/",
+    "Price": "US$9.11",
+    "Image": "https://image.ebooks.com/previews/096/096321/096321516/096321516-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2019",
+    "Author": "Una McCormack",
+    "Author_Data": "https://www.ebooks.com/en-in/author/una-mccormack/42801/",
+    "Publisher": "Gallery Books"
+  },
+  {
+    "Book_name": "Star Trek: Picard: The Dark Veil",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210106131/star-trek-picard-the-dark-veil/james-swallow/",
+    "Price": "US$9.11",
+    "Image": "https://image.ebooks.com/previews/210/210106/210106131/210106131-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2021",
+    "Author": "James Swallow",
+    "Author_Data": "https://www.ebooks.com/en-in/author/james-swallow/123546/",
+    "Publisher": "Pocket Books/Star Trek"
+  },
+  {
+    "Book_name": "Star Trek: Discovery: The Enterprise War",
+    "Book_Link": "https://www.ebooks.com/en-in/book/209588203/star-trek-discovery-the-enterprise-war/john-jackson-miller/",
+    "Price": "US$9.11",
+    "Image": "https://image.ebooks.com/previews/209/209588/209588203/209588203-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2019",
+    "Author": "John Jackson Miller",
+    "Author_Data": "https://www.ebooks.com/en-in/author/john-jackson-miller/316431/",
+    "Publisher": "Pocket Books/Star Trek"
+  },
+  {
+    "Book_name": "The Magic Engineer",
+    "Book_Link": "https://www.ebooks.com/en-in/book/596064/the-magic-engineer/modesitt-jr-l-e/",
+    "Price": "US$5.49",
+    "Image": "https://image.ebooks.com/previews/000/000596/000596064/000596064-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2014",
+    "Author": "Modesitt, Jr., L. E.",
+    "Author_Data": "https://www.ebooks.com/en-in/author/modesitt--jr.--l.-e./895378/",
+    "Publisher": "Tom Doherty Associates"
+  },
+  {
+    "Book_name": "Natural Ordermage",
+    "Book_Link": "https://www.ebooks.com/en-in/book/597298/natural-ordermage/modesitt-jr-l-e/",
+    "Price": "US$5.99",
+    "Image": "https://image.ebooks.com/previews/000/000597/000597298/000597298-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2007",
+    "Author": "Modesitt, Jr., L. E.",
+    "Author_Data": "https://www.ebooks.com/en-in/author/modesitt--jr.--l.-e./895378/",
+    "Publisher": "Tom Doherty Associates"
+  }
+]
