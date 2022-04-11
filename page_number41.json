@@ -1,0 +1,156 @@
+[
+  {
+    "Book_name": "Understanding the Linux Kernel",
+    "Book_Link": "https://www.ebooks.com/en-in/book/443134/understanding-the-linux-kernel/daniel-p-bovet/",
+    "Price": "US$59.99",
+    "Image": "https://image.ebooks.com/previews/000/000443/000443134/000443134-sml-1.jpg",
+    "Subtitle": "From I/O Ports to Process Management",
+    "Publication_Year": "2005",
+    "Author": "Daniel P. Bovet",
+    "Author_Data": "https://www.ebooks.com/en-in/author/daniel-p.-bovet/182786/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Understanding the Linux Kernel",
+    "Book_Link": "https://www.ebooks.com/en-in/book/443134/understanding-the-linux-kernel/daniel-p-bovet/",
+    "Price": "US$59.99",
+    "Image": "https://image.ebooks.com/previews/000/000443/000443134/000443134-sml-1.jpg",
+    "Subtitle": "From I/O Ports to Process Management",
+    "Publication_Year": "2005",
+    "Author": "Marco Cesati",
+    "Author_Data": "https://www.ebooks.com/en-in/author/marco-cesati/182787/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Electronics Cookbook",
+    "Book_Link": "https://www.ebooks.com/en-in/book/95751751/electronics-cookbook/simon-monk/",
+    "Price": "US$42.99",
+    "Image": "https://image.ebooks.com/previews/095/095751/095751751/095751751-sml-1.jpg",
+    "Subtitle": "Practical Electronic Recipes with Arduino and Raspberry Pi",
+    "Publication_Year": "2017",
+    "Author": "Simon Monk",
+    "Author_Data": "https://www.ebooks.com/en-in/author/simon-monk/258741/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "C# Language Pocket Reference",
+    "Book_Link": "https://www.ebooks.com/en-in/book/443098/c-language-pocket-reference/peter-drayton/",
+    "Price": "US$6.99",
+    "Image": "https://image.ebooks.com/previews/000/000443/000443098/000443098-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2002",
+    "Author": "Peter Drayton",
+    "Author_Data": "https://www.ebooks.com/en-in/author/peter-drayton/182723/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "C# Language Pocket Reference",
+    "Book_Link": "https://www.ebooks.com/en-in/book/443098/c-language-pocket-reference/peter-drayton/",
+    "Price": "US$6.99",
+    "Image": "https://image.ebooks.com/previews/000/000443/000443098/000443098-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2002",
+    "Author": "Ben Albahari",
+    "Author_Data": "https://www.ebooks.com/en-in/author/ben-albahari/182724/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "C Pocket Reference",
+    "Book_Link": "https://www.ebooks.com/en-in/book/540798/c-pocket-reference/peter-prinz/",
+    "Price": "US$7.99",
+    "Image": "https://image.ebooks.com/previews/000/000540/000540798/000540798-sml-1.jpg",
+    "Subtitle": "C Syntax and Fundamentals",
+    "Publication_Year": "2002",
+    "Author": "Peter Prinz",
+    "Author_Data": "https://www.ebooks.com/en-in/author/peter-prinz/182792/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "C Pocket Reference",
+    "Book_Link": "https://www.ebooks.com/en-in/book/540798/c-pocket-reference/peter-prinz/",
+    "Price": "US$7.99",
+    "Image": "https://image.ebooks.com/previews/000/000540/000540798/000540798-sml-1.jpg",
+    "Subtitle": "C Syntax and Fundamentals",
+    "Publication_Year": "2002",
+    "Author": "Ulla Kirch-Prinz",
+    "Author_Data": "https://www.ebooks.com/en-in/author/ulla-kirch-prinz/239669/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Think Complexity",
+    "Book_Link": "https://www.ebooks.com/en-in/book/96308025/think-complexity/allen-downey/",
+    "Price": "US$42.99",
+    "Image": "https://image.ebooks.com/previews/096/096308/096308025/096308025-sml-1.jpg",
+    "Subtitle": "Complexity Science and Computational Modeling",
+    "Publication_Year": "2018",
+    "Author": "Allen Downey",
+    "Author_Data": "https://www.ebooks.com/en-in/author/allen-downey/374826/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Necessity",
+    "Book_Link": "https://www.ebooks.com/en-in/book/2469254/necessity/jo-walton/",
+    "Price": "US$4.79",
+    "Image": "https://image.ebooks.com/previews/002/002469/002469254/002469254-sml-1.jpg",
+    "Subtitle": "A Novel",
+    "Publication_Year": "2016",
+    "Author": "Jo Walton",
+    "Author_Data": "https://www.ebooks.com/en-in/author/jo-walton/9032/",
+    "Publisher": "Tom Doherty Associates"
+  },
+  {
+    "Book_name": "HTML5 Pocket Reference",
+    "Book_Link": "https://www.ebooks.com/en-in/book/1319159/html5-pocket-reference/jennifer-robbins/",
+    "Price": "US$16.99",
+    "Image": "https://image.ebooks.com/previews/001/001319/001319159/001319159-sml-1.jpg",
+    "Subtitle": "Quick, Comprehensive, Indispensable",
+    "Publication_Year": "2013",
+    "Author": "Jennifer Robbins",
+    "Author_Data": "https://www.ebooks.com/en-in/author/jennifer-robbins/378173/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Introduction to JavaScript Object Notation",
+    "Book_Link": "https://www.ebooks.com/en-in/book/2145650/introduction-to-javascript-object-notation/lindsay-bassett/",
+    "Price": "US$25.99",
+    "Image": "https://image.ebooks.com/previews/002/002145/002145650/002145650-sml-1.jpg",
+    "Subtitle": "A To-the-Point Guide to JSON",
+    "Publication_Year": "2015",
+    "Author": "Lindsay Bassett",
+    "Author_Data": "https://www.ebooks.com/en-in/author/lindsay-bassett/989582/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Sony Alpha DSLR A100: A Better Manual",
+    "Book_Link": "https://www.ebooks.com/en-in/book/999333/sony-alpha-dslr-a100-a-better-manual/ken-milburn/",
+    "Price": "US$9.99",
+    "Image": "https://image.ebooks.com/previews/000/000999/000999333/000999333-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2007",
+    "Author": "Ken Milburn",
+    "Author_Data": "https://www.ebooks.com/en-in/author/ken-milburn/8053/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Oracle PL/SQL Language Pocket Reference",
+    "Book_Link": "https://www.ebooks.com/en-in/book/2208259/oracle-pl-sql-language-pocket-reference/steven-feuerstein/",
+    "Price": "US$16.99",
+    "Image": "https://image.ebooks.com/previews/002/002208/002208259/002208259-sml-1.jpg",
+    "Subtitle": "A Guide to Oracle's PL/SQL Language Fundamentals",
+    "Publication_Year": "2015",
+    "Author": "Steven Feuerstein",
+    "Author_Data": "https://www.ebooks.com/en-in/author/steven-feuerstein/182674/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Oracle PL/SQL Language Pocket Reference",
+    "Book_Link": "https://www.ebooks.com/en-in/book/2208259/oracle-pl-sql-language-pocket-reference/steven-feuerstein/",
+    "Price": "US$16.99",
+    "Image": "https://image.ebooks.com/previews/002/002208/002208259/002208259-sml-1.jpg",
+    "Subtitle": "A Guide to Oracle's PL/SQL Language Fundamentals",
+    "Publication_Year": "2015",
+    "Author": "Bill Pribyl",
+    "Author_Data": "https://www.ebooks.com/en-in/author/bill-pribyl/182675/",
+    "Publisher": "O'Reilly Media"
+  }
+]
