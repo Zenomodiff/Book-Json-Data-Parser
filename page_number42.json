@@ -1,0 +1,123 @@
+[
+  {
+    "Book_name": "Introducing Erlang",
+    "Book_Link": "https://www.ebooks.com/en-in/book/95725303/introducing-erlang/simon-st-laurent/",
+    "Price": "US$33.99",
+    "Image": "https://image.ebooks.com/previews/095/095725/095725303/095725303-sml-1.jpg",
+    "Subtitle": "Getting Started in Functional Programming",
+    "Publication_Year": "2017",
+    "Author": "Simon St. Laurent",
+    "Author_Data": "https://www.ebooks.com/en-in/author/simon-st.-laurent/239574/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "The Little Witch",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210125225/the-little-witch/m-rickert/",
+    "Price": "US$0.79",
+    "Image": "https://image.ebooks.com/previews/210/210125/210125225/210125225-sml-1.jpg",
+    "Subtitle": "A Tor.com Original",
+    "Publication_Year": "2020",
+    "Author": "M. Rickert",
+    "Author_Data": "https://www.ebooks.com/en-in/author/m.-rickert/94365405/",
+    "Publisher": "Tom Doherty Associates"
+  },
+  {
+    "Book_name": "The Survival of Molly Southbourne",
+    "Book_Link": "https://www.ebooks.com/en-in/book/209569881/the-survival-of-molly-southbourne/tade-thompson/",
+    "Price": "US$3.19",
+    "Image": "https://image.ebooks.com/previews/209/209569/209569881/209569881-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2019",
+    "Author": "Tade Thompson",
+    "Author_Data": "https://www.ebooks.com/en-in/author/tade-thompson/995012/",
+    "Publisher": "Tom Doherty Associates"
+  },
+  {
+    "Book_name": "The Atrocities",
+    "Book_Link": "https://www.ebooks.com/en-in/book/95852211/the-atrocities/jeremy-c-shipp/",
+    "Price": "US$1.99",
+    "Image": "https://image.ebooks.com/previews/095/095852/095852211/095852211-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2018",
+    "Author": "Jeremy C. Shipp",
+    "Author_Data": "https://www.ebooks.com/en-in/author/jeremy-c.-shipp/94196813/",
+    "Publisher": "Tom Doherty Associates"
+  },
+  {
+    "Book_name": "Sin du Jour: The Final Course",
+    "Book_Link": "https://www.ebooks.com/en-in/book/96298718/sin-du-jour-the-final-course/matt-wallace/",
+    "Price": "US$2.79",
+    "Image": "https://image.ebooks.com/previews/096/096298/096298718/096298718-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2018",
+    "Author": "Matt Wallace",
+    "Author_Data": "https://www.ebooks.com/en-in/author/matt-wallace/841257/",
+    "Publisher": "Tom Doherty Associates"
+  },
+  {
+    "Book_name": "Lent",
+    "Book_Link": "https://www.ebooks.com/en-in/book/96334527/lent/jo-walton/",
+    "Price": "US$7.19",
+    "Image": "https://image.ebooks.com/previews/096/096334/096334527/096334527-sml-1.jpg",
+    "Subtitle": "A Novel of Many Returns",
+    "Publication_Year": "2019",
+    "Author": "Jo Walton",
+    "Author_Data": "https://www.ebooks.com/en-in/author/jo-walton/9032/",
+    "Publisher": "Tom Doherty Associates"
+  },
+  {
+    "Book_name": "Mastering the Lightning Network",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210419327/mastering-the-lightning-network/andreas-m-antonopoulos/",
+    "Price": "US$59.99",
+    "Image": "https://image.ebooks.com/previews/210/210419/210419327/210419327-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2021",
+    "Author": "Andreas M. Antonopoulos",
+    "Author_Data": "https://www.ebooks.com/en-in/author/andreas-m.-antonopoulos/857411/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Mastering the Lightning Network",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210419327/mastering-the-lightning-network/andreas-m-antonopoulos/",
+    "Price": "US$59.99",
+    "Image": "https://image.ebooks.com/previews/210/210419/210419327/210419327-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2021",
+    "Author": "Olaoluwa Osuntokun",
+    "Author_Data": "https://www.ebooks.com/en-in/author/olaoluwa-osuntokun/208625547/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Windows 10 May 2019 Update: The Missing Manual",
+    "Book_Link": "https://www.ebooks.com/en-in/book/209679425/windows-10-may-2019-update-the-missing-manual/david-pogue/",
+    "Price": "US$33.99",
+    "Image": "https://image.ebooks.com/previews/209/209679/209679425/209679425-sml-1.jpg",
+    "Subtitle": "The Book That Should Have Been in the Box",
+    "Publication_Year": "2019",
+    "Author": "David Pogue",
+    "Author_Data": "https://www.ebooks.com/en-in/author/david-pogue/9907/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Think Stats",
+    "Book_Link": "https://www.ebooks.com/en-in/book/1816961/think-stats/allen-b-downey/",
+    "Price": "US$23.99",
+    "Image": "https://image.ebooks.com/previews/001/001816/001816961/001816961-sml-1.jpg",
+    "Subtitle": "Exploratory Data Analysis",
+    "Publication_Year": "2014",
+    "Author": "Allen B. Downey",
+    "Author_Data": "https://www.ebooks.com/en-in/author/allen-b.-downey/171577/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Mastering Python for Bioinformatics",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210285089/mastering-python-for-bioinformatics/ken-youens-clark/",
+    "Price": "US$76.99",
+    "Image": "https://image.ebooks.com/previews/210/210285/210285089/210285089-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2021",
+    "Author": "Ken Youens-Clark",
+    "Author_Data": "https://www.ebooks.com/en-in/author/ken-youens-clark/208561511/",
+    "Publisher": "O'Reilly Media"
+  }
+]
