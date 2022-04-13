@@ -1,0 +1,145 @@
+[
+  {
+    "Book_name": "The Album of Dr. Moreau",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210110600/the-album-of-dr-moreau/daryl-gregory/",
+    "Price": "US$2.79",
+    "Image": "https://image.ebooks.com/previews/210/210110/210110600/210110600-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2021",
+    "Author": "Daryl Gregory",
+    "Author_Data": "https://www.ebooks.com/en-in/author/daryl-gregory/132550/",
+    "Publisher": "Tom Doherty Associates"
+  },
+  {
+    "Book_name": "Never Say You Can't Survive",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210125211/never-say-you-can-t-survive/charlie-jane-anders/",
+    "Price": "US$10.79",
+    "Image": "https://image.ebooks.com/previews/210/210125/210125211/210125211-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2021",
+    "Author": "Charlie Jane Anders",
+    "Author_Data": "https://www.ebooks.com/en-in/author/charlie-jane-anders/314159/",
+    "Publisher": "Tom Doherty Associates"
+  },
+  {
+    "Book_name": "Drop by Drop",
+    "Book_Link": "https://www.ebooks.com/en-in/book/95922911/drop-by-drop/morgan-llywelyn/",
+    "Price": "US$7.19",
+    "Image": "https://image.ebooks.com/previews/095/095922/095922911/095922911-sml-1.jpg",
+    "Subtitle": "Step by Step, Book One",
+    "Publication_Year": "2018",
+    "Author": "Morgan Llywelyn",
+    "Author_Data": "https://www.ebooks.com/en-in/author/morgan-llywelyn/8683/",
+    "Publisher": "Tom Doherty Associates"
+  },
+  {
+    "Book_name": "Judge Dee and the Limits of the Law",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210133350/judge-dee-and-the-limits-of-the-law/lavie-tidhar/",
+    "Price": "US$0.79",
+    "Image": "https://image.ebooks.com/previews/210/210133/210133350/210133350-sml-1.jpg",
+    "Subtitle": "A Tor.com Original",
+    "Publication_Year": "2020",
+    "Author": "Lavie Tidhar",
+    "Author_Data": "https://www.ebooks.com/en-in/author/lavie-tidhar/255826/",
+    "Publisher": "Tom Doherty Associates"
+  },
+  {
+    "Book_name": "Articulating Design Decisions",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210101869/articulating-design-decisions/tom-greever/",
+    "Price": "US$38.99",
+    "Image": "https://image.ebooks.com/previews/210/210101/210101869/210101869-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2020",
+    "Author": "Tom Greever",
+    "Author_Data": "https://www.ebooks.com/en-in/author/tom-greever/1001240/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Programming Robots with ROS",
+    "Book_Link": "https://www.ebooks.com/en-in/book/2419990/programming-robots-with-ros/morgan-quigley/",
+    "Price": "US$42.99",
+    "Image": "https://image.ebooks.com/previews/002/002419/002419990/002419990-sml-1.jpg",
+    "Subtitle": "A Practical Introduction to the Robot Operating System",
+    "Publication_Year": "2015",
+    "Author": "Morgan Quigley",
+    "Author_Data": "https://www.ebooks.com/en-in/author/morgan-quigley/1155764/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Programming Robots with ROS",
+    "Book_Link": "https://www.ebooks.com/en-in/book/2419990/programming-robots-with-ros/morgan-quigley/",
+    "Price": "US$42.99",
+    "Image": "https://image.ebooks.com/previews/002/002419/002419990/002419990-sml-1.jpg",
+    "Subtitle": "A Practical Introduction to the Robot Operating System",
+    "Publication_Year": "2015",
+    "Author": "Brian Gerkey",
+    "Author_Data": "https://www.ebooks.com/en-in/author/brian-gerkey/1155765/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Trino: The Definitive Guide",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210269106/trino-the-definitive-guide/matt-fuller/",
+    "Price": "US$59.99",
+    "Image": "https://image.ebooks.com/previews/210/210269/210269106/210269106-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2021",
+    "Author": "Matt Fuller",
+    "Author_Data": "https://www.ebooks.com/en-in/author/matt-fuller/208392858/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Trino: The Definitive Guide",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210269106/trino-the-definitive-guide/matt-fuller/",
+    "Price": "US$59.99",
+    "Image": "https://image.ebooks.com/previews/210/210269/210269106/210269106-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2021",
+    "Author": "Manfred Moser",
+    "Author_Data": "https://www.ebooks.com/en-in/author/manfred-moser/208392859/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Linux iptables Pocket Reference",
+    "Book_Link": "https://www.ebooks.com/en-in/book/540817/linux-iptables-pocket-reference/gregor-n-purdy/",
+    "Price": "US$7.99",
+    "Image": "https://image.ebooks.com/previews/000/000540/000540817/000540817-sml-1.jpg",
+    "Subtitle": "Firewalls, NAT & Accounting",
+    "Publication_Year": "2004",
+    "Author": "Gregor N. Purdy",
+    "Author_Data": "https://www.ebooks.com/en-in/author/gregor-n.-purdy/239500/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Data Analytics with Hadoop",
+    "Book_Link": "https://www.ebooks.com/en-in/book/2603356/data-analytics-with-hadoop/benjamin-bengfort/",
+    "Price": "US$29.99",
+    "Image": "https://image.ebooks.com/previews/002/002603/002603356/002603356-sml-1.jpg",
+    "Subtitle": "An Introduction for Data Scientists",
+    "Publication_Year": "2016",
+    "Author": "Benjamin Bengfort",
+    "Author_Data": "https://www.ebooks.com/en-in/author/benjamin-bengfort/821861/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Data Analytics with Hadoop",
+    "Book_Link": "https://www.ebooks.com/en-in/book/2603356/data-analytics-with-hadoop/benjamin-bengfort/",
+    "Price": "US$29.99",
+    "Image": "https://image.ebooks.com/previews/002/002603/002603356/002603356-sml-1.jpg",
+    "Subtitle": "An Introduction for Data Scientists",
+    "Publication_Year": "2016",
+    "Author": "Jenny Kim",
+    "Author_Data": "https://www.ebooks.com/en-in/author/jenny-kim/409769/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Full Stack Serverless",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210083963/full-stack-serverless/nader-dabit/",
+    "Price": "US$50.99",
+    "Image": "https://image.ebooks.com/previews/210/210083/210083963/210083963-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2020",
+    "Author": "Nader Dabit",
+    "Author_Data": "https://www.ebooks.com/en-in/author/nader-dabit/208435849/",
+    "Publisher": "O'Reilly Media"
+  }
+]
