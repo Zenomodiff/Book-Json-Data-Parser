@@ -1,0 +1,134 @@
+[
+  {
+    "Book_name": "XSLT 1.0 Pocket Reference",
+    "Book_Link": "https://www.ebooks.com/en-in/book/540856/xslt-1-0-pocket-reference/evan-lenz/",
+    "Price": "US$7.99",
+    "Image": "https://image.ebooks.com/previews/000/000540/000540856/000540856-sml-1.jpg",
+    "Subtitle": "A Quick Guide to XML Transformations",
+    "Publication_Year": "2005",
+    "Author": "Evan Lenz",
+    "Author_Data": "https://www.ebooks.com/en-in/author/evan-lenz/241923/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "VB.NET Language Pocket Reference",
+    "Book_Link": "https://www.ebooks.com/en-in/book/443089/vb-net-language-pocket-reference/phd-steven-roman/",
+    "Price": "US$7.99",
+    "Image": "https://image.ebooks.com/previews/000/000443/000443089/000443089-sml-1.jpg",
+    "Subtitle": "Syntax and Descriptions of the Visual Basic .NET Language",
+    "Publication_Year": "2002",
+    "Author": "PhD Steven Roman",
+    "Author_Data": "https://www.ebooks.com/en-in/author/phd-steven-roman/539267/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "VB.NET Language Pocket Reference",
+    "Book_Link": "https://www.ebooks.com/en-in/book/443089/vb-net-language-pocket-reference/phd-steven-roman/",
+    "Price": "US$7.99",
+    "Image": "https://image.ebooks.com/previews/000/000443/000443089/000443089-sml-1.jpg",
+    "Subtitle": "Syntax and Descriptions of the Visual Basic .NET Language",
+    "Publication_Year": "2002",
+    "Author": "Ron Petrusha",
+    "Author_Data": "https://www.ebooks.com/en-in/author/ron-petrusha/182707/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "C# Database Basics",
+    "Book_Link": "https://www.ebooks.com/en-in/book/850705/c-database-basics/michael-schmalz/",
+    "Price": "US$16.99",
+    "Image": "https://image.ebooks.com/previews/000/000850/000850705/000850705-sml-1.jpg",
+    "Subtitle": "Moving from Visual Basic and VBA to C#",
+    "Publication_Year": "2012",
+    "Author": "Michael Schmalz",
+    "Author_Data": "https://www.ebooks.com/en-in/author/michael-schmalz/183018/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Unix in a Nutshell",
+    "Book_Link": "https://www.ebooks.com/en-in/book/540864/unix-in-a-nutshell/arnold-robbins/",
+    "Price": "US$27.99",
+    "Image": "https://image.ebooks.com/previews/000/000540/000540864/000540864-sml-1.jpg",
+    "Subtitle": "A Desktop Quick Reference - Covers GNU/Linux, Mac OS X,and Solaris",
+    "Publication_Year": "2005",
+    "Author": "Arnold Robbins",
+    "Author_Data": "https://www.ebooks.com/en-in/author/arnold-robbins/182779/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Being Geek",
+    "Book_Link": "https://www.ebooks.com/en-in/book/562857/being-geek/michael-lopp/",
+    "Price": "US$19.99",
+    "Image": "https://image.ebooks.com/previews/000/000562/000562857/000562857-sml-1.jpg",
+    "Subtitle": "The Software Developer's Career Handbook",
+    "Publication_Year": "2010",
+    "Author": "Michael Lopp",
+    "Author_Data": "https://www.ebooks.com/en-in/author/michael-lopp/125234/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "React Native Cookbook",
+    "Book_Link": "https://www.ebooks.com/en-in/book/95956601/react-native-cookbook/jonathan-lebensold/",
+    "Price": "US$33.99",
+    "Image": "https://image.ebooks.com/previews/095/095956/095956601/095956601-sml-1.jpg",
+    "Subtitle": "Bringing the Web to Native Platforms",
+    "Publication_Year": "2018",
+    "Author": "Jonathan Lebensold",
+    "Author_Data": "https://www.ebooks.com/en-in/author/jonathan-lebensold/94231713/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Practical C Programming",
+    "Book_Link": "https://www.ebooks.com/en-in/book/741263/practical-c-programming/steve-oualline/",
+    "Price": "US$27.99",
+    "Image": "https://image.ebooks.com/previews/000/000741/000741263/000741263-sml-1.jpg",
+    "Subtitle": "Why Does 2+2 = 5986?",
+    "Publication_Year": "1997",
+    "Author": "Steve Oualline",
+    "Author_Data": "https://www.ebooks.com/en-in/author/steve-oualline/79852/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Functional JavaScript",
+    "Book_Link": "https://www.ebooks.com/en-in/book/1224733/functional-javascript/michael-fogus/",
+    "Price": "US$19.99",
+    "Image": "https://image.ebooks.com/previews/001/001224/001224733/001224733-sml-1.jpg",
+    "Subtitle": "Introducing Functional Programming with Underscore.js",
+    "Publication_Year": "2013",
+    "Author": "Michael Fogus",
+    "Author_Data": "https://www.ebooks.com/en-in/author/michael-fogus/603552/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Deploying to OpenShift",
+    "Book_Link": "https://www.ebooks.com/en-in/book/96179846/deploying-to-openshift/graham-dumpleton/",
+    "Price": "US$33.99",
+    "Image": "https://image.ebooks.com/previews/096/096179/096179846/096179846-sml-1.jpg",
+    "Subtitle": "A Guide for Busy Developers",
+    "Publication_Year": "2018",
+    "Author": "Graham Dumpleton",
+    "Author_Data": "https://www.ebooks.com/en-in/author/graham-dumpleton/1264319/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Scaling Teams",
+    "Book_Link": "https://www.ebooks.com/en-in/book/95669094/scaling-teams/alexander-grosse/",
+    "Price": "US$33.99",
+    "Image": "https://image.ebooks.com/previews/095/095669/095669094/095669094-sml-1.jpg",
+    "Subtitle": "Strategies for Building Successful Teams and Organizations",
+    "Publication_Year": "2017",
+    "Author": "Alexander Grosse",
+    "Author_Data": "https://www.ebooks.com/en-in/author/alexander-grosse/1306484/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Scaling Teams",
+    "Book_Link": "https://www.ebooks.com/en-in/book/95669094/scaling-teams/alexander-grosse/",
+    "Price": "US$33.99",
+    "Image": "https://image.ebooks.com/previews/095/095669/095669094/095669094-sml-1.jpg",
+    "Subtitle": "Strategies for Building Successful Teams and Organizations",
+    "Publication_Year": "2017",
+    "Author": "David Loftesness",
+    "Author_Data": "https://www.ebooks.com/en-in/author/david-loftesness/1306485/",
+    "Publisher": "O'Reilly Media"
+  }
+]
