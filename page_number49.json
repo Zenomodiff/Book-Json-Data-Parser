@@ -1,0 +1,123 @@
+[
+  {
+    "Book_name": "DevOps with OpenShift",
+    "Book_Link": "https://www.ebooks.com/en-in/book/95802664/devops-with-openshift/stefano-picozzi/",
+    "Price": "US$33.99",
+    "Image": "https://image.ebooks.com/previews/095/095802/095802664/095802664-sml-1.jpg",
+    "Subtitle": "Cloud Deployments Made Easy",
+    "Publication_Year": "2017",
+    "Author": "Stefano Picozzi",
+    "Author_Data": "https://www.ebooks.com/en-in/author/stefano-picozzi/1351812/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "DevOps with OpenShift",
+    "Book_Link": "https://www.ebooks.com/en-in/book/95802664/devops-with-openshift/stefano-picozzi/",
+    "Price": "US$33.99",
+    "Image": "https://image.ebooks.com/previews/095/095802/095802664/095802664-sml-1.jpg",
+    "Subtitle": "Cloud Deployments Made Easy",
+    "Publication_Year": "2017",
+    "Author": "Mike Hepburn",
+    "Author_Data": "https://www.ebooks.com/en-in/author/mike-hepburn/1351813/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Sight Unseen",
+    "Book_Link": "https://www.ebooks.com/en-in/book/1985252/sight-unseen/james-swallow/",
+    "Price": "US$7.99",
+    "Image": "https://image.ebooks.com/previews/001/001985/001985252/001985252-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2015",
+    "Author": "James Swallow",
+    "Author_Data": "https://www.ebooks.com/en-in/author/james-swallow/123546/",
+    "Publisher": "Pocket Books/Star Trek"
+  },
+  {
+    "Book_name": "The Ink Readers of Doi Saket",
+    "Book_Link": "https://www.ebooks.com/en-in/book/1169051/the-ink-readers-of-doi-saket/thomas-olde-heuvelt/",
+    "Price": "US$0.99",
+    "Image": "https://image.ebooks.com/previews/001/001169/001169051/001169051-sml-1.jpg",
+    "Subtitle": "A Tor.Com Original",
+    "Publication_Year": "2013",
+    "Author": "Thomas Olde Heuvelt",
+    "Author_Data": "https://www.ebooks.com/en-in/author/thomas-olde-heuvelt/1227137/",
+    "Publisher": "Tom Doherty Associates"
+  },
+  {
+    "Book_name": "meat+drink",
+    "Book_Link": "https://www.ebooks.com/en-in/book/95514435/meat-drink/daniel-polansky/",
+    "Price": "US$0.79",
+    "Image": "https://image.ebooks.com/previews/095/095514/095514435/095514435-sml-1.jpg",
+    "Subtitle": "A Tor.com Original",
+    "Publication_Year": "2016",
+    "Author": "Daniel Polansky",
+    "Author_Data": "https://www.ebooks.com/en-in/author/daniel-polansky/271353/",
+    "Publisher": "Tom Doherty Associates"
+  },
+  {
+    "Book_name": "The Girlfriend's Guide to Gods",
+    "Book_Link": "https://www.ebooks.com/en-in/book/209929721/the-girlfriend-s-guide-to-gods/maria-dahvana-headley/",
+    "Price": "US$0.79",
+    "Image": "https://image.ebooks.com/previews/209/209929/209929721/209929721-sml-1.jpg",
+    "Subtitle": "A Tor.com Original",
+    "Publication_Year": "2020",
+    "Author": "Maria Dahvana Headley",
+    "Author_Data": "https://www.ebooks.com/en-in/author/maria-dahvana-headley/318840/",
+    "Publisher": "Tom Doherty Associates"
+  },
+  {
+    "Book_name": "In the Land of the Lawn Weenies",
+    "Book_Link": "https://www.ebooks.com/en-in/book/801260/in-the-land-of-the-lawn-weenies/david-lubar/",
+    "Price": "US$5.99",
+    "Image": "https://image.ebooks.com/previews/000/000801/000801260/000801260-sml-1.jpg",
+    "Subtitle": "and Other Warped and Creepy Tales",
+    "Publication_Year": "2003",
+    "Author": "David Lubar",
+    "Author_Data": "https://www.ebooks.com/en-in/author/david-lubar/244250/",
+    "Publisher": "Tom Doherty Associates"
+  },
+  {
+    "Book_name": "Wave",
+    "Book_Link": "https://www.ebooks.com/en-in/book/630611/wave/wil-mara/",
+    "Price": "US$5.99",
+    "Image": "https://image.ebooks.com/previews/000/000630/000630611/000630611-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2010",
+    "Author": "Wil Mara",
+    "Author_Data": "https://www.ebooks.com/en-in/author/wil-mara/240292/",
+    "Publisher": "Tom Doherty Associates"
+  },
+  {
+    "Book_name": "Twilight Zone",
+    "Book_Link": "https://www.ebooks.com/en-in/book/633357/twilight-zone/carol-serling/",
+    "Price": "US$5.99",
+    "Image": "https://image.ebooks.com/previews/000/000633/000633357/000633357-sml-1.jpg",
+    "Subtitle": "19 Original Stories on the 50th Anniversary",
+    "Publication_Year": "2009",
+    "Author": "Carol Serling",
+    "Author_Data": "https://www.ebooks.com/en-in/author/carol-serling/304921/",
+    "Publisher": "Tom Doherty Associates"
+  },
+  {
+    "Book_name": "Nightshades",
+    "Book_Link": "https://www.ebooks.com/en-in/book/2512380/nightshades/melissa-f-olson/",
+    "Price": "US$1.99",
+    "Image": "https://image.ebooks.com/previews/002/002512/002512380/002512380-sml-1.jpg",
+    "Subtitle": "A Paranormal Thriller",
+    "Publication_Year": "2016",
+    "Author": "Melissa F. Olson",
+    "Author_Data": "https://www.ebooks.com/en-in/author/melissa-f.-olson/1219509/",
+    "Publisher": "Tom Doherty Associates"
+  },
+  {
+    "Book_name": "Everlasting Nora",
+    "Book_Link": "https://www.ebooks.com/en-in/book/95938592/everlasting-nora/marie-miranda-cruz/",
+    "Price": "US$3.99",
+    "Image": "https://image.ebooks.com/previews/095/095938/095938592/095938592-sml-1.jpg",
+    "Subtitle": "A Novel",
+    "Publication_Year": "2018",
+    "Author": "Marie Miranda Cruz",
+    "Author_Data": "https://www.ebooks.com/en-in/author/marie-miranda-cruz/94224304/",
+    "Publisher": "Tom Doherty Associates"
+  }
+]
