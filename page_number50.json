@@ -1,0 +1,145 @@
+[
+  {
+    "Book_name": "Why",
+    "Book_Link": "https://www.ebooks.com/en-in/book/2419229/why/samantha-kleinberg/",
+    "Price": "US$25.99",
+    "Image": "https://image.ebooks.com/previews/002/002419/002419229/002419229-sml-1.jpg",
+    "Subtitle": "A Guide to Finding and Using Causes",
+    "Publication_Year": "2015",
+    "Author": "Samantha Kleinberg",
+    "Author_Data": "https://www.ebooks.com/en-in/author/samantha-kleinberg/542530/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Becoming a Better Programmer",
+    "Book_Link": "https://www.ebooks.com/en-in/book/1810526/becoming-a-better-programmer/pete-goodliffe/",
+    "Price": "US$33.99",
+    "Image": "https://image.ebooks.com/previews/001/001810/001810526/001810526-sml-1.jpg",
+    "Subtitle": "A Handbook for People Who Care About Code",
+    "Publication_Year": "2014",
+    "Author": "Pete Goodliffe",
+    "Author_Data": "https://www.ebooks.com/en-in/author/pete-goodliffe/79845/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Gatsby: The Definitive Guide",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210373686/gatsby-the-definitive-guide/preston-so/",
+    "Price": "US$59.99",
+    "Image": "https://image.ebooks.com/previews/210/210373/210373686/210373686-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2021",
+    "Author": "Preston So",
+    "Author_Data": "https://www.ebooks.com/en-in/author/preston-so/208183187/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "OpenShift for Developers",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210364160/openshift-for-developers/joshua-wood/",
+    "Price": "US$42.99",
+    "Image": "https://image.ebooks.com/previews/210/210364/210364160/210364160-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2021",
+    "Author": "Joshua Wood",
+    "Author_Data": "https://www.ebooks.com/en-in/author/joshua-wood/208366803/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "OpenShift for Developers",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210364160/openshift-for-developers/joshua-wood/",
+    "Price": "US$42.99",
+    "Image": "https://image.ebooks.com/previews/210/210364/210364160/210364160-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2021",
+    "Author": "Brian Tannous",
+    "Author_Data": "https://www.ebooks.com/en-in/author/brian-tannous/208603447/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "AppleScript: The Definitive Guide",
+    "Book_Link": "https://www.ebooks.com/en-in/book/540717/applescript-the-definitive-guide/matt-neuburg/",
+    "Price": "US$31.99",
+    "Image": "https://image.ebooks.com/previews/000/000540/000540717/000540717-sml-1.jpg",
+    "Subtitle": "Scripting and Automating Your Mac",
+    "Publication_Year": "2006",
+    "Author": "Matt Neuburg",
+    "Author_Data": "https://www.ebooks.com/en-in/author/matt-neuburg/239501/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Big Data Glossary",
+    "Book_Link": "https://www.ebooks.com/en-in/book/781806/big-data-glossary/pete-warden/",
+    "Price": "US$14.99",
+    "Image": "https://image.ebooks.com/previews/000/000781/000781806/000781806-sml-1.jpg",
+    "Subtitle": "A Guide to the New Generation of Data Tools",
+    "Publication_Year": "2011",
+    "Author": "Pete Warden",
+    "Author_Data": "https://www.ebooks.com/en-in/author/pete-warden/318594/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Ruby Cookbook",
+    "Book_Link": "https://www.ebooks.com/en-in/book/1999147/ruby-cookbook/lucas-carlson/",
+    "Price": "US$42.99",
+    "Image": "https://image.ebooks.com/previews/001/001999/001999147/001999147-sml-1.jpg",
+    "Subtitle": "Recipes for Object-Oriented Scripting",
+    "Publication_Year": "2015",
+    "Author": "Lucas Carlson",
+    "Author_Data": "https://www.ebooks.com/en-in/author/lucas-carlson/182873/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Ruby Cookbook",
+    "Book_Link": "https://www.ebooks.com/en-in/book/1999147/ruby-cookbook/lucas-carlson/",
+    "Price": "US$42.99",
+    "Image": "https://image.ebooks.com/previews/001/001999/001999147/001999147-sml-1.jpg",
+    "Subtitle": "Recipes for Object-Oriented Scripting",
+    "Publication_Year": "2015",
+    "Author": "Leonard Richardson",
+    "Author_Data": "https://www.ebooks.com/en-in/author/leonard-richardson/182874/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Smaller C",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210303367/smaller-c/marc-loy/",
+    "Price": "US$50.99",
+    "Image": "https://image.ebooks.com/previews/210/210303/210303367/210303367-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2021",
+    "Author": "Marc Loy",
+    "Author_Data": "https://www.ebooks.com/en-in/author/marc-loy/182713/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Programming the Internet of Things",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210311087/programming-the-internet-of-things/andy-king/",
+    "Price": "US$59.99",
+    "Image": "https://image.ebooks.com/previews/210/210311/210311087/210311087-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2021",
+    "Author": "Andy King",
+    "Author_Data": "https://www.ebooks.com/en-in/author/andy-king/471283/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "React Cookbook",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210354076/react-cookbook/david-griffiths/",
+    "Price": "US$50.99",
+    "Image": "https://image.ebooks.com/previews/210/210354/210354076/210354076-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2021",
+    "Author": "David Griffiths",
+    "Author_Data": "https://www.ebooks.com/en-in/author/david-griffiths/891/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "React Cookbook",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210354076/react-cookbook/david-griffiths/",
+    "Price": "US$50.99",
+    "Image": "https://image.ebooks.com/previews/210/210354/210354076/210354076-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2021",
+    "Author": "Dawn Griffiths",
+    "Author_Data": "https://www.ebooks.com/en-in/author/dawn-griffiths/241932/",
+    "Publisher": "O'Reilly Media"
+  }
+]
