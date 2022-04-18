@@ -1,0 +1,123 @@
+[
+  {
+    "Book_name": "A Study Guide to the ISTQB\u00ae Foundation Level 2018 Syllabus",
+    "Book_Link": "https://www.ebooks.com/en-in/book/209527314/a-study-guide-to-the-istqb-foundation-level-2018-syllabus/adam-roman/",
+    "Price": "US$46.58",
+    "Image": "https://image.ebooks.com/previews/209/209527/209527314/209527314-sml-1.jpg",
+    "Subtitle": "Test Techniques and Sample Mock Exams",
+    "Publication_Year": "2018",
+    "Author": "Adam Roman",
+    "Author_Data": "https://www.ebooks.com/en-in/author/adam-roman/94248692/",
+    "Publisher": "Springer International Publishing"
+  },
+  {
+    "Book_name": "C# 10 and .NET 6 \u2013 Modern Cross-Platform Development",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210408704/c-10-and-net-6-modern-cross-platform-development/mark-j-price/",
+    "Price": "US$39.99",
+    "Image": "https://image.ebooks.com/previews/210/210408/210408704/210408704-sml-1.jpg",
+    "Subtitle": "Build apps, websites, and services with ASP.NET Core 6, Blazor, and EF Core 6 using Visual Studio 2022 and Visual Studio Code",
+    "Publication_Year": "2021",
+    "Author": "Mark J. Price",
+    "Author_Data": "https://www.ebooks.com/en-in/author/mark-j.-price/1234772/",
+    "Publisher": "Packt Publishing"
+  },
+  {
+    "Book_name": "LaTeX Cookbook",
+    "Book_Link": "https://www.ebooks.com/en-in/book/2412943/latex-cookbook/stefan-kottwitz/",
+    "Price": "US$35.99",
+    "Image": "https://image.ebooks.com/previews/002/002412/002412943/002412943-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2015",
+    "Author": "Stefan Kottwitz",
+    "Author_Data": "https://www.ebooks.com/en-in/author/stefan-kottwitz/464125/",
+    "Publisher": "Packt Publishing"
+  },
+  {
+    "Book_name": "WordPress 5 Complete",
+    "Book_Link": "https://www.ebooks.com/en-in/book/209748100/wordpress-5-complete/karol-krol/",
+    "Price": "US$27.99",
+    "Image": "https://image.ebooks.com/previews/209/209748/209748100/209748100-sml-1.jpg",
+    "Subtitle": "Build beautiful and feature-rich websites from scratch, 7th Edition",
+    "Publication_Year": "2019",
+    "Author": "Karol Krol",
+    "Author_Data": "https://www.ebooks.com/en-in/author/karol-krol/94179381/",
+    "Publisher": "Packt Publishing"
+  },
+  {
+    "Book_name": "CISA \u2013 Certified Information Systems Auditor Study Guide",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210106198/cisa-certified-information-systems-auditor-study-guide/hemang-doshi/",
+    "Price": "US$34.99",
+    "Image": "https://image.ebooks.com/previews/210/210106/210106198/210106198-sml-1.jpg",
+    "Subtitle": "Aligned with the CISA Review Manual 2019 to help you audit, monitor, and assess information systems",
+    "Publication_Year": "2020",
+    "Author": "Hemang Doshi",
+    "Author_Data": "https://www.ebooks.com/en-in/author/hemang-doshi/208446511/",
+    "Publisher": "Packt Publishing"
+  },
+  {
+    "Book_name": "The Roaring 20's and the Wall Street Crash",
+    "Book_Link": "https://www.ebooks.com/en-in/book/836844/the-roaring-20-s-and-the-wall-street-crash/nick-shepley/",
+    "Price": "US$4.49",
+    "Image": "https://image.ebooks.com/previews/000/000836/000836844/000836844-sml-1.jpg",
+    "Subtitle": "Good Times, Deep Pockets and Poverty",
+    "Publication_Year": "2011",
+    "Author": "Nick Shepley",
+    "Author_Data": "https://www.ebooks.com/en-in/author/nick-shepley/360809/",
+    "Publisher": "Andrews UK"
+  },
+  {
+    "Book_name": "Stalin, the five year plans and the Gulags",
+    "Book_Link": "https://www.ebooks.com/en-in/book/1334522/stalin-the-five-year-plans-and-the-gulags/nick-shepley/",
+    "Price": "US$4.49",
+    "Image": "https://image.ebooks.com/previews/001/001334/001334522/001334522-sml-1.jpg",
+    "Subtitle": "Slavery and Terror 1929-53",
+    "Publication_Year": "2013",
+    "Author": "Nick Shepley",
+    "Author_Data": "https://www.ebooks.com/en-in/author/nick-shepley/360809/",
+    "Publisher": "Andrews UK"
+  },
+  {
+    "Book_name": "Interactive Dashboards and Data Apps with Plotly and Dash",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210283876/interactive-dashboards-and-data-apps-with-plotly-and-dash/elias-dabbas/",
+    "Price": "US$34.99",
+    "Image": "https://image.ebooks.com/previews/210/210283/210283876/210283876-sml-1.jpg",
+    "Subtitle": "Harness the power of a fully fledged frontend web framework in Python \u2013 no JavaScript required",
+    "Publication_Year": "2021",
+    "Author": "Elias Dabbas",
+    "Author_Data": "https://www.ebooks.com/en-in/author/elias-dabbas/208558866/",
+    "Publisher": "Packt Publishing"
+  },
+  {
+    "Book_name": "Continuous Delivery with Docker and Jenkins",
+    "Book_Link": "https://www.ebooks.com/en-in/book/209696567/continuous-delivery-with-docker-and-jenkins/rafal-leszko/",
+    "Price": "US$31.99",
+    "Image": "https://image.ebooks.com/previews/209/209696/209696567/209696567-sml-1.jpg",
+    "Subtitle": "Create secure applications by building complete CI/CD pipelines",
+    "Publication_Year": "2019",
+    "Author": "Rafal Leszko",
+    "Author_Data": "https://www.ebooks.com/en-in/author/rafal-leszko/94177679/",
+    "Publisher": "Packt Publishing"
+  },
+  {
+    "Book_name": "The Infinite Retina",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210025780/the-infinite-retina/irena-cronin/",
+    "Price": "US$20.99",
+    "Image": "https://image.ebooks.com/previews/210/210025/210025780/210025780-sml-1.jpg",
+    "Subtitle": "Spatial Computing, Augmented Reality, and how a collision of new technologies are bringing about the next tech revolution",
+    "Publication_Year": "2020",
+    "Author": "Irena Cronin",
+    "Author_Data": "https://www.ebooks.com/en-in/author/irena-cronin/208405432/",
+    "Publisher": "Packt Publishing"
+  },
+  {
+    "Book_name": "The Infinite Retina",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210025780/the-infinite-retina/irena-cronin/",
+    "Price": "US$20.99",
+    "Image": "https://image.ebooks.com/previews/210/210025/210025780/210025780-sml-1.jpg",
+    "Subtitle": "Spatial Computing, Augmented Reality, and how a collision of new technologies are bringing about the next tech revolution",
+    "Publication_Year": "2020",
+    "Author": "Robert Scoble",
+    "Author_Data": "https://www.ebooks.com/en-in/author/robert-scoble/62247/",
+    "Publisher": "Packt Publishing"
+  }
+]
