@@ -1,0 +1,145 @@
+[
+  {
+    "Book_name": "Pro ASP.NET Core 3",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210039144/pro-asp-net-core-3/adam-freeman/",
+    "Price": "US$55.87",
+    "Image": "https://image.ebooks.com/previews/210/210039/210039144/210039144-sml-1.jpg",
+    "Subtitle": "Develop Cloud-Ready Web Applications Using MVC, Blazor, and Razor Pages",
+    "Publication_Year": "2020",
+    "Author": "Adam Freeman",
+    "Author_Data": "https://www.ebooks.com/en-in/author/adam-freeman/182825/",
+    "Publisher": "Apress"
+  },
+  {
+    "Book_name": "Beginning Database Design",
+    "Book_Link": "https://www.ebooks.com/en-in/book/1156003/beginning-database-design/clare-churcher/",
+    "Price": "US$35.46",
+    "Image": "https://image.ebooks.com/previews/001/001156/001156003/001156003-sml-1.jpg",
+    "Subtitle": "From Novice to Professional",
+    "Publication_Year": "2012",
+    "Author": "Clare Churcher",
+    "Author_Data": "https://www.ebooks.com/en-in/author/clare-churcher/146063/",
+    "Publisher": "Apress"
+  },
+  {
+    "Book_name": "Learn Algorithmic Trading",
+    "Book_Link": "https://www.ebooks.com/en-in/book/209884137/learn-algorithmic-trading/sebastien-donadio/",
+    "Price": "US$31.99",
+    "Image": "https://image.ebooks.com/previews/209/209884/209884137/209884137-sml-1.jpg",
+    "Subtitle": "Build and deploy algorithmic trading systems and strategies using Python and advanced data analysis",
+    "Publication_Year": "2019",
+    "Author": "Sebastien Donadio",
+    "Author_Data": "https://www.ebooks.com/en-in/author/sebastien-donadio/208340441/",
+    "Publisher": "Packt Publishing"
+  },
+  {
+    "Book_name": "Learn Algorithmic Trading",
+    "Book_Link": "https://www.ebooks.com/en-in/book/209884137/learn-algorithmic-trading/sebastien-donadio/",
+    "Price": "US$31.99",
+    "Image": "https://image.ebooks.com/previews/209/209884/209884137/209884137-sml-1.jpg",
+    "Subtitle": "Build and deploy algorithmic trading systems and strategies using Python and advanced data analysis",
+    "Publication_Year": "2019",
+    "Author": "Sourav Ghosh",
+    "Author_Data": "https://www.ebooks.com/en-in/author/sourav-ghosh/208340442/",
+    "Publisher": "Packt Publishing"
+  },
+  {
+    "Book_name": "Learning Angular",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210117642/learning-angular/aristeidis-bampakos/",
+    "Price": "US$24.99",
+    "Image": "https://image.ebooks.com/previews/210/210117/210117642/210117642-sml-1.jpg",
+    "Subtitle": "A no-nonsense beginner's guide to building web applications with Angular 10 and TypeScript",
+    "Publication_Year": "2020",
+    "Author": "Aristeidis Bampakos",
+    "Author_Data": "https://www.ebooks.com/en-in/author/aristeidis-bampakos/208456642/",
+    "Publisher": "Packt Publishing"
+  },
+  {
+    "Book_name": "Learning Angular",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210117642/learning-angular/aristeidis-bampakos/",
+    "Price": "US$24.99",
+    "Image": "https://image.ebooks.com/previews/210/210117/210117642/210117642-sml-1.jpg",
+    "Subtitle": "A no-nonsense beginner's guide to building web applications with Angular 10 and TypeScript",
+    "Publication_Year": "2020",
+    "Author": "Pablo Deeleman",
+    "Author_Data": "https://www.ebooks.com/en-in/author/pablo-deeleman/1249188/",
+    "Publisher": "Packt Publishing"
+  },
+  {
+    "Book_name": "The Algorithm Design Manual",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210134897/the-algorithm-design-manual/steven-s-skiena/",
+    "Price": "US$55.87",
+    "Image": "https://image.ebooks.com/previews/210/210134/210134897/210134897-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2020",
+    "Author": "Steven S. Skiena",
+    "Author_Data": "https://www.ebooks.com/en-in/author/steven-s.-skiena/53311/",
+    "Publisher": "Springer International Publishing"
+  },
+  {
+    "Book_name": "Mastering Palo Alto Networks",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210103778/mastering-palo-alto-networks/tom-piens/",
+    "Price": "US$31.99",
+    "Image": "https://image.ebooks.com/previews/210/210103/210103778/210103778-sml-1.jpg",
+    "Subtitle": "Deploy and manage industry-leading PAN-OS 10.x solutions to secure your users and infrastructure",
+    "Publication_Year": "2020",
+    "Author": "Tom Piens",
+    "Author_Data": "https://www.ebooks.com/en-in/author/tom-piens/208445124/",
+    "Publisher": "Packt Publishing"
+  },
+  {
+    "Book_name": "Android Programming with Kotlin for Beginners",
+    "Book_Link": "https://www.ebooks.com/en-in/book/209675188/android-programming-with-kotlin-for-beginners/john-horton/",
+    "Price": "US$27.99",
+    "Image": "https://image.ebooks.com/previews/209/209675/209675188/209675188-sml-1.jpg",
+    "Subtitle": "Build Android apps starting from zero programming experience with the new Kotlin programming language",
+    "Publication_Year": "2019",
+    "Author": "John Horton",
+    "Author_Data": "https://www.ebooks.com/en-in/author/john-horton/19679/",
+    "Publisher": "Packt Publishing"
+  },
+  {
+    "Book_name": "Learning Elastic Stack 7.0",
+    "Book_Link": "https://www.ebooks.com/en-in/book/209698262/learning-elastic-stack-7-0/pranav-shukla/",
+    "Price": "US$24.99",
+    "Image": "https://image.ebooks.com/previews/209/209698/209698262/209698262-sml-1.jpg",
+    "Subtitle": "Distributed search, analytics, and visualization using Elasticsearch, Logstash, Beats, and Kibana",
+    "Publication_Year": "2019",
+    "Author": "Pranav Shukla",
+    "Author_Data": "https://www.ebooks.com/en-in/author/pranav-shukla/94226858/",
+    "Publisher": "Packt Publishing"
+  },
+  {
+    "Book_name": "Learning Elastic Stack 7.0",
+    "Book_Link": "https://www.ebooks.com/en-in/book/209698262/learning-elastic-stack-7-0/pranav-shukla/",
+    "Price": "US$24.99",
+    "Image": "https://image.ebooks.com/previews/209/209698/209698262/209698262-sml-1.jpg",
+    "Subtitle": "Distributed search, analytics, and visualization using Elasticsearch, Logstash, Beats, and Kibana",
+    "Publication_Year": "2019",
+    "Author": "Sharath Kumar M N",
+    "Author_Data": "https://www.ebooks.com/en-in/author/sharath-kumar-m-n/208246980/",
+    "Publisher": "Packt Publishing"
+  },
+  {
+    "Book_name": "Networking Fundamentals",
+    "Book_Link": "https://www.ebooks.com/en-in/book/209913176/networking-fundamentals/gordon-davies/",
+    "Price": "US$27.99",
+    "Image": "https://image.ebooks.com/previews/209/209913/209913176/209913176-sml-1.jpg",
+    "Subtitle": "Develop the networking skills required to pass the Microsoft MTA Networking Fundamentals Exam 98-366",
+    "Publication_Year": "2019",
+    "Author": "Gordon Davies",
+    "Author_Data": "https://www.ebooks.com/en-in/author/gordon-davies/1205936/",
+    "Publisher": "Packt Publishing"
+  },
+  {
+    "Book_name": "Python Automation Cookbook",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210034739/python-automation-cookbook/jaime-buelta/",
+    "Price": "US$27.99",
+    "Image": "https://image.ebooks.com/previews/210/210034/210034739/210034739-sml-1.jpg",
+    "Subtitle": "75 Python automation ideas for web scraping, data wrangling, and processing Excel, reports, emails, and more",
+    "Publication_Year": "2020",
+    "Author": "Jaime Buelta",
+    "Author_Data": "https://www.ebooks.com/en-in/author/jaime-buelta/94369615/",
+    "Publisher": "Packt Publishing"
+  }
+]
