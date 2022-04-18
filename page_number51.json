@@ -1,0 +1,145 @@
+[
+  {
+    "Book_name": "Google Cloud Cookbook",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210393922/google-cloud-cookbook/rui-costa/",
+    "Price": "US$50.99",
+    "Image": "https://image.ebooks.com/previews/210/210393/210393922/210393922-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2021",
+    "Author": "Rui Costa",
+    "Author_Data": "https://www.ebooks.com/en-in/author/rui-costa/167099/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Google Cloud Cookbook",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210393922/google-cloud-cookbook/rui-costa/",
+    "Price": "US$50.99",
+    "Image": "https://image.ebooks.com/previews/210/210393/210393922/210393922-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2021",
+    "Author": "Drew Hodun",
+    "Author_Data": "https://www.ebooks.com/en-in/author/drew-hodun/208612834/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Elder Race",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210185081/elder-race/adrian-tchaikovsky/",
+    "Price": "US$1.59",
+    "Image": "https://image.ebooks.com/previews/210/210185/210185081/210185081-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2021",
+    "Author": "Adrian Tchaikovsky",
+    "Author_Data": "https://www.ebooks.com/en-in/author/adrian-tchaikovsky/357200/",
+    "Publisher": "Tom Doherty Associates"
+  },
+  {
+    "Book_name": "Perihelion Summer",
+    "Book_Link": "https://www.ebooks.com/en-in/book/138599208/perihelion-summer/greg-egan/",
+    "Price": "US$3.19",
+    "Image": "https://image.ebooks.com/previews/138/138599/138599208/138599208-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2019",
+    "Author": "Greg Egan",
+    "Author_Data": "https://www.ebooks.com/en-in/author/greg-egan/44632/",
+    "Publisher": "Tom Doherty Associates"
+  },
+  {
+    "Book_name": "Generative Deep Learning",
+    "Book_Link": "https://www.ebooks.com/en-in/book/209734890/generative-deep-learning/david-foster/",
+    "Price": "US$59.99",
+    "Image": "https://image.ebooks.com/previews/209/209734/209734890/209734890-sml-1.jpg",
+    "Subtitle": "Teaching Machines to Paint, Write, Compose, and Play",
+    "Publication_Year": "2019",
+    "Author": "David Foster",
+    "Author_Data": "https://www.ebooks.com/en-in/author/david-foster/7762/",
+    "Publisher": "O'Reilly Media"
+  },
+  {
+    "Book_name": "Managing Humans",
+    "Book_Link": "https://www.ebooks.com/en-in/book/2651281/managing-humans/michael-lopp/",
+    "Price": "US$26.17",
+    "Image": "https://image.ebooks.com/previews/002/002651/002651281/002651281-sml-1.jpg",
+    "Subtitle": "Biting and Humorous Tales of a Software Engineering Manager",
+    "Publication_Year": "2016",
+    "Author": "Michael Lopp",
+    "Author_Data": "https://www.ebooks.com/en-in/author/michael-lopp/125234/",
+    "Publisher": "Apress"
+  },
+  {
+    "Book_name": "Pro Power BI Desktop",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210047792/pro-power-bi-desktop/adam-aspin/",
+    "Price": "US$55.87",
+    "Image": "https://image.ebooks.com/previews/210/210047/210047792/210047792-sml-1.jpg",
+    "Subtitle": "Self-Service Analytics and Data Visualization for the Power User",
+    "Publication_Year": "2020",
+    "Author": "Adam Aspin",
+    "Author_Data": "https://www.ebooks.com/en-in/author/adam-aspin/574542/",
+    "Publisher": "Apress"
+  },
+  {
+    "Book_name": "SQL Server 2017 Integration Services Cookbook",
+    "Book_Link": "https://www.ebooks.com/en-in/book/95796883/sql-server-2017-integration-services-cookbook/christian-cote/",
+    "Price": "US$47.99",
+    "Image": "https://image.ebooks.com/previews/095/095796/095796883/095796883-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2017",
+    "Author": "Christian Cote",
+    "Author_Data": "https://www.ebooks.com/en-in/author/christian-cote/1348812/",
+    "Publisher": "Packt Publishing"
+  },
+  {
+    "Book_name": "SQL Server 2017 Integration Services Cookbook",
+    "Book_Link": "https://www.ebooks.com/en-in/book/95796883/sql-server-2017-integration-services-cookbook/christian-cote/",
+    "Price": "US$47.99",
+    "Image": "https://image.ebooks.com/previews/095/095796/095796883/095796883-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2017",
+    "Author": "Matija Lah",
+    "Author_Data": "https://www.ebooks.com/en-in/author/matija-lah/1348813/",
+    "Publisher": "Packt Publishing"
+  },
+  {
+    "Book_name": "Foundations of GTK+ Development",
+    "Book_Link": "https://www.ebooks.com/en-in/book/371867/foundations-of-gtk-development/andrew-krause/",
+    "Price": "US$42.00",
+    "Image": "https://image.ebooks.com/previews/000/000371/000371867/000371867-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2007",
+    "Author": "Andrew Krause",
+    "Author_Data": "https://www.ebooks.com/en-in/author/andrew-krause/146662/",
+    "Publisher": "Apress"
+  },
+  {
+    "Book_name": "Microsoft Blazor",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210431315/microsoft-blazor/peter-himschoot/",
+    "Price": "US$46.58",
+    "Image": "https://image.ebooks.com/previews/210/210431/210431315/210431315-sml-1.jpg",
+    "Subtitle": "Building Web Applications in .NET 6 and Beyond",
+    "Publication_Year": "2021",
+    "Author": "Peter Himschoot",
+    "Author_Data": "https://www.ebooks.com/en-in/author/peter-himschoot/208218517/",
+    "Publisher": "Apress"
+  },
+  {
+    "Book_name": "An Introduction to Statistical Learning",
+    "Book_Link": "https://www.ebooks.com/en-in/book/1317587/an-introduction-to-statistical-learning/gareth-james/",
+    "Price": "US$60.58",
+    "Image": "https://image.ebooks.com/previews/001/001317/001317587/001317587-sml-1.jpg",
+    "Subtitle": "with Applications in R",
+    "Publication_Year": "2013",
+    "Author": "Gareth James",
+    "Author_Data": "https://www.ebooks.com/en-in/author/gareth-james/677599/",
+    "Publisher": "Springer New York"
+  },
+  {
+    "Book_name": "An Introduction to Statistical Learning",
+    "Book_Link": "https://www.ebooks.com/en-in/book/1317587/an-introduction-to-statistical-learning/gareth-james/",
+    "Price": "US$60.58",
+    "Image": "https://image.ebooks.com/previews/001/001317/001317587/001317587-sml-1.jpg",
+    "Subtitle": "with Applications in R",
+    "Publication_Year": "2013",
+    "Author": "Daniela Witten",
+    "Author_Data": "https://www.ebooks.com/en-in/author/daniela-witten/677600/",
+    "Publisher": "Springer New York"
+  }
+]
