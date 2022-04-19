@@ -1,0 +1,156 @@
+[
+  {
+    "Book_name": "Coders at Work",
+    "Book_Link": "https://www.ebooks.com/en-in/book/511309/coders-at-work/peter-seibel/",
+    "Price": "US$46.58",
+    "Image": "https://image.ebooks.com/previews/000/000511/000511309/000511309-sml-1.jpg",
+    "Subtitle": "Reflections on the Craft of Programming",
+    "Publication_Year": "2009",
+    "Author": "Peter Seibel",
+    "Author_Data": "https://www.ebooks.com/en-in/author/peter-seibel/117925/",
+    "Publisher": "Apress"
+  },
+  {
+    "Book_name": "Docs for Developers",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210383942/docs-for-developers/jared-bhatti/",
+    "Price": "US$32.71",
+    "Image": "https://image.ebooks.com/previews/210/210383/210383942/210383942-sml-1.jpg",
+    "Subtitle": "An Engineer\u2019s Field Guide to Technical Writing",
+    "Publication_Year": "2021",
+    "Author": "Jared Bhatti",
+    "Author_Data": "https://www.ebooks.com/en-in/author/jared-bhatti/208610723/",
+    "Publisher": "Apress"
+  },
+  {
+    "Book_name": "Docs for Developers",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210383942/docs-for-developers/jared-bhatti/",
+    "Price": "US$32.71",
+    "Image": "https://image.ebooks.com/previews/210/210383/210383942/210383942-sml-1.jpg",
+    "Subtitle": "An Engineer\u2019s Field Guide to Technical Writing",
+    "Publication_Year": "2021",
+    "Author": "Zachary Sarah Corleissen",
+    "Author_Data": "https://www.ebooks.com/en-in/author/zachary-sarah-corleissen/208610724/",
+    "Publisher": "Apress"
+  },
+  {
+    "Book_name": "Proofs from THE BOOK",
+    "Book_Link": "https://www.ebooks.com/en-in/book/96299172/proofs-from-the-book/martin-aigner/",
+    "Price": "US$60.58",
+    "Image": "https://image.ebooks.com/previews/096/096299/096299172/096299172-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2018",
+    "Author": "Martin Aigner",
+    "Author_Data": "https://www.ebooks.com/en-in/author/martin-aigner/118026/",
+    "Publisher": "Springer Berlin Heidelberg"
+  },
+  {
+    "Book_name": "Proofs from THE BOOK",
+    "Book_Link": "https://www.ebooks.com/en-in/book/96299172/proofs-from-the-book/martin-aigner/",
+    "Price": "US$60.58",
+    "Image": "https://image.ebooks.com/previews/096/096299/096299172/096299172-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2018",
+    "Author": "Karl H. Hofmann",
+    "Author_Data": "https://www.ebooks.com/en-in/author/karl-h.-hofmann/82826/",
+    "Publisher": "Springer Berlin Heidelberg"
+  },
+  {
+    "Book_name": "Statistik angewandt",
+    "Book_Link": "https://www.ebooks.com/en-in/book/1731230/statistik-angewandt/franz-kronthaler/",
+    "Price": "US$17.40",
+    "Image": "https://image.ebooks.com/previews/001/001731/001731230/001731230-sml-1.jpg",
+    "Subtitle": "Datenanalyse ist (k)eine Kunst",
+    "Publication_Year": "2014",
+    "Author": "Franz Kronthaler",
+    "Author_Data": "https://www.ebooks.com/en-in/author/franz-kronthaler/798324/",
+    "Publisher": "Springer Berlin Heidelberg"
+  },
+  {
+    "Book_name": "Statistik",
+    "Book_Link": "https://www.ebooks.com/en-in/book/2679756/statistik/ludwig-fahrmeir/",
+    "Price": "US$27.74",
+    "Image": "https://image.ebooks.com/previews/002/002679/002679756/002679756-sml-1.jpg",
+    "Subtitle": "Der Weg zur Datenanalyse",
+    "Publication_Year": "2016",
+    "Author": "Ludwig Fahrmeir",
+    "Author_Data": "https://www.ebooks.com/en-in/author/ludwig-fahrmeir/120570/",
+    "Publisher": "Springer Berlin Heidelberg"
+  },
+  {
+    "Book_name": "Statistik",
+    "Book_Link": "https://www.ebooks.com/en-in/book/2679756/statistik/ludwig-fahrmeir/",
+    "Price": "US$27.74",
+    "Image": "https://image.ebooks.com/previews/002/002679/002679756/002679756-sml-1.jpg",
+    "Subtitle": "Der Weg zur Datenanalyse",
+    "Publication_Year": "2016",
+    "Author": "Christian Heumann",
+    "Author_Data": "https://www.ebooks.com/en-in/author/christian-heumann/472839/",
+    "Publisher": "Springer Berlin Heidelberg"
+  },
+  {
+    "Book_name": "Introduction to Logic Circuits & Logic Design with Verilog",
+    "Book_Link": "https://www.ebooks.com/en-in/book/209661491/introduction-to-logic-circuits-logic-design-with-verilog/brock-j-lameres/",
+    "Price": "US$46.58",
+    "Image": "https://image.ebooks.com/previews/209/209661/209661491/209661491-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2019",
+    "Author": "Brock J. LaMeres",
+    "Author_Data": "https://www.ebooks.com/en-in/author/brock-j.-lameres/906830/",
+    "Publisher": "Springer International Publishing"
+  },
+  {
+    "Book_name": "Counselling in Cultural Contexts",
+    "Book_Link": "https://www.ebooks.com/en-in/book/209633115/counselling-in-cultural-contexts/nancy-arthur/",
+    "Price": "US$130.46",
+    "Image": "https://image.ebooks.com/previews/209/209633/209633115/209633115-sml-1.jpg",
+    "Subtitle": "Identities and Social Justice",
+    "Publication_Year": "2019",
+    "Author": "Nancy Arthur",
+    "Author_Data": "https://www.ebooks.com/en-in/author/nancy-arthur/1205803/",
+    "Publisher": "Springer International Publishing"
+  },
+  {
+    "Book_name": "FreeCAD [How-to]",
+    "Book_Link": "https://www.ebooks.com/en-in/book/1037661/freecad-how-to/daniel-falck/",
+    "Price": "US$9.99",
+    "Image": "https://image.ebooks.com/previews/001/001037/001037661/001037661-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2012",
+    "Author": "Daniel Falck",
+    "Author_Data": "https://www.ebooks.com/en-in/author/daniel-falck/509750/",
+    "Publisher": "Packt Publishing"
+  },
+  {
+    "Book_name": "FreeCAD [How-to]",
+    "Book_Link": "https://www.ebooks.com/en-in/book/1037661/freecad-how-to/daniel-falck/",
+    "Price": "US$9.99",
+    "Image": "https://image.ebooks.com/previews/001/001037/001037661/001037661-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2012",
+    "Author": "Brad Collette",
+    "Author_Data": "https://www.ebooks.com/en-in/author/brad-collette/509751/",
+    "Publisher": "Packt Publishing"
+  },
+  {
+    "Book_name": "The Common People of Ancient Rome",
+    "Book_Link": "https://www.ebooks.com/en-in/book/946561/the-common-people-of-ancient-rome/frank-frost-abbott/",
+    "Price": "US$2.99",
+    "Image": "https://image.ebooks.com/previews/000/000946/000946561/000946561-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2012",
+    "Author": "Frank Frost Abbott",
+    "Author_Data": "https://www.ebooks.com/en-in/author/frank-frost-abbott/151877/",
+    "Publisher": "Andrews UK"
+  },
+  {
+    "Book_name": "101 Amazing Facts about Australia",
+    "Book_Link": "https://www.ebooks.com/en-in/book/1220767/101-amazing-facts-about-australia/jack-goldstein/",
+    "Price": "US$2.99",
+    "Image": "https://image.ebooks.com/previews/001/001220/001220767/001220767-sml-1.jpg",
+    "Subtitle": "None",
+    "Publication_Year": "2013",
+    "Author": "Jack Goldstein",
+    "Author_Data": "https://www.ebooks.com/en-in/author/jack-goldstein/431997/",
+    "Publisher": "Andrews UK"
+  }
+]
