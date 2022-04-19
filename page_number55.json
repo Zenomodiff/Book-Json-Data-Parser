@@ -1,0 +1,156 @@
+[
+  {
+    "Book_name": "Mastering PostgreSQL 13",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210169249/mastering-postgresql-13/hans-jurgen-schonig/",
+    "Price": "US$27.99",
+    "Image": "https://image.ebooks.com/previews/210/210169/210169249/210169249-sml-1.jpg",
+    "Subtitle": "Build, administer, and maintain database applications efficiently with PostgreSQL 13",
+    "Publication_Year": "2020",
+    "Author": "Hans-Jurgen Schonig",
+    "Author_Data": "https://www.ebooks.com/en-in/author/hans-jurgen-schonig/1340832/",
+    "Publisher": "Packt Publishing"
+  },
+  {
+    "Book_name": "React and React Native",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210012230/react-and-react-native/adam-boduch/",
+    "Price": "US$24.99",
+    "Image": "https://image.ebooks.com/previews/210/210012/210012230/210012230-sml-1.jpg",
+    "Subtitle": "A complete hands-on guide to modern web and mobile development with React.js",
+    "Publication_Year": "2020",
+    "Author": "Adam Boduch",
+    "Author_Data": "https://www.ebooks.com/en-in/author/adam-boduch/466229/",
+    "Publisher": "Packt Publishing"
+  },
+  {
+    "Book_name": "React and React Native",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210012230/react-and-react-native/adam-boduch/",
+    "Price": "US$24.99",
+    "Image": "https://image.ebooks.com/previews/210/210012/210012230/210012230-sml-1.jpg",
+    "Subtitle": "A complete hands-on guide to modern web and mobile development with React.js",
+    "Publication_Year": "2020",
+    "Author": "Roy Derks",
+    "Author_Data": "https://www.ebooks.com/en-in/author/roy-derks/208354633/",
+    "Publisher": "Packt Publishing"
+  },
+  {
+    "Book_name": "Learn Quantum Computing with Python and IBM Quantum Experience",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210130577/learn-quantum-computing-with-python-and-ibm-quantum-experience/robert-loredo/",
+    "Price": "US$31.99",
+    "Image": "https://image.ebooks.com/previews/210/210130/210130577/210130577-sml-1.jpg",
+    "Subtitle": "A hands-on introduction to quantum computing and writing your own quantum programs with Python",
+    "Publication_Year": "2020",
+    "Author": "Robert Loredo",
+    "Author_Data": "https://www.ebooks.com/en-in/author/robert-loredo/208464186/",
+    "Publisher": "Packt Publishing"
+  },
+  {
+    "Book_name": "Python Machine Learning Cookbook",
+    "Book_Link": "https://www.ebooks.com/en-in/book/209653712/python-machine-learning-cookbook/giuseppe-ciaburro/",
+    "Price": "US$24.99",
+    "Image": "https://image.ebooks.com/previews/209/209653/209653712/209653712-sml-1.jpg",
+    "Subtitle": "Over 100 recipes to progress from smart data analytics to deep learning using real-world datasets",
+    "Publication_Year": "2019",
+    "Author": "Giuseppe Ciaburro",
+    "Author_Data": "https://www.ebooks.com/en-in/author/giuseppe-ciaburro/94179158/",
+    "Publisher": "Packt Publishing"
+  },
+  {
+    "Book_name": "Python Machine Learning Cookbook",
+    "Book_Link": "https://www.ebooks.com/en-in/book/209653712/python-machine-learning-cookbook/giuseppe-ciaburro/",
+    "Price": "US$24.99",
+    "Image": "https://image.ebooks.com/previews/209/209653/209653712/209653712-sml-1.jpg",
+    "Subtitle": "Over 100 recipes to progress from smart data analytics to deep learning using real-world datasets",
+    "Publication_Year": "2019",
+    "Author": "Prateek Joshi",
+    "Author_Data": "https://www.ebooks.com/en-in/author/prateek-joshi/1000807/",
+    "Publisher": "Packt Publishing"
+  },
+  {
+    "Book_name": "Hands-On Data Analysis with Pandas",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210280825/hands-on-data-analysis-with-pandas/stefanie-molin/",
+    "Price": "US$27.99",
+    "Image": "https://image.ebooks.com/previews/210/210280/210280825/210280825-sml-1.jpg",
+    "Subtitle": "A Python data science handbook for data collection, wrangling, analysis, and visualization",
+    "Publication_Year": "2021",
+    "Author": "Stefanie Molin",
+    "Author_Data": "https://www.ebooks.com/en-in/author/stefanie-molin/208266332/",
+    "Publisher": "Packt Publishing"
+  },
+  {
+    "Book_name": "Hands-On Data Analysis with Pandas",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210280825/hands-on-data-analysis-with-pandas/stefanie-molin/",
+    "Price": "US$27.99",
+    "Image": "https://image.ebooks.com/previews/210/210280/210280825/210280825-sml-1.jpg",
+    "Subtitle": "A Python data science handbook for data collection, wrangling, analysis, and visualization",
+    "Publication_Year": "2021",
+    "Author": "Ken Jee",
+    "Author_Data": "https://www.ebooks.com/en-in/author/ken-jee/208557415/",
+    "Publisher": "Packt Publishing"
+  },
+  {
+    "Book_name": "The Clojure Workshop",
+    "Book_Link": "https://www.ebooks.com/en-in/book/209937026/the-clojure-workshop/joseph-fahey/",
+    "Price": "US$27.99",
+    "Image": "https://image.ebooks.com/previews/209/209937/209937026/209937026-sml-1.jpg",
+    "Subtitle": "Use functional programming to build data-centric applications with Clojure and ClojureScript",
+    "Publication_Year": "2020",
+    "Author": "Joseph Fahey",
+    "Author_Data": "https://www.ebooks.com/en-in/author/joseph-fahey/94298848/",
+    "Publisher": "Packt Publishing"
+  },
+  {
+    "Book_name": "The Clojure Workshop",
+    "Book_Link": "https://www.ebooks.com/en-in/book/209937026/the-clojure-workshop/joseph-fahey/",
+    "Price": "US$27.99",
+    "Image": "https://image.ebooks.com/previews/209/209937/209937026/209937026-sml-1.jpg",
+    "Subtitle": "Use functional programming to build data-centric applications with Clojure and ClojureScript",
+    "Publication_Year": "2020",
+    "Author": "Thomas Haratyk",
+    "Author_Data": "https://www.ebooks.com/en-in/author/thomas-haratyk/208361549/",
+    "Publisher": "Packt Publishing"
+  },
+  {
+    "Book_name": "Learn Grafana 7.0",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210063015/learn-grafana-7-0/eric-salituro/",
+    "Price": "US$31.99",
+    "Image": "https://image.ebooks.com/previews/210/210063/210063015/210063015-sml-1.jpg",
+    "Subtitle": "A beginner's guide to getting well versed in analytics, interactive dashboards, and monitoring",
+    "Publication_Year": "2020",
+    "Author": "Eric Salituro",
+    "Author_Data": "https://www.ebooks.com/en-in/author/eric-salituro/208429271/",
+    "Publisher": "Packt Publishing"
+  },
+  {
+    "Book_name": "Mastering Docker",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210121905/mastering-docker/russ-mckendrick/",
+    "Price": "US$27.99",
+    "Image": "https://image.ebooks.com/previews/210/210121/210121905/210121905-sml-1.jpg",
+    "Subtitle": "Enhance your containerization and DevOps skills to deliver production-ready applications",
+    "Publication_Year": "2020",
+    "Author": "Russ McKendrick",
+    "Author_Data": "https://www.ebooks.com/en-in/author/russ-mckendrick/1197506/",
+    "Publisher": "Packt Publishing"
+  },
+  {
+    "Book_name": "Mastering Windows Server 2019",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210341947/mastering-windows-server-2019/jordan-krause/",
+    "Price": "US$34.99",
+    "Image": "https://image.ebooks.com/previews/210/210341/210341947/210341947-sml-1.jpg",
+    "Subtitle": "The complete guide for system administrators to install, manage, and deploy new capabilities with Windows Server 2019",
+    "Publication_Year": "2021",
+    "Author": "Jordan Krause",
+    "Author_Data": "https://www.ebooks.com/en-in/author/jordan-krause/694041/",
+    "Publisher": "Packt Publishing"
+  },
+  {
+    "Book_name": "Pro Angular 9",
+    "Book_Link": "https://www.ebooks.com/en-in/book/210047790/pro-angular-9/adam-freeman/",
+    "Price": "US$55.87",
+    "Image": "https://image.ebooks.com/previews/210/210047/210047790/210047790-sml-1.jpg",
+    "Subtitle": "Build Powerful and Dynamic Web Apps",
+    "Publication_Year": "2020",
+    "Author": "Adam Freeman",
+    "Author_Data": "https://www.ebooks.com/en-in/author/adam-freeman/182825/",
+    "Publisher": "Apress"
+  }
+]
